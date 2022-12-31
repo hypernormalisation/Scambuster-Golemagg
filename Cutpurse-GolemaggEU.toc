@@ -1,8 +1,8 @@
 ## Interface: 30400
-## Title: Cutpurse-TestList
-## Notes: Example extension addon for Cutpurse
+## Title: Cutpurse-GolemaggEU
+## Notes: Cutpurse list of scammers curated by the GolemaggEU discord.
 ## Author: Swedge
-## Version: "@project-version@"
+## Version: 1.0.0
 ## DefaultState: enabled
 ## Dependencies: Cutpurse
 ## OptDeps: LibStub
