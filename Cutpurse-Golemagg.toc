@@ -1,6 +1,6 @@
 ## Interface: 30400
-## Title: Cutpurse-GolemaggEU
-## Notes: Cutpurse list of scammers curated by the GolemaggEU discord.
+## Title: Cutpurse-Golemagg
+## Notes: Cutpurse list of scammers curated by the Golemagg discord.
 ## Author: Swedge
 ## Version: 1.0.0
 ## DefaultState: enabled
