@@ -13,5 +13,5 @@ local provider_table = {
 }
 
 -- Register the list with cutpurse.
-local CP = LibStub("AceAddon-3.0"):GetAddon("Cutpurse")
+local CP = LibStub("AceAddon-3.0"):GetAddon("Scambuster")
 CP:register_case_data(provider_table)
