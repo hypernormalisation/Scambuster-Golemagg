@@ -1,11 +1,10 @@
 ## Interface: 30400
-## Title: Cutpurse-Golemagg
-## Notes: Cutpurse list of scammers curated by the Golemagg discord.
+## Title: Scambuster-Golemagg
+## Notes: Extension for Scambuster packaging Golemagg realm data
 ## Author: Swedge
 ## Version: 1.0.0
 ## DefaultState: enabled
-## Dependencies: Cutpurse
-## OptDeps: LibStub
+## Dependencies: Scambuster
 ## X-Curse-Project-ID: 809313
 
 LibStub.lua

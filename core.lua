@@ -3,15 +3,15 @@
 --=========================================================================================
 local _, t = ...
 local provider_table = {
-    name = t.my_name,
+    name = t.my_list_name, -- list name
     provider = t.my_provider, -- organisation name
     description = t.my_description,
-    url = t.my_url,
+    url = t.my_url, -- organisation url
     realm_data = {
         [t.my_realm] = t.case_table
     }
 }
 
 -- Register the list with cutpurse.
-local CP = LibStub("AceAddon-3.0"):GetAddon("Scambuster")
-CP:register_case_data(provider_table)
+local SB = LibStub("AceAddon-3.0"):GetAddon("Scambuster")
+SB:register_case_data(provider_table)
