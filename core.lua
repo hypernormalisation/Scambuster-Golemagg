@@ -3,7 +3,6 @@
 --=========================================================================================
 local _, t = ...
 local provider_table = {
-    name = t.my_list_name, -- list name
     provider = t.my_provider, -- organisation name
     description = t.my_description,
     url = t.my_url, -- organisation url
