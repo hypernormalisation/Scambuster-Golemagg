@@ -1,5 +1,8 @@
 # Scambuster-Golemagg
-List of scammers and antisocial players on the Golemagg realm, curated by the Golemagg Discord, for use in the Scambuster addon framework.
 
-For more information, see the Player Reports Hub section of our discord at:
-https://discord.gg/golemagg
+Extension addon for Scambuster, provided by Golemagg Discord:
+- https://discord.gg/golemagg
+
+Requires Scambuster to work:
+- https://www.curseforge.com/wow/addons/scambuster
+- https://github.com/hypernormalisation/Scambuster
