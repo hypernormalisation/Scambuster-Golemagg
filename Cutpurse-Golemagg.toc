@@ -6,6 +6,7 @@
 ## DefaultState: enabled
 ## Dependencies: Cutpurse
 ## OptDeps: LibStub
+## X-Curse-Project-ID: 809313
 
 LibStub.lua
 settings.lua
