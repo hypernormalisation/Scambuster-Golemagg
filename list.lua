@@ -803,14 +803,6 @@ t.case_table = {
 		description = "Ninja'd [Helm of the Lost Protector] after masterloot guildie traded it in a MS > OS run instead of the roll winner.",
 		url = "https://discord.com/channels/610036506974748700/1032775037310222387",
 	},
-	[84] = {
-		guild = "Sons of Hey",
-		faction = "Horde",
-		level = 4,
-		category = "raid",
-		description = "A guild known for setting up MS > OS pug raids only to assign all loot to themselves.",
-		url = "https://discord.com/channels/610036506974748700/1032385015205597254",
-	},
 	[85] = {
 		name = "Missbiceps",
 		guid = "Player-4465-02E2854F",
