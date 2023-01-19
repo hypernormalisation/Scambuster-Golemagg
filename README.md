@@ -1,7 +1,7 @@
 # Scambuster-Golemagg
 <img src="https://user-images.githubusercontent.com/52763122/212459976-355a11cb-6a9f-40fa-bb5c-06c7da505a75.png" width="200" height="200">
 
-Extension addon for Scambuster, provided by Golemagg Discord:
+Extension addon for Scambuster, packaging information on scammers and scam histories into [Scambuster](https://github.com/hypernormalisation/Scambuster), to protect players in-game. provided by Golemagg Discord:
 - https://discord.gg/golemagg
 
 ![Golemagg_Banner](https://user-images.githubusercontent.com/52763122/212466261-6ec683c1-33a3-4d73-a127-565c020b0b96.gif)
