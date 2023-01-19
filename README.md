@@ -9,6 +9,8 @@ Extension addon for Scambuster, provided by Golemagg Discord:
 Available on Curseforge:
 - https://www.curseforge.com/wow/addons/scambuster-golemagg
 
+## Getting Started
+
 This addon packages realm data on scammers to be used with the [Scambuster](https://github.com/hypernormalisation/Scambuster) addon framework.
 As such, it requires Scambuster to work:
 
