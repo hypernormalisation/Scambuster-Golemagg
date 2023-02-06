@@ -81,7 +81,7 @@ t.case_table = {
 	},
 	[7] = {
 		category = "raid",
-		level = 4,
+		level = 3,
 		description = "screenshots, looted boss and left raid without distributing. Multiple previous reports.",
 		url = "https://discord.com/channels/610036506974748700/1042062357087653908",
 		players = {
