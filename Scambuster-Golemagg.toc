@@ -2,7 +2,7 @@
 ## Title: Scambuster-Golemagg
 ## Notes: Extension for Scambuster packaging Golemagg realm data
 ## Author: Swedge
-## Version: 1.0.0
+## Version: "@project-version@"
 ## DefaultState: enabled
 ## Dependencies: Scambuster
 ## X-Curse-Project-ID: 809313
