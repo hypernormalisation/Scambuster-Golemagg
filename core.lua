@@ -12,6 +12,6 @@ local provider_table = {
     }
 }
 
--- Register the list with cutpurse.
+-- Register the list with Scambuster.
 local SB = LibStub("AceAddon-3.0"):GetAddon("Scambuster")
 SB:register_case_data(provider_table)
