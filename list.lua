@@ -6,6 +6,16 @@ t.version = "@project-version@"
 
 t.case_table = {
 	[0] = {
+		name = "Xbu",
+		class = "ROGUE",
+		guid = "Player-4465-0420203F",
+		faction = "Horde",
+		category = "harassment",
+		level = 2,
+		description = "Reacted with cancer insults instantly after being declined for a party.",
+		url = "https://discord.com/channels/610036506974748700/1088596866586923069",
+	},
+	[1] = {
 		name = "Roguetemp",
 		class = "ROGUE",
 		guid = "Player-4465-04285E60",
@@ -15,7 +25,7 @@ t.case_table = {
 		description = "Kicked players out of the daily HC+ lockout and stayed blocking anyone from completing the ID.",
 		url = "https://discord.com/channels/610036506974748700/1087169842869710970",
 	},
-	[1] = {
+	[2] = {
 		name = "Valkyrîa",
 		class = "PALADIN",
 		guid = "Player-4465-04285FEF",
@@ -24,16 +34,6 @@ t.case_table = {
 		level = 2,
 		description = "Kicked players from the party griefing their daily HC+ lockout and stayed in the ID preventing anyone to finish it.",
 		url = "https://discord.com/channels/610036506974748700/1087169842869710970",
-	},
-	[2] = {
-		name = "Xeff",
-		class = "WARLOCK",
-		guid = "Player-4465-02F329D0",
-		faction = "Horde",
-		category = "raid",
-		level = 3,
-		description = "As RL helped loot pooling tier legs by giving them to a player that already had them and refused to solve the situation afterwards.",
-		url = "https://discord.com/channels/610036506974748700/1086294791467319466",
 	},
 	[3] = {
 		name = "Haleeb",
@@ -780,17 +780,17 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1069049520182276178",
 		players = {
 			[0] = {
+				name = "Casmaron",
+				class = "PRIEST",
+				guid = "Player-4465-02FF15AF",
+				faction = "Horde",
+			},
+			[1] = {
 				name = "Canturo",
 				class = "SHAMAN",
 				guid = "Player-4465-02FF151D",
 				faction = "Horde",
 				aliases = {"Canturano"},
-			},
-			[1] = {
-				name = "Casmaron",
-				class = "PRIEST",
-				guid = "Player-4465-02FF15AF",
-				faction = "Horde",
 			}
 		}
 	},
@@ -3036,9 +3036,9 @@ t.case_table = {
 		class = "WARRIOR",
 		guid = "Player-4465-02EC33D0",
 		faction = "Horde",
-		category = "trade",
+		category = "gdkp",
 		level = 4,
-		description = "Multiple reports for similar offense, deathroll scammed someone out of 1k gold on this occasion.",
+		description = "Winning bid on bow from Zul'Aman but did not pay up. Known to also deathroll scam players.",
 		url = "https://discord.com/channels/610036506974748700/1020076376100974663",
 	},
 	[318] = {
@@ -3046,9 +3046,9 @@ t.case_table = {
 		class = "WARRIOR",
 		guid = "Player-4465-02EC33D0",
 		faction = "Horde",
-		category = "gdkp",
+		category = "trade",
 		level = 4,
-		description = "Winning bid on bow from Zul'Aman but did not pay up. Known to also deathroll scam players.",
+		description = "Multiple reports for similar offense, deathroll scammed someone out of 1k gold on this occasion.",
 		url = "https://discord.com/channels/610036506974748700/1020076376100974663",
 	}
 }
