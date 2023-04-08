@@ -89,25 +89,25 @@ t.case_table = {
 	[8] = {
 		category = "harassment",
 		level = 3,
-		description = "Griefs raids constantly, AFKs and reports if he doesn't get his way. Has threatened with stealing a GDKP pot, join at your own risk.",
+		description = "Harassment, GDKP pot mishandling, severe AFK grief and reporting people to get his way. Doesn't show pot in Gargul. Join at your own risk.",
 		url = "https://discord.com/channels/610036506974748700/1091684397398364210",
 		players = {
 			[0] = {
+				name = "Tankerina",
+				class = "DEATHKNIGHT",
+				guid = "Player-4465-04151EC1",
+				faction = "Horde",
+			},
+			[1] = {
 				name = "Nessunaa",
 				class = "MAGE",
 				guid = "Player-4465-04165CAC",
 				faction = "Horde",
 			},
-			[1] = {
+			[2] = {
 				name = "Fàtal",
 				class = "PRIEST",
 				guid = "Player-4465-040CC9B9",
-				faction = "Horde",
-			},
-			[2] = {
-				name = "Tankerina",
-				class = "DEATHKNIGHT",
-				guid = "Player-4465-04151EC1",
 				faction = "Horde",
 			}
 		}
