@@ -124,22 +124,22 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1097300550460129340",
 		players = {
 			[1] = {
+				name = "Tankerina",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
+				guid = "Player-4465-04151EC1",
+			},
+			[2] = {
 				name = "Fàtal",
 				class = "PRIEST",
 				faction = "Horde",
 				guid = "Player-4465-040CC9B9",
 			},
-			[2] = {
+			[3] = {
 				name = "Nessunaa",
 				class = "MAGE",
 				faction = "Horde",
 				guid = "Player-4465-04165CAC",
-			},
-			[3] = {
-				name = "Tankerina",
-				class = "DEATHKNIGHT",
-				faction = "Horde",
-				guid = "Player-4465-04151EC1",
 			},
 		},
 	},
@@ -353,16 +353,16 @@ t.case_table = {
 				guid = "Player-4465-04151EC1",
 			},
 			[2] = {
-				name = "Fàtal",
-				class = "PRIEST",
-				faction = "Horde",
-				guid = "Player-4465-040CC9B9",
-			},
-			[3] = {
 				name = "Nessunaa",
 				class = "MAGE",
 				faction = "Horde",
 				guid = "Player-4465-04165CAC",
+			},
+			[3] = {
+				name = "Fàtal",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-040CC9B9",
 			},
 		},
 	},
@@ -526,16 +526,16 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1087169842869710970",
 		players = {
 			[1] = {
-				name = "Roguetemp",
-				class = "ROGUE",
-				faction = "Horde",
-				guid = "Player-4465-04285E60",
-			},
-			[2] = {
 				name = "Sountemp",
 				class = "PALADIN",
 				faction = "Horde",
 				guid = "Player-4465-04285C90",
+			},
+			[2] = {
+				name = "Roguetemp",
+				class = "ROGUE",
+				faction = "Horde",
+				guid = "Player-4465-04285E60",
 			},
 		},
 	},
@@ -881,16 +881,16 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1080521126914048031",
 		players = {
 			[1] = {
-				name = "Hesoka",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-0421CFC3",
-			},
-			[2] = {
 				name = "Daener",
 				class = "WARRIOR",
 				faction = "Horde",
 				guid = "Player-4465-0426CDBD",
+			},
+			[2] = {
+				name = "Hesoka",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-0421CFC3",
 			},
 		},
 	},
@@ -1503,16 +1503,16 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1067006179760418827",
 		players = {
 			[1] = {
-				name = "Synce",
-				class = "ROGUE",
-				faction = "Horde",
-				guid = "Player-4465-02FA46D0",
-			},
-			[2] = {
 				name = "Drsynce",
 				class = "PRIEST",
 				faction = "Horde",
 				guid = "Player-4465-030E06D1",
+			},
+			[2] = {
+				name = "Synce",
+				class = "ROGUE",
+				faction = "Horde",
+				guid = "Player-4465-02FA46D0",
 			},
 		},
 	},
@@ -2255,16 +2255,16 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1058184193294729226",
 		players = {
 			[1] = {
-				name = "Cybermagee",
-				class = "MAGE",
-				faction = "Horde",
-				guid = "Player-4465-008018E1",
-			},
-			[2] = {
 				name = "Xybeer",
 				class = "DEATHKNIGHT",
 				faction = "Horde",
 				guid = "Player-4465-0369E4B4",
+			},
+			[2] = {
+				name = "Cybermagee",
+				class = "MAGE",
+				faction = "Horde",
+				guid = "Player-4465-008018E1",
 			},
 		},
 	},
@@ -2987,19 +2987,40 @@ t.case_table = {
 		level = 3,
 		description = "Gave an [Lost Jewel] ring to a healer instead of the winner of the roll in MS > OS.",
 		url = "https://discord.com/channels/610036506974748700/1030928601199169577",
-		name = "Nramali",
-		faction = "Horde",
-		guid = "Player-4465-030339C5",
+		players = {
+			[1] = {
+				name = "Zalmarin",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-0303E200",
+			},
+			[2] = {
+				name = "Nramali",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-030339C5",
+			},
+		},
 	},
 	[287] = {
 		category = "raid",
 		level = 3,
 		description = "Didn't hand over [Dawnwalker] boots to a hunter who won the roll because 'they are leather'.",
 		url = "https://discord.com/channels/610036506974748700/1030923876424761385",
-		name = "Zalmarin",
-		class = "PALADIN",
-		faction = "Horde",
-		guid = "Player-4465-0303E200",
+		players = {
+			[1] = {
+				name = "Zalmarin",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-0303E200",
+			},
+			[2] = {
+				name = "Nramali",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-030339C5",
+			},
+		},
 	},
 	[288] = {
 		category = "raid",
