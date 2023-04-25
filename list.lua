@@ -505,16 +505,16 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1091073066408345631",
 		players = {
 			[1] = {
-				name = "Mikellitoris",
-				class = "WARLOCK",
-				faction = "Horde",
-				guid = "Player-4465-03F47B1E",
-			},
-			[2] = {
 				name = "Mikofloso",
 				class = "PALADIN",
 				faction = "Horde",
 				guid = "Player-4465-041AAE4F",
+			},
+			[2] = {
+				name = "Mikellitoris",
+				class = "WARLOCK",
+				faction = "Horde",
+				guid = "Player-4465-03F47B1E",
 			},
 		},
 	},
@@ -624,7 +624,7 @@ t.case_table = {
 	[52] = {
 		category = "raid",
 		level = 3,
-		description = "Loot pooled Tier legs rolling for a friend when they had the tier legs already equipped. Legs appeared later in logs on the other player.",
+		description = "Ninja'd tier legs rolling for them as MS when they had MS ones already.",
 		url = "https://discord.com/channels/610036506974748700/1086294791467319466",
 		name = "Haleeb",
 		class = "DRUID",
