@@ -3,7 +3,7 @@
 
 [![GitHub All Releases](https://img.shields.io/github/downloads/Hypernormalisation/Scambuster-Golemagg/total?logo=github&style=for-the-badge)](https://github.com/Hypernormalisation/Scambuster-Golemagg/releases/latest)
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/hypernormalisation/Scambuster-Golemagg?style=for-the-badge)
-![Discord](https://img.shields.io/discord/610036506974748700?style=for-the-badge&logo=discord&logoColor=white&label=discord.gg%2Fgolemagg&link=https%3A%2F%2Fdiscord.gg%2Fgolemagg)
+![Discord](https://img.shields.io/discord/610036506974748700?style=for-the-badge&logo=discord&logoColor=white&label=discord.gg%2Fgolemagg&color=%23818dff&link=https%3A%2F%2Fdiscord.gg%2Fgolemagg)
 
 Extension addon provided by [discord.gg/golemagg](https://discord.gg/golemagg) for [Scambuster](https://github.com/hypernormalisation/Scambuster), packaging information\
 on scammers and scam histories into [Scambuster](https://github.com/hypernormalisation/Scambuster), to protect players in-game.
