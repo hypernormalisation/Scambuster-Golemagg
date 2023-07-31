@@ -1,9 +1,10 @@
 # Scambuster-Golemagg
 ![Golemagg_Banner](https://user-images.githubusercontent.com/52763122/212466261-6ec683c1-33a3-4d73-a127-565c020b0b96.gif)
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/Hypernormalisation/Scambuster-Golemagg/total?logo=github&color=%2350a261&style=for-the-badge)](https://github.com/Hypernormalisation/Scambuster-Golemagg/releases/latest)
-[![GitHub release (with filter)](https://img.shields.io/github/v/release/hypernormalisation/Scambuster-Golemagg?style=for-the-badge&color=%23818dff)](https://github.com/Hypernormalisation/Scambuster-Golemagg/releases/latest)
-[![Discord](https://img.shields.io/discord/610036506974748700?style=for-the-badge&logo=discord&logoColor=white&label=discord.gg%2Fgolemagg&color=%23818dff)](https://discord.gg/golemagg)
+[![GitHub All Releases](https://img.shields.io/github/downloads/Hypernormalisation/Scambuster-Golemagg/total?logo=github&color=%235ab76e&style=for-the-badge&label=)](https://github.com/Hypernormalisation/Scambuster-Golemagg/releases/latest)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/hypernormalisation/scambuster-golemagg?style=for-the-badge&color=%23818dff)
+[![GitHub release (with filter)](https://img.shields.io/github/v/release/hypernormalisation/Scambuster-Golemagg?label=latest&style=for-the-badge&color=%23818dff)](https://github.com/Hypernormalisation/Scambuster-Golemagg/releases/latest)
+[![Discord](https://img.shields.io/discord/610036506974748700?style=for-the-badge&logo=discord&logoColor=white&label=discord&color=%23818dff)](https://discord.gg/golemagg)
 ![GitHub](https://img.shields.io/github/license/hypernormalisation/scambuster-golemagg?style=for-the-badge&color=white)
 
 Extension addon provided by [discord.gg/golemagg](https://discord.gg/golemagg) for [Scambuster](https://github.com/hypernormalisation/Scambuster), packaging information\
