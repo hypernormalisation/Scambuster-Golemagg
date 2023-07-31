@@ -310,10 +310,13 @@ t.case_table = {
 		level = 2,
 		description = "[scambuster]: Left raid when they didn't want to kill Algalon before the other bosses, the raid fell apart after.",
 		url = "https://discord.com/channels/610036506974748700/1127723828995444837",
-		name = "Firepumpa",
+		name = "Firepump",
 		class = "MAGE",
 		faction = "Horde",
 		guid = "Player-4465-00A66C38",
+		aliases = {
+			"Firepumpa",
+		},
 	},
 	[25] = {
 		category = "raid",
