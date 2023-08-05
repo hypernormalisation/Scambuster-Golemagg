@@ -44,52 +44,52 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
 		players = {
 			[1] = {
-				name = "Mõltentank",
-				class = "DEATHKNIGHT",
-				faction = "Horde",
-				guid = "Player-4465-037668B8",
-			},
-			[2] = {
 				name = "Moltenhunt",
 				class = "HUNTER",
 				faction = "Horde",
 				guid = "Player-4465-02EB4C2E",
 			},
+			[2] = {
+				name = "Mõltentank",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
+				guid = "Player-4465-037668B8",
+			},
 			[3] = {
-				name = "Moltenboom",
-				class = "DRUID",
-				faction = "Horde",
-				guid = "Player-4465-02E969E0",
-			},
-			[4] = {
-				name = "Sylvanâys",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-03E6F146",
-			},
-			[5] = {
 				name = "Moltenrogue",
 				class = "ROGUE",
 				faction = "Horde",
 				guid = "Player-4465-02FB4B5F",
 			},
-			[6] = {
+			[4] = {
 				name = "Moltentank",
 				class = "PALADIN",
 				faction = "Horde",
 				guid = "Player-4465-02613166",
 			},
-			[7] = {
+			[5] = {
 				name = "Moltenknight",
 				class = "DEATHKNIGHT",
 				faction = "Horde",
 				guid = "Player-4465-036A7394",
 			},
-			[8] = {
+			[6] = {
 				name = "Firefly",
 				class = "PALADIN",
 				faction = "Horde",
 				guid = "Player-4465-026176B9",
+			},
+			[7] = {
+				name = "Moltenboom",
+				class = "DRUID",
+				faction = "Horde",
+				guid = "Player-4465-02E969E0",
+			},
+			[8] = {
+				name = "Sylvanâys",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-03E6F146",
 			},
 		},
 	},
@@ -100,28 +100,28 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
 		players = {
 			[1] = {
-				name = "Monikà",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-0261ECF3",
-			},
-			[2] = {
-				name = "Höpé",
-				class = "PRIEST",
-				faction = "Horde",
-				guid = "Player-4465-02FB7B24",
-			},
-			[3] = {
 				name = "Holyshild",
 				class = "PRIEST",
 				faction = "Horde",
 				guid = "Player-4465-02E969C8",
 			},
-			[4] = {
+			[2] = {
+				name = "Monikà",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-0261ECF3",
+			},
+			[3] = {
 				name = "Paradisê",
 				class = "DEATHKNIGHT",
 				faction = "Horde",
 				guid = "Player-4465-036C6C73",
+			},
+			[4] = {
+				name = "Höpé",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-02FB7B24",
 			},
 		},
 	},
@@ -189,10 +189,20 @@ t.case_table = {
 		level = 3,
 		description = "[scambuster]: Insulted the raid from the start, getting annoyed at pally power, then continuing for every minor annoyance creating a toxic ambient.",
 		url = "https://discord.com/channels/610036506974748700/1133768983003279440",
-		name = "Whitegùrù",
-		class = "PALADIN",
-		faction = "Horde",
-		guid = "Player-4465-03904DBD",
+		players = {
+			[1] = {
+				name = "Rezerection",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-0303046C",
+			},
+			[2] = {
+				name = "Whitegùrù",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-03904DBD",
+			},
+		},
 	},
 	[11] = {
 		category = "raid",
@@ -4165,9 +4175,13 @@ t.case_table = {
 		level = 3,
 		description = "[scambuster]: Given [Loatheb's Shadow] as a restoration shaman by friend who organised a MS > OS run instead of the MS highest roller.",
 		url = "https://discord.com/channels/610036506974748700/1057392012833329182",
-		name = "Scyllo",
+		name = "Sivyis",
+		class = "SHAMAN",
 		faction = "Horde",
 		guid = "Player-4465-0042DECD",
+		aliases = {
+			"Scyllo",
+		},
 	},
 	[321] = {
 		category = "raid",
