@@ -17,10 +17,10 @@ We use the scambuster addon framework to package our list of known anti-social p
 2. Go to the **Get Addons** tab
 3. Click on the **Install from URL** button
 4. **Copy & Paste** both addons github urls:
-```
+```python
 https://github.com/hypernormalisation/Scambuster
 ```
-```
+```python
 https://github.com/hypernormalisation/Scambuster-Golemagg
 ```
 6. Go to the **My Addons** tab and set both to **Auto Update**
