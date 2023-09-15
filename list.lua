@@ -10,6 +10,16 @@ t.case_table = {
 	[1] = {
 		category = "raid",
 		level = 2,
+		description = "[scambuster]: Left raid mid boss out of being angry at a mistake, the raid wiped due to him leaving.",
+		url = "https://discord.com/channels/610036506974748700/1150497797427187843",
+		name = "Jeffbaszos",
+		class = "DEATHKNIGHT",
+		faction = "Horde",
+		guid = "Player-4465-0379402A",
+	},
+	[2] = {
+		category = "raid",
+		level = 2,
 		description = "[scambuster]: Constantly leaves raids after SR doesn't drop or AFKs mid boss.",
 		url = "https://discord.com/channels/610036506974748700/1149419476383694870",
 		name = "Sharlo",
@@ -17,23 +27,23 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FA3CF3",
 	},
-	[2] = {
+	[3] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Didn't give SR item to the winner of the roll and rerolled. Doubled down in the report and admitted having done it many more times before.",
 		url = "https://discord.com/channels/610036506974748700/1150165578527559730",
 		players = {
 			[1] = {
-				name = "Adrasteiia",
-				class = "PRIEST",
-				faction = "Horde",
-				guid = "Player-4465-043C9E0A",
-			},
-			[2] = {
 				name = "Dorysiella",
 				class = "WARLOCK",
 				faction = "Horde",
 				guid = "Player-4465-042190F8",
+			},
+			[2] = {
+				name = "Adrasteiia",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-043C9E0A",
 			},
 			[3] = {
 				name = "Dorys",
@@ -43,7 +53,7 @@ t.case_table = {
 			},
 		},
 	},
-	[3] = {
+	[4] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd mount in VoA without advertising it as HR neither rolling it.",
@@ -53,7 +63,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0372D5BE",
 	},
-	[4] = {
+	[5] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd an item out of spite for a player needing on an other item, despite winning it.",
@@ -63,7 +73,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04414BFE",
 	},
-	[5] = {
+	[6] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd an item that was wrongly given by the RL. The correct winner traded but he cancelled, equipped and didn't reply.",
@@ -73,7 +83,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03069DF1",
 	},
-	[6] = {
+	[7] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd trophies at the end of a TOGC run by rolling out less than what dropped, kicked a player who asked for them.",
@@ -83,7 +93,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-043D4A43",
 	},
-	[7] = {
+	[8] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd loot when RL forgot to put ML on, didn't give it back.",
@@ -93,45 +103,45 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-004CD5D9",
 	},
-	[8] = {
+	[9] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Doesn't roll trophies. Does loot in voice and a player was locked out of the voice room, didn't care. Join at your own risk.",
 		url = "https://discord.com/channels/610036506974748700/1141112510246830240",
 		players = {
 			[1] = {
-				name = "Patientfive",
-				class = "WARRIOR",
-				faction = "Horde",
-				guid = "Player-4465-0440CE6F",
-			},
-			[2] = {
-				name = "Patientfour",
-				class = "WARRIOR",
-				faction = "Horde",
-				guid = "Player-4465-0440CEBC",
-			},
-			[3] = {
-				name = "Patientthree",
-				class = "WARRIOR",
-				faction = "Horde",
-				guid = "Player-4465-0440CEC9",
-			},
-			[4] = {
-				name = "Patienttwo",
-				class = "WARRIOR",
-				faction = "Horde",
-				guid = "Player-4465-0440CED1",
-			},
-			[5] = {
 				name = "Patientone",
 				class = "WARRIOR",
 				faction = "Horde",
 				guid = "Player-4465-043F0F75",
 			},
+			[2] = {
+				name = "Patientfive",
+				class = "WARRIOR",
+				faction = "Horde",
+				guid = "Player-4465-0440CE6F",
+			},
+			[3] = {
+				name = "Patientfour",
+				class = "WARRIOR",
+				faction = "Horde",
+				guid = "Player-4465-0440CEBC",
+			},
+			[4] = {
+				name = "Patientthree",
+				class = "WARRIOR",
+				faction = "Horde",
+				guid = "Player-4465-0440CEC9",
+			},
+			[5] = {
+				name = "Patienttwo",
+				class = "WARRIOR",
+				faction = "Horde",
+				guid = "Player-4465-0440CED1",
+			},
 		},
 	},
-	[9] = {
+	[10] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Stole the entire pot of a GDKP. At least 5 other reports in Golemagg, more in other servers.",
@@ -144,7 +154,7 @@ t.case_table = {
 			"Shimisu",
 		},
 	},
-	[10] = {
+	[11] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd all the items at the end of a dungeon and there was an agreement in the party to give them to DE by other player.",
@@ -154,7 +164,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04042677",
 	},
-	[11] = {
+	[12] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Needed on every item at the end of a dungeon run, including what the class can't use.",
@@ -164,7 +174,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-043F4487",
 	},
-	[12] = {
+	[13] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Left raid after one wipe and insulted afterwards.",
@@ -174,7 +184,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-042F4595",
 	},
-	[13] = {
+	[14] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Left raid after one wipe and insulted afterwards.",
@@ -184,7 +194,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02E92A4A",
 	},
-	[14] = {
+	[15] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Started event in Trial of the Crusader to grief the raid and break the 50 attempts on purpose before leaving.",
@@ -193,7 +203,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0444D3A6",
 	},
-	[15] = {
+	[16] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Needed on items the class cannot use, doesn't seem to listen or care when party asks.",
@@ -203,7 +213,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0307CA4A",
 	},
-	[16] = {
+	[17] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Left raid right after losing the roll for an item.",
@@ -213,7 +223,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036A7DC3",
 	},
-	[17] = {
+	[18] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Stole entire GDKP pot, part of a series of scams",
@@ -226,7 +236,7 @@ t.case_table = {
 			"Shimisu",
 		},
 	},
-	[18] = {
+	[19] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd an item taking it directly without rolling. Lied in the report saying it was HR and was proven it wasn't.",
@@ -246,7 +256,7 @@ t.case_table = {
 			},
 		},
 	},
-	[19] = {
+	[20] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: RL forgot to change to masterlooter, Pabllo took advantage of it and needed on another player’s SR, won it and left the raid",
@@ -256,7 +266,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0439F7D6",
 	},
-	[20] = {
+	[21] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: MS>OS raid had that as clearly stated rules. Despite that he ninja'd an OS item the tank needed and ignored the raid when questioned",
@@ -266,7 +276,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036E4E60",
 	},
-	[21] = {
+	[22] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninjalooting an item his class can't equip then  holding it ransom for gold after he won it",
@@ -276,7 +286,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-024409F1",
 	},
-	[22] = {
+	[23] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Used item SRed by someone else instantly after being awarded wrongly by the RL, gave excuses when the SR was visible.",
@@ -326,7 +336,7 @@ t.case_table = {
 			},
 		},
 	},
-	[23] = {
+	[24] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Kicked several players mid boss to not share loot.",
@@ -336,7 +346,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0439A34A",
 	},
-	[24] = {
+	[25] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Left the raid mid run, changed SR to the closest boss and had another raid after already planned.",
@@ -362,7 +372,7 @@ t.case_table = {
 			},
 		},
 	},
-	[25] = {
+	[26] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Left raid after getting loot by a mistake of the RL and didn't give it back.",
@@ -372,7 +382,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-031769FF",
 	},
-	[26] = {
+	[27] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Got a trophy traded by mistake after losing the roll but still kept it and went offline.",
@@ -382,7 +392,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04233391",
 	},
-	[27] = {
+	[28] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Ganging up on a person with a guildie to verbally abuse them, including inciting suicide",
@@ -392,7 +402,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-037815AD",
 	},
-	[28] = {
+	[29] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Ganging up on a person with a guildie to verbally abuse them, including inciting suicide",
@@ -402,7 +412,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-037DC46D",
 	},
-	[29] = {
+	[30] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Rolled for a weapon that was a downgrade and asked for gold to the next roll, said would use but didn't use it.",
@@ -412,173 +422,173 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-01398C16",
 	},
-	[30] = {
+	[31] = {
 		category = "gdkp",
 		level = 2,
 		description = "[scambuster]: Scams with GBID ad, keeps the gold and gives a little amount to some performers but not the advertised split.",
 		url = "https://discord.com/channels/610036506974748700/1138164050119905311",
 		players = {
 			[1] = {
-				name = "Màdprophet",
-				class = "WARRIOR",
-				faction = "Horde",
-				guid = "Player-4465-03567AC2",
-			},
-			[2] = {
-				name = "Madprophet",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-02F9489E",
-			},
-			[3] = {
-				name = "Madproophet",
-				class = "SHAMAN",
-				faction = "Horde",
-				guid = "Player-4465-02F94BEA",
-			},
-			[4] = {
-				name = "Illidåri",
-				faction = "Horde",
-				guid = "Player-4465-04067FAB",
-			},
-			[5] = {
-				name = "Wråith",
-				class = "DRUID",
-				faction = "Horde",
-				guid = "Player-4465-03C6913B",
-			},
-			[6] = {
 				name = "Mostafamf",
 				class = "MAGE",
 				faction = "Horde",
 				guid = "Player-4465-02FA3AF9",
 			},
-		},
-	},
-	[31] = {
-		category = "gdkp",
-		level = 3,
-		description = "[scambuster]: Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
-		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
-		players = {
-			[1] = {
-				name = "Narkóza",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-0436CC44",
-			},
 			[2] = {
-				name = "Phmrtwo",
-				class = "PRIEST",
+				name = "Màdprophet",
+				class = "WARRIOR",
 				faction = "Horde",
-				guid = "Player-4465-02F41587",
+				guid = "Player-4465-03567AC2",
 			},
 			[3] = {
-				name = "Phmr",
-				class = "PRIEST",
+				name = "Madprophet",
+				class = "PALADIN",
 				faction = "Horde",
-				guid = "Player-4465-010B8787",
+				guid = "Player-4465-02F9489E",
 			},
 			[4] = {
-				name = "Phmrsham",
+				name = "Madproophet",
 				class = "SHAMAN",
 				faction = "Horde",
-				guid = "Player-4465-01C48059",
+				guid = "Player-4465-02F94BEA",
 			},
 			[5] = {
-				name = "Chemoterapia",
-				class = "PALADIN",
+				name = "Illidåri",
 				faction = "Horde",
-				guid = "Player-4465-02946C79",
+				guid = "Player-4465-04067FAB",
 			},
 			[6] = {
-				name = "Phmrthree",
-				class = "PRIEST",
+				name = "Wråith",
+				class = "DRUID",
 				faction = "Horde",
-				guid = "Player-4465-03E1BA65",
-			},
-			[7] = {
-				name = "Leukémia",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-03E64961",
-			},
-			[8] = {
-				name = "Cirhoza",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-042421E4",
-			},
-			[9] = {
-				name = "Chlamýdia",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-041BF137",
-			},
-			[10] = {
-				name = "Phmrp",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-025013C7",
-			},
-			[11] = {
-				name = "Anknownlolz",
-				faction = "Horde",
-				guid = "Player-4465-0271BEB8",
-			},
-			[12] = {
-				name = "Rakøvinka",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-02500184",
-			},
-			[13] = {
-				name = "Metacomp",
-				class = "DEATHKNIGHT",
-				faction = "Horde",
-				guid = "Player-4465-0375CD27",
+				guid = "Player-4465-03C6913B",
 			},
 		},
 	},
 	[32] = {
 		category = "gdkp",
 		level = 3,
-		description = "[scambuster]: GDKP: Cutbans and calls people a leech when they are not, not following his own rules. Deductions are pocketed by the org.",
-		url = "https://discord.com/channels/610036506974748700/1137425423815409765",
+		description = "[scambuster]: Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
+		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
 		players = {
 			[1] = {
-				name = "Chlamýdia",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-041BF137",
-			},
-			[2] = {
-				name = "Narkóza",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-0436CC44",
-			},
-			[3] = {
 				name = "Chemoterapia",
 				class = "PALADIN",
 				faction = "Horde",
 				guid = "Player-4465-02946C79",
 			},
-			[4] = {
+			[2] = {
+				name = "Phmrthree",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-03E1BA65",
+			},
+			[3] = {
 				name = "Leukémia",
 				class = "PALADIN",
 				faction = "Horde",
 				guid = "Player-4465-03E64961",
 			},
-			[5] = {
+			[4] = {
 				name = "Cirhoza",
 				class = "PALADIN",
 				faction = "Horde",
 				guid = "Player-4465-042421E4",
 			},
+			[5] = {
+				name = "Chlamýdia",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-041BF137",
+			},
+			[6] = {
+				name = "Narkóza",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-0436CC44",
+			},
+			[7] = {
+				name = "Phmrp",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-025013C7",
+			},
+			[8] = {
+				name = "Anknownlolz",
+				faction = "Horde",
+				guid = "Player-4465-0271BEB8",
+			},
+			[9] = {
+				name = "Rakøvinka",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-02500184",
+			},
+			[10] = {
+				name = "Phmrtwo",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-02F41587",
+			},
+			[11] = {
+				name = "Metacomp",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
+				guid = "Player-4465-0375CD27",
+			},
+			[12] = {
+				name = "Phmr",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-010B8787",
+			},
+			[13] = {
+				name = "Phmrsham",
+				class = "SHAMAN",
+				faction = "Horde",
+				guid = "Player-4465-01C48059",
+			},
 		},
 	},
 	[33] = {
+		category = "gdkp",
+		level = 3,
+		description = "[scambuster]: GDKP: Cutbans and calls people a leech when they are not, not following his own rules. Deductions are pocketed by the org.",
+		url = "https://discord.com/channels/610036506974748700/1137425423815409765",
+		players = {
+			[1] = {
+				name = "Chemoterapia",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-02946C79",
+			},
+			[2] = {
+				name = "Leukémia",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-03E64961",
+			},
+			[3] = {
+				name = "Cirhoza",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-042421E4",
+			},
+			[4] = {
+				name = "Chlamýdia",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-041BF137",
+			},
+			[5] = {
+				name = "Narkóza",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-0436CC44",
+			},
+		},
+	},
+	[34] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Was given [Death's Choice] being the second roll for it, was told it was not the winner and still kept the item and equipped.",
@@ -588,7 +598,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0400D84B",
 	},
-	[34] = {
+	[35] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Gave [Death's Choice] to second roll instead of the winner.",
@@ -611,7 +621,7 @@ t.case_table = {
 			},
 		},
 	},
-	[35] = {
+	[36] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Threatens to report anyone for not joining his raids, has done it several times. Made fake reports in discord as well.",
@@ -621,7 +631,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-037C21DF",
 	},
-	[36] = {
+	[37] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Benefitted from RL giving him an item he didn't win, didn't trade it back to the winner",
@@ -631,7 +641,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02A835E1",
 	},
-	[37] = {
+	[38] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Ignored the higest roller on an item in VoA and gave it to someone else",
@@ -641,7 +651,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02E30A02",
 	},
-	[38] = {
+	[39] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Was part of denying a legitimate winner loot by enacting a Loot Coubcil in a PUG",
@@ -651,7 +661,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-037815AD",
 	},
-	[39] = {
+	[40] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Kicked a player from the raid mid boss and got him saved for no reason, no explanations when asked in whispers.",
@@ -661,7 +671,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0439A34A",
 	},
-	[40] = {
+	[41] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Unfairly cutbanned players having no rules for it, doubled down in the report.",
@@ -671,62 +681,6 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0328EE18",
 	},
-	[41] = {
-		category = "gdkp",
-		level = 3,
-		description = "[scambuster]: GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
-		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
-		players = {
-			[1] = {
-				name = "Moltenboom",
-				class = "DRUID",
-				faction = "Horde",
-				guid = "Player-4465-02E969E0",
-			},
-			[2] = {
-				name = "Sylvanâys",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-03E6F146",
-			},
-			[3] = {
-				name = "Mõltentank",
-				class = "DEATHKNIGHT",
-				faction = "Horde",
-				guid = "Player-4465-037668B8",
-			},
-			[4] = {
-				name = "Moltenhunt",
-				class = "HUNTER",
-				faction = "Horde",
-				guid = "Player-4465-02EB4C2E",
-			},
-			[5] = {
-				name = "Moltenrogue",
-				class = "ROGUE",
-				faction = "Horde",
-				guid = "Player-4465-02FB4B5F",
-			},
-			[6] = {
-				name = "Moltentank",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-02613166",
-			},
-			[7] = {
-				name = "Moltenknight",
-				class = "DEATHKNIGHT",
-				faction = "Horde",
-				guid = "Player-4465-036A7394",
-			},
-			[8] = {
-				name = "Firefly",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-026176B9",
-			},
-		},
-	},
 	[42] = {
 		category = "gdkp",
 		level = 3,
@@ -734,50 +688,106 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
 		players = {
 			[1] = {
-				name = "Monikà",
+				name = "Moltentank",
 				class = "PALADIN",
 				faction = "Horde",
-				guid = "Player-4465-0261ECF3",
+				guid = "Player-4465-02613166",
 			},
 			[2] = {
-				name = "Monikå",
+				name = "Firefly",
 				class = "PALADIN",
 				faction = "Horde",
-				guid = "Player-4465-04149965",
+				guid = "Player-4465-026176B9",
 			},
 			[3] = {
-				name = "Monikæ",
-				class = "MAGE",
-				faction = "Horde",
-				guid = "Player-4465-04399595",
-			},
-			[4] = {
-				name = "Holyshild",
-				class = "PRIEST",
-				faction = "Horde",
-				guid = "Player-4465-02E969C8",
-			},
-			[5] = {
-				name = "Paradisê",
+				name = "Moltenknight",
 				class = "DEATHKNIGHT",
 				faction = "Horde",
-				guid = "Player-4465-036C6C73",
+				guid = "Player-4465-036A7394",
+			},
+			[4] = {
+				name = "Moltenboom",
+				class = "DRUID",
+				faction = "Horde",
+				guid = "Player-4465-02E969E0",
+			},
+			[5] = {
+				name = "Sylvanâys",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-03E6F146",
 			},
 			[6] = {
+				name = "Mõltentank",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
+				guid = "Player-4465-037668B8",
+			},
+			[7] = {
+				name = "Moltenhunt",
+				class = "HUNTER",
+				faction = "Horde",
+				guid = "Player-4465-02EB4C2E",
+			},
+			[8] = {
+				name = "Moltenrogue",
+				class = "ROGUE",
+				faction = "Horde",
+				guid = "Player-4465-02FB4B5F",
+			},
+		},
+	},
+	[43] = {
+		category = "gdkp",
+		level = 3,
+		description = "[scambuster]: GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
+		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
+		players = {
+			[1] = {
 				name = "Höpé",
 				class = "PRIEST",
 				faction = "Horde",
 				guid = "Player-4465-02FB7B24",
 			},
-			[7] = {
+			[2] = {
+				name = "Monikà",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-0261ECF3",
+			},
+			[3] = {
 				name = "Monikã",
 				class = "DEATHKNIGHT",
 				faction = "Horde",
 				guid = "Player-4465-04169C7D",
 			},
+			[4] = {
+				name = "Paradisê",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
+				guid = "Player-4465-036C6C73",
+			},
+			[5] = {
+				name = "Holyshild",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-02E969C8",
+			},
+			[6] = {
+				name = "Monikæ",
+				class = "MAGE",
+				faction = "Horde",
+				guid = "Player-4465-04399595",
+			},
+			[7] = {
+				name = "Monikå",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-04149965",
+			},
 		},
 	},
-	[43] = {
+	[44] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Death's Choice] with his RL friend Jonjack when losing the roll, disconnected and gave excuses. Didn't give item back.",
@@ -790,7 +800,7 @@ t.case_table = {
 			"Talixx",
 		},
 	},
-	[44] = {
+	[45] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Death's Choice] disconnecting without awarding it to the winner, gave excuses when asked. Item wasn't returned.",
@@ -806,15 +816,6 @@ t.case_table = {
 				},
 			},
 			[2] = {
-				name = "Jonjåck",
-				class = "PRIEST",
-				faction = "Horde",
-				guid = "Player-4465-03EC1767",
-				aliases = {
-					"Selindelol",
-				},
-			},
-			[3] = {
 				name = "Jonjack",
 				class = "SHAMAN",
 				faction = "Horde",
@@ -823,9 +824,18 @@ t.case_table = {
 					"Vce",
 				},
 			},
+			[3] = {
+				name = "Jonjåck",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-03EC1767",
+				aliases = {
+					"Selindelol",
+				},
+			},
 		},
 	},
-	[45] = {
+	[46] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Tookan item when RL forgot to enable ML. Even with a reason to leave quickly his attitude shows no consideration for others",
@@ -835,7 +845,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0405F7BC",
 	},
-	[46] = {
+	[47] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Insults with slurs and incites suicide randomly to people.",
@@ -845,7 +855,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02BCDB01",
 	},
-	[47] = {
+	[48] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Insulted the raid from the start, getting annoyed at pally power, then continuing for every minor annoyance creating a toxic ambient.",
@@ -865,7 +875,7 @@ t.case_table = {
 			},
 		},
 	},
-	[48] = {
+	[49] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd VoA mount after rolling it, losing the roll and awarding it to self while claiming there was a bug. Didn't trade it either.",
@@ -875,19 +885,13 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02C0A074",
 	},
-	[49] = {
+	[50] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Stole an entire GDKP pot and disconnected. Part of a gold selling scam group.",
 		url = "https://discord.com/channels/610036506974748700/1133502729428414565",
 		players = {
 			[1] = {
-				name = "Materiani",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-043FC635",
-			},
-			[2] = {
 				name = "Tilaxe",
 				class = "HUNTER",
 				faction = "Horde",
@@ -896,9 +900,15 @@ t.case_table = {
 					"Shimisu",
 				},
 			},
+			[2] = {
+				name = "Materiani",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-043FC635",
+			},
 		},
 	},
-	[50] = {
+	[51] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Ninja'd an item that wasn't SRed and didn't roll it while the raid asked for it.",
@@ -908,7 +918,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-041F9848",
 	},
-	[51] = {
+	[52] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Stole entire GDKP pot and logged off, deleting the character.",
@@ -931,7 +941,7 @@ t.case_table = {
 			},
 		},
 	},
-	[52] = {
+	[53] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd a Trophy when leader forgot to put ML on, refused to give it back and asked for 5k to give it back.",
@@ -945,7 +955,7 @@ t.case_table = {
 			"Hoppkinss",
 		},
 	},
-	[53] = {
+	[54] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd an item when leader forgot to put ML and refused to give it back.",
@@ -955,7 +965,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F9640C",
 	},
-	[54] = {
+	[55] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needed everything at the end of the dungeon including items the class can't use and left.",
@@ -965,7 +975,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036D5F64",
 	},
-	[55] = {
+	[56] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd all items at the end of the dungeon for DE and left.",
@@ -975,33 +985,33 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-042119A5",
 	},
-	[56] = {
+	[57] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Stole the whole 200k pot from a GDKP and disconnected. Threatened to do it right before in discord.",
 		url = "https://discord.com/channels/610036506974748700/1132000959367741512",
 		players = {
 			[1] = {
-				name = "Rikaya",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-03889E32",
-			},
-			[2] = {
-				name = "Megabear",
-				class = "DRUID",
-				faction = "Horde",
-				guid = "Player-4465-02FB6DD6",
-			},
-			[3] = {
 				name = "Jikø",
 				class = "PRIEST",
 				faction = "Horde",
 				guid = "Player-4465-037C83E3",
 			},
+			[2] = {
+				name = "Rikaya",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-03889E32",
+			},
+			[3] = {
+				name = "Megabear",
+				class = "DRUID",
+				faction = "Horde",
+				guid = "Player-4465-02FB6DD6",
+			},
 		},
 	},
-	[57] = {
+	[58] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Stole the pot of a GDKP and left the raid without paying anyone.",
@@ -1024,7 +1034,7 @@ t.case_table = {
 			},
 		},
 	},
-	[58] = {
+	[59] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja SR'd item without having SR on it after mass disbanding the raid",
@@ -1037,22 +1047,13 @@ t.case_table = {
 			"Talixx",
 		},
 	},
-	[59] = {
+	[60] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja SR'd item for a friend without rolling it after mass disbanding the raid",
 		url = "https://discord.com/channels/610036506974748700/1131330263079714838",
 		players = {
 			[1] = {
-				name = "Jonjack",
-				class = "SHAMAN",
-				faction = "Horde",
-				guid = "Player-4465-04163896",
-				aliases = {
-					"Vce",
-				},
-			},
-			[2] = {
 				name = "Jønjack",
 				class = "DEATHKNIGHT",
 				faction = "Horde",
@@ -1061,7 +1062,7 @@ t.case_table = {
 					"Decimatorc",
 				},
 			},
-			[3] = {
+			[2] = {
 				name = "Jonjåck",
 				class = "PRIEST",
 				faction = "Horde",
@@ -1070,9 +1071,18 @@ t.case_table = {
 					"Selindelol",
 				},
 			},
+			[3] = {
+				name = "Jonjack",
+				class = "SHAMAN",
+				faction = "Horde",
+				guid = "Player-4465-04163896",
+				aliases = {
+					"Vce",
+				},
+			},
 		},
 	},
-	[60] = {
+	[61] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Threatened a player and forced them to trade an item when they lost the roll, used the discord report system to get their way.",
@@ -1082,7 +1092,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0305988C",
 	},
-	[61] = {
+	[62] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Ran away with the pot of a GDKP and deleted the character right after.",
@@ -1105,7 +1115,7 @@ t.case_table = {
 			},
 		},
 	},
-	[62] = {
+	[63] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd an item when Rl gave it without rolling on a mistake and player refused to give it back, mocked the person asking.",
@@ -1115,7 +1125,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036D13BB",
 	},
-	[63] = {
+	[64] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd several items and DCed from the raid, advertised as trying HM and called for no HM without trying.",
@@ -1125,7 +1135,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FA5BD8",
 	},
-	[64] = {
+	[65] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Leaving raid after their SR didn't drop.",
@@ -1137,47 +1147,47 @@ t.case_table = {
 				guid = "Player-4465-02F9A93A",
 			},
 			[2] = {
-				name = "Tungstten",
-				faction = "Horde",
-				guid = "Player-4465-03BC402C",
-			},
-			[3] = {
 				name = "Thoridib",
 				class = "HUNTER",
 				faction = "Horde",
 				guid = "Player-4465-042ACF5D",
 			},
-			[4] = {
+			[3] = {
 				name = "Bloodchain",
 				class = "SHAMAN",
 				faction = "Horde",
 				guid = "Player-4465-02F94BDF",
 			},
-			[5] = {
+			[4] = {
 				name = "Adiber",
 				class = "PALADIN",
 				faction = "Horde",
 				guid = "Player-4465-043072A8",
 			},
-			[6] = {
+			[5] = {
 				name = "Evilwild",
 				class = "DRUID",
 				faction = "Horde",
 				guid = "Player-4465-02F79184",
 			},
-			[7] = {
+			[6] = {
 				name = "Ironshaft",
 				faction = "Horde",
 				guid = "Player-4465-037E4BEF",
 			},
-			[8] = {
+			[7] = {
 				name = "Ironwall",
 				faction = "Horde",
 				guid = "Player-4465-02F9450F",
 			},
+			[8] = {
+				name = "Tungstten",
+				faction = "Horde",
+				guid = "Player-4465-03BC402C",
+			},
 		},
 	},
-	[65] = {
+	[66] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Changed SR mid raid after losing Cloak from 50 attempts and didn't allow anyone else to change their cloak SRs.",
@@ -1187,7 +1197,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02E87711",
 	},
-	[66] = {
+	[67] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Left raid when they didn't want to kill Algalon before the other bosses, the raid fell apart after.",
@@ -1200,7 +1210,7 @@ t.case_table = {
 			"Firepumpa",
 		},
 	},
-	[67] = {
+	[68] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Left raid when they didn't want to kill Algalon before the other bosses, the raid fell apart after.",
@@ -1210,7 +1220,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-029C4D4E",
 	},
-	[68] = {
+	[69] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Kicked a player for no reason, bricking their save and chance at loot.",
@@ -1220,7 +1230,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04317C94",
 	},
-	[69] = {
+	[70] = {
 		category = "harassment",
 		level = 2,
 		description = "[scambuster]: Toxicity after being kicked from a run, reported the raid and kept insulting them in the report.",
@@ -1233,7 +1243,7 @@ t.case_table = {
 			"Bkmarkr",
 		},
 	},
-	[70] = {
+	[71] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd an item for OS when MS > OS rules were stated.",
@@ -1243,7 +1253,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02900B4E",
 	},
-	[71] = {
+	[72] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd an item for OS when it was stated in raid chat it was MS > OS, didn't reply and logged off.",
@@ -1253,7 +1263,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0420E12C",
 	},
-	[72] = {
+	[73] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd all items at the end of the dungeon, admitted that it was for enchanting, refused to share the crystals.",
@@ -1263,7 +1273,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-042EDEEC",
 	},
-	[73] = {
+	[74] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd an item that was SR'd by other players by rolling and awarding it to themselves.",
@@ -1273,7 +1283,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02E87711",
 	},
-	[74] = {
+	[75] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd an item SRed by another player, didn't give it back to correct winner and logged off.",
@@ -1283,147 +1293,127 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03A88CA1",
 	},
-	[75] = {
+	[76] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd all the items at the end of the run, admitted in chat it was to get gold.",
 		url = "https://discord.com/channels/610036506974748700/1125146260559638649",
 		players = {
 			[1] = {
-				name = "Dilerxd",
-				class = "DRUID",
-				faction = "Horde",
-				guid = "Player-4465-02E57F06",
-			},
-			[2] = {
 				name = "Saintdiler",
 				class = "PRIEST",
 				faction = "Horde",
 				guid = "Player-4465-03A72A20",
 			},
+			[2] = {
+				name = "Dilerxd",
+				class = "DRUID",
+				faction = "Horde",
+				guid = "Player-4465-02E57F06",
+			},
 		},
 	},
-	[76] = {
+	[77] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
 		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
 		players = {
 			[1] = {
-				name = "Destinymagex",
-				class = "MAGE",
-				faction = "Horde",
-				guid = "Player-4465-043B49D1",
-			},
-			[2] = {
-				name = "Destinyrog",
-				class = "ROGUE",
-				faction = "Horde",
-				guid = "Player-4465-038D1044",
-			},
-			[3] = {
-				name = "Destinypalas",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-04371823",
-			},
-			[4] = {
-				name = "Destinywar",
-				class = "WARRIOR",
-				faction = "Horde",
-				guid = "Player-4465-036BE565",
-			},
-			[5] = {
-				name = "Destinyblast",
-				class = "MAGE",
-				faction = "Horde",
-				guid = "Player-4465-0437AC4F",
-			},
-			[6] = {
-				name = "Destinydktwo",
-				class = "DEATHKNIGHT",
-				faction = "Horde",
-				guid = "Player-4465-036ACAC1",
-			},
-			[7] = {
-				name = "Destinypala",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-038D1055",
-			},
-			[8] = {
-				name = "Destinydruid",
-				class = "DRUID",
-				faction = "Horde",
-				guid = "Player-4465-02FA9051",
-			},
-			[9] = {
-				name = "Destinysham",
-				class = "SHAMAN",
-				faction = "Horde",
-				guid = "Player-4465-036BC0FF",
-			},
-			[10] = {
-				name = "Destinypwn",
-				class = "ROGUE",
-				faction = "Horde",
-				guid = "Player-4465-0414B1B6",
-			},
-			[11] = {
-				name = "Destinyhunt",
-				class = "HUNTER",
-				faction = "Horde",
-				guid = "Player-4465-02E18C78",
-			},
-			[12] = {
-				name = "Destinygdkp",
-				class = "PRIEST",
-				faction = "Horde",
-				guid = "Player-4465-03B88795",
-			},
-			[13] = {
 				name = "Destinypalax",
 				class = "PALADIN",
 				faction = "Horde",
 				guid = "Player-4465-0439674A",
 			},
-			[14] = {
+			[2] = {
 				name = "Destinydk",
 				class = "DEATHKNIGHT",
 				faction = "Horde",
 				guid = "Player-4465-036AC91D",
 			},
-			[15] = {
+			[3] = {
 				name = "Destinywl",
 				class = "WARLOCK",
 				faction = "Horde",
 				guid = "Player-4465-038E1212",
 			},
-			[16] = {
+			[4] = {
 				name = "Destinymagus",
 				class = "MAGE",
 				faction = "Horde",
 				guid = "Player-4465-02F1F37F",
 			},
-		},
-	},
-	[77] = {
-		category = "raid",
-		level = 2,
-		description = "[scambuster]: Ninja'd an item. Does LC in PUGs, guild approves the LC and defends it, doubled down in report.",
-		url = "https://discord.com/channels/610036506974748700/1123330650343215276",
-		players = {
-			[1] = {
-				name = "Catowl",
+			[5] = {
+				name = "Destinypala",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-038D1055",
+			},
+			[6] = {
+				name = "Destinyrog",
+				class = "ROGUE",
+				faction = "Horde",
+				guid = "Player-4465-038D1044",
+			},
+			[7] = {
+				name = "Destinypalas",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-04371823",
+			},
+			[8] = {
+				name = "Destinywar",
+				class = "WARRIOR",
+				faction = "Horde",
+				guid = "Player-4465-036BE565",
+			},
+			[9] = {
+				name = "Destinyblast",
+				class = "MAGE",
+				faction = "Horde",
+				guid = "Player-4465-0437AC4F",
+			},
+			[10] = {
+				name = "Destinydktwo",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
+				guid = "Player-4465-036ACAC1",
+			},
+			[11] = {
+				name = "Destinymagex",
+				class = "MAGE",
+				faction = "Horde",
+				guid = "Player-4465-043B49D1",
+			},
+			[12] = {
+				name = "Destinydruid",
 				class = "DRUID",
 				faction = "Horde",
-				guid = "Player-4465-042C917E",
+				guid = "Player-4465-02FA9051",
 			},
-			[2] = {
-				name = "Enderox",
+			[13] = {
+				name = "Destinysham",
+				class = "SHAMAN",
+				faction = "Horde",
+				guid = "Player-4465-036BC0FF",
+			},
+			[14] = {
+				name = "Destinypwn",
+				class = "ROGUE",
+				faction = "Horde",
+				guid = "Player-4465-0414B1B6",
+			},
+			[15] = {
+				name = "Destinyhunt",
+				class = "HUNTER",
+				faction = "Horde",
+				guid = "Player-4465-02E18C78",
+			},
+			[16] = {
+				name = "Destinygdkp",
 				class = "PRIEST",
 				faction = "Horde",
-				guid = "Player-4465-042A70F5",
+				guid = "Player-4465-03B88795",
 			},
 		},
 	},
@@ -1503,6 +1493,18 @@ t.case_table = {
 				class = "WARRIOR",
 				faction = "Horde",
 				guid = "Player-4465-0300A3CC",
+			},
+			[4] = {
+				name = "Vizzy",
+				class = "HUNTER",
+				faction = "Horde",
+				guid = "Player-4465-0429CE06",
+			},
+			[5] = {
+				name = "Arcwarden",
+				class = "MAGE",
+				faction = "Horde",
+				guid = "Player-4465-02E38B84",
 			},
 		},
 	},
@@ -1596,12 +1598,6 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1117139734456696903",
 		players = {
 			[1] = {
-				name = "Avenus",
-				class = "MAGE",
-				faction = "Horde",
-				guid = "Player-4465-0300A020",
-			},
-			[2] = {
 				name = "Horseman",
 				class = "PALADIN",
 				faction = "Horde",
@@ -1610,11 +1606,29 @@ t.case_table = {
 					"Maximizer",
 				},
 			},
+			[2] = {
+				name = "Vizzy",
+				class = "HUNTER",
+				faction = "Horde",
+				guid = "Player-4465-0429CE06",
+			},
 			[3] = {
+				name = "Avenus",
+				class = "MAGE",
+				faction = "Horde",
+				guid = "Player-4465-0300A020",
+			},
+			[4] = {
 				name = "Helzor",
 				class = "WARRIOR",
 				faction = "Horde",
 				guid = "Player-4465-0300A3CC",
+			},
+			[5] = {
+				name = "Arcwarden",
+				class = "MAGE",
+				faction = "Horde",
+				guid = "Player-4465-02E38B84",
 			},
 		},
 	},
@@ -1631,16 +1645,16 @@ t.case_table = {
 				guid = "Player-4465-016631E1",
 			},
 			[2] = {
-				name = "Eryw",
-				class = "WARRIOR",
-				faction = "Horde",
-				guid = "Player-4465-01D5B4D8",
-			},
-			[3] = {
 				name = "Teory",
 				class = "PALADIN",
 				faction = "Horde",
 				guid = "Player-4465-025208E3",
+			},
+			[3] = {
+				name = "Eryw",
+				class = "WARRIOR",
+				faction = "Horde",
+				guid = "Player-4465-01D5B4D8",
 			},
 			[4] = {
 				name = "Teopriest",
@@ -2889,22 +2903,22 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1097300550460129340",
 		players = {
 			[1] = {
+				name = "Davidwozniak",
+				class = "WARRIOR",
+				faction = "Horde",
+				guid = "Player-4465-041ADF7B",
+			},
+			[2] = {
 				name = "Chøde",
 				class = "DEATHKNIGHT",
 				faction = "Horde",
 				guid = "Player-4465-04253E12",
 			},
-			[2] = {
+			[3] = {
 				name = "Werepyre",
 				class = "PRIEST",
 				faction = "Horde",
 				guid = "Player-4465-0422956F",
-			},
-			[3] = {
-				name = "Davidwozniak",
-				class = "WARRIOR",
-				faction = "Horde",
-				guid = "Player-4465-041ADF7B",
 			},
 		},
 	},
@@ -2915,16 +2929,16 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1097300550460129340",
 		players = {
 			[1] = {
-				name = "Fàtal",
-				class = "PRIEST",
-				faction = "Horde",
-				guid = "Player-4465-040CC9B9",
-			},
-			[2] = {
 				name = "Tankerina",
 				class = "DEATHKNIGHT",
 				faction = "Horde",
 				guid = "Player-4465-04151EC1",
+			},
+			[2] = {
+				name = "Fàtal",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-040CC9B9",
 			},
 			[3] = {
 				name = "Nessunaa",
@@ -2941,22 +2955,22 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1097306319914029056",
 		players = {
 			[1] = {
+				name = "Rikaya",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-03889E32",
+			},
+			[2] = {
 				name = "Jikø",
 				class = "PRIEST",
 				faction = "Horde",
 				guid = "Player-4465-037C83E3",
 			},
-			[2] = {
+			[3] = {
 				name = "Megabear",
 				class = "DRUID",
 				faction = "Horde",
 				guid = "Player-4465-02FB6DD6",
-			},
-			[3] = {
-				name = "Rikaya",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-03889E32",
 			},
 		},
 	},
@@ -3304,16 +3318,16 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1087169842869710970",
 		players = {
 			[1] = {
-				name = "Sountemp",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-04285C90",
-			},
-			[2] = {
 				name = "Roguetemp",
 				class = "ROGUE",
 				faction = "Horde",
 				guid = "Player-4465-04285E60",
+			},
+			[2] = {
+				name = "Sountemp",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-04285C90",
 			},
 		},
 	},
@@ -3649,16 +3663,16 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1080521126914048031",
 		players = {
 			[1] = {
-				name = "Hesoka",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-0421CFC3",
-			},
-			[2] = {
 				name = "Daener",
 				class = "WARRIOR",
 				faction = "Horde",
 				guid = "Player-4465-0426CDBD",
+			},
+			[2] = {
+				name = "Hesoka",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-0421CFC3",
 			},
 		},
 	},
@@ -3832,13 +3846,10 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1074711389404413962",
 		players = {
 			[1] = {
-				name = "Horseman",
-				class = "PALADIN",
+				name = "Vizzy",
+				class = "HUNTER",
 				faction = "Horde",
-				guid = "Player-4465-0303BDD9",
-				aliases = {
-					"Maximizer",
-				},
+				guid = "Player-4465-0429CE06",
 			},
 			[2] = {
 				name = "Helzor",
@@ -3847,10 +3858,25 @@ t.case_table = {
 				guid = "Player-4465-0300A3CC",
 			},
 			[3] = {
+				name = "Arcwarden",
+				class = "MAGE",
+				faction = "Horde",
+				guid = "Player-4465-02E38B84",
+			},
+			[4] = {
 				name = "Avenus",
 				class = "MAGE",
 				faction = "Horde",
 				guid = "Player-4465-0300A020",
+			},
+			[5] = {
+				name = "Horseman",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-0303BDD9",
+				aliases = {
+					"Maximizer",
+				},
 			},
 		},
 	},
@@ -4406,15 +4432,15 @@ t.case_table = {
 				guid = "Player-4465-0419651F",
 			},
 			[2] = {
-				name = "Drchandler",
-				faction = "Horde",
-				guid = "Player-4465-02FB81E0",
-			},
-			[3] = {
 				name = "Rexoliins",
 				class = "DEATHKNIGHT",
 				faction = "Horde",
 				guid = "Player-4465-03B93605",
+			},
+			[3] = {
+				name = "Drchandler",
+				faction = "Horde",
+				guid = "Player-4465-02FB81E0",
 			},
 		},
 	},
