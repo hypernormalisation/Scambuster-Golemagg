@@ -32,10 +32,13 @@ t.case_table = {
 		level = 3,
 		description = "[scambuster]: Changed SR while being RL and having it locked, to get items that had already dropped. Tampered the SR to try to cover the scam.",
 		url = "https://discord.com/channels/610036506974748700/1158131626883158086",
-		name = "Sox",
+		name = "Schugz",
 		class = "WARRIOR",
 		faction = "Horde",
 		guid = "Player-4465-007D2A87",
+		aliases = {
+			"Sox",
+		},
 	},
 	[4] = {
 		category = "raid",
