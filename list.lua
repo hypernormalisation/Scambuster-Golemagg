@@ -1577,21 +1577,21 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1131330263079714838",
 		players = {
 			[1] = {
-				name = "Jønjack",
-				class = "DEATHKNIGHT",
-				faction = "Horde",
-				guid = "Player-4465-042D43D3",
-				aliases = {
-					"Decimatorc",
-				},
-			},
-			[2] = {
 				name = "Jonjack",
 				class = "SHAMAN",
 				faction = "Horde",
 				guid = "Player-4465-04163896",
 				aliases = {
 					"Vce",
+				},
+			},
+			[2] = {
+				name = "Jønjack",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
+				guid = "Player-4465-042D43D3",
+				aliases = {
+					"Decimatorc",
 				},
 			},
 			[3] = {
@@ -1660,53 +1660,53 @@ t.case_table = {
 	},
 	[94] = {
 		category = "raid",
-		level = 3,
+		level = 2,
 		description = "[scambuster]: Leaving raid after their SR didn't drop.",
 		url = "https://discord.com/channels/610036506974748700/1129813578954842264",
 		players = {
 			[1] = {
-				name = "Tungstten",
-				faction = "Horde",
-				guid = "Player-4465-03BC402C",
-			},
-			[2] = {
 				name = "Thoridib",
 				class = "HUNTER",
 				faction = "Horde",
 				guid = "Player-4465-042ACF5D",
 			},
-			[3] = {
+			[2] = {
 				name = "Bloodchain",
 				class = "SHAMAN",
 				faction = "Horde",
 				guid = "Player-4465-02F94BDF",
 			},
-			[4] = {
+			[3] = {
 				name = "Adiber",
 				class = "PALADIN",
 				faction = "Horde",
 				guid = "Player-4465-043072A8",
 			},
-			[5] = {
+			[4] = {
 				name = "Evilwild",
 				class = "DRUID",
 				faction = "Horde",
 				guid = "Player-4465-02F79184",
 			},
-			[6] = {
+			[5] = {
 				name = "Ironshaft",
 				faction = "Horde",
 				guid = "Player-4465-037E4BEF",
 			},
-			[7] = {
+			[6] = {
 				name = "Ironwall",
 				faction = "Horde",
 				guid = "Player-4465-02F9450F",
 			},
-			[8] = {
+			[7] = {
 				name = "Bloodpain",
 				faction = "Horde",
 				guid = "Player-4465-02F9A93A",
+			},
+			[8] = {
+				name = "Tungstten",
+				faction = "Horde",
+				guid = "Player-4465-03BC402C",
 			},
 		},
 	},
