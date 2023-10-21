@@ -2,7 +2,7 @@ local _, t = ...
 
 -- Golemagg Discord Blocklist Table
 
--- cases: 508
+-- cases: 507
 
 t.version = "@project-version@"
 
@@ -821,16 +821,22 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1142259217596698694",
 		players = {
 			[1] = {
+				name = "Rankdruid",
+				class = "DRUID",
+				faction = "Horde",
+				guid = "Player-4465-02FF9A3F",
+			},
+			[2] = {
 				name = "Stopdps",
 				class = "WARLOCK",
 				faction = "Horde",
 				guid = "Player-4465-0188FA76",
 			},
-			[2] = {
-				name = "Rankdruid",
-				class = "DRUID",
+			[3] = {
+				name = "Brusses",
+				class = "PALADIN",
 				faction = "Horde",
-				guid = "Player-4465-02FF9A3F",
+				guid = "Player-4465-02EFD369",
 			},
 		},
 	},
@@ -1426,6 +1432,15 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1134967348391067741",
 		players = {
 			[1] = {
+				name = "Jonjåck",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-03EC1767",
+				aliases = {
+					"Selindelol",
+				},
+			},
+			[2] = {
 				name = "Jonjack",
 				class = "SHAMAN",
 				faction = "Horde",
@@ -1434,22 +1449,13 @@ t.case_table = {
 					"Vce",
 				},
 			},
-			[2] = {
+			[3] = {
 				name = "Jønjack",
 				class = "DEATHKNIGHT",
 				faction = "Horde",
 				guid = "Player-4465-042D43D3",
 				aliases = {
 					"Decimatorc",
-				},
-			},
-			[3] = {
-				name = "Jonjåck",
-				class = "PRIEST",
-				faction = "Horde",
-				guid = "Player-4465-03EC1767",
-				aliases = {
-					"Selindelol",
 				},
 			},
 		},
@@ -1682,15 +1688,6 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1131330263079714838",
 		players = {
 			[1] = {
-				name = "Jonjack",
-				class = "SHAMAN",
-				faction = "Horde",
-				guid = "Player-4465-04163896",
-				aliases = {
-					"Vce",
-				},
-			},
-			[2] = {
 				name = "Jønjack",
 				class = "DEATHKNIGHT",
 				faction = "Horde",
@@ -1699,13 +1696,22 @@ t.case_table = {
 					"Decimatorc",
 				},
 			},
-			[3] = {
+			[2] = {
 				name = "Jonjåck",
 				class = "PRIEST",
 				faction = "Horde",
 				guid = "Player-4465-03EC1767",
 				aliases = {
 					"Selindelol",
+				},
+			},
+			[3] = {
+				name = "Jonjack",
+				class = "SHAMAN",
+				faction = "Horde",
+				guid = "Player-4465-04163896",
+				aliases = {
+					"Vce",
 				},
 			},
 		},
@@ -1770,48 +1776,48 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1129813578954842264",
 		players = {
 			[1] = {
-				name = "Bloodchain",
-				class = "SHAMAN",
-				faction = "Horde",
-				guid = "Player-4465-02F94BDF",
-			},
-			[2] = {
-				name = "Thoridib",
-				class = "HUNTER",
-				faction = "Horde",
-				guid = "Player-4465-042ACF5D",
-			},
-			[3] = {
-				name = "Adiber",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-043072A8",
-			},
-			[4] = {
 				name = "Evilwild",
 				class = "DRUID",
 				faction = "Horde",
 				guid = "Player-4465-02F79184",
 			},
-			[5] = {
+			[2] = {
+				name = "Bloodchain",
+				class = "SHAMAN",
+				faction = "Horde",
+				guid = "Player-4465-02F94BDF",
+			},
+			[3] = {
+				name = "Thoridib",
+				class = "HUNTER",
+				faction = "Horde",
+				guid = "Player-4465-042ACF5D",
+			},
+			[4] = {
 				name = "Ironshaft",
 				faction = "Horde",
 				guid = "Player-4465-037E4BEF",
 			},
-			[6] = {
+			[5] = {
 				name = "Ironwall",
 				faction = "Horde",
 				guid = "Player-4465-02F9450F",
 			},
-			[7] = {
+			[6] = {
 				name = "Bloodpain",
 				faction = "Horde",
 				guid = "Player-4465-02F9A93A",
 			},
-			[8] = {
+			[7] = {
 				name = "Tungstten",
 				faction = "Horde",
 				guid = "Player-4465-03BC402C",
+			},
+			[8] = {
+				name = "Adiber",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-043072A8",
 			},
 		},
 	},
@@ -2315,46 +2321,46 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1116809932856115240",
 		players = {
 			[1] = {
-				name = "Teopriest",
-				class = "PRIEST",
-				faction = "Horde",
-				guid = "Player-4465-01748EF6",
-			},
-			[2] = {
 				name = "Teodromnamn",
 				class = "WARLOCK",
 				faction = "Horde",
 				guid = "Player-4465-00FFAEC6",
 			},
-			[3] = {
+			[2] = {
 				name = "Belgar",
 				class = "DEATHKNIGHT",
 				faction = "Horde",
 				guid = "Player-4465-040D7139",
 			},
-			[4] = {
+			[3] = {
 				name = "Teomagy",
 				class = "MAGE",
 				faction = "Horde",
 				guid = "Player-4465-042508CC",
 			},
-			[5] = {
+			[4] = {
 				name = "Eryw",
 				class = "WARRIOR",
 				faction = "Horde",
 				guid = "Player-4465-01D5B4D8",
 			},
-			[6] = {
+			[5] = {
 				name = "Teory",
 				class = "PALADIN",
 				faction = "Horde",
 				guid = "Player-4465-025208E3",
 			},
-			[7] = {
+			[6] = {
 				name = "Teomag",
 				class = "MAGE",
 				faction = "Horde",
 				guid = "Player-4465-016631E1",
+			},
+			[7] = {
+				name = "Teopriest",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-01748EF6",
 			},
 		},
 	},
@@ -2520,40 +2526,40 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1113556158813306960",
 		players = {
 			[1] = {
-				name = "Maÿt",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-02514FE4",
-			},
-			[2] = {
 				name = "Maýt",
 				class = "SHAMAN",
 				faction = "Horde",
 				guid = "Player-4465-029979E0",
 			},
-			[3] = {
+			[2] = {
 				name = "Mäyt",
 				class = "WARLOCK",
 				faction = "Horde",
 				guid = "Player-4465-02226AFB",
 			},
-			[4] = {
+			[3] = {
 				name = "Máytwo",
 				class = "DRUID",
 				faction = "Horde",
 				guid = "Player-4465-04272185",
 			},
-			[5] = {
+			[4] = {
 				name = "Máyt",
 				class = "DRUID",
 				faction = "Horde",
 				guid = "Player-4465-02A8A867",
 			},
-			[6] = {
+			[5] = {
 				name = "Mayt",
 				class = "PRIEST",
 				faction = "Horde",
 				guid = "Player-4465-020DCC29",
+			},
+			[6] = {
+				name = "Maÿt",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-02514FE4",
 			},
 		},
 	},
@@ -2604,22 +2610,22 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1111296616796799046",
 		players = {
 			[1] = {
-				name = "Shotordruid",
-				class = "DRUID",
-				faction = "Horde",
-				guid = "Player-4465-02FC4866",
-			},
-			[2] = {
-				name = "Shotorpa",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-02FC43B1",
-			},
-			[3] = {
 				name = "Shotormage",
 				class = "MAGE",
 				faction = "Horde",
 				guid = "Player-4465-02FC43BA",
+			},
+			[2] = {
+				name = "Shotorduck",
+				class = "WARLOCK",
+				faction = "Horde",
+				guid = "Player-4465-02FC4816",
+			},
+			[3] = {
+				name = "Shotorpa",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-02FC43B1",
 			},
 			[4] = {
 				name = "Shotorhunt",
@@ -2628,10 +2634,10 @@ t.case_table = {
 				guid = "Player-4465-02FC480F",
 			},
 			[5] = {
-				name = "Shotorduck",
-				class = "WARLOCK",
+				name = "Shotordruid",
+				class = "DRUID",
 				faction = "Horde",
-				guid = "Player-4465-02FC4816",
+				guid = "Player-4465-02FC4866",
 			},
 		},
 	},
@@ -2675,16 +2681,16 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1109245418560299020",
 		players = {
 			[1] = {
-				name = "Babygang",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-04305578",
-			},
-			[2] = {
 				name = "Fianso",
 				class = "HUNTER",
 				faction = "Horde",
 				guid = "Player-4465-041086C2",
+			},
+			[2] = {
+				name = "Babygang",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-04305578",
 			},
 		},
 	},
@@ -3512,19 +3518,6 @@ t.case_table = {
 	[208] = {
 		category = "raid",
 		level = 2,
-		description = "[scambuster]: Ninja'd an item that was off spec and another player needed for main spec in a spec run in VoA.",
-		url = "https://discord.com/channels/610036506974748700/1097824368207331418",
-		name = "Deadhoup",
-		class = "PRIEST",
-		faction = "Horde",
-		guid = "Player-4465-00C3450E",
-		aliases = {
-			"Deadhope",
-		},
-	},
-	[209] = {
-		category = "raid",
-		level = 2,
 		description = "[scambuster]: Changed soft res when Rl had to reopen it for a new player joining, but it was from a boss that wasn't dead yet.",
 		url = "https://discord.com/channels/610036506974748700/1097619769399722134",
 		name = "Krokethebest",
@@ -3532,7 +3525,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03E1BBA8",
 	},
-	[210] = {
+	[209] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Changed soft res of an item from a dead boss to a new one when the RL had to reopen the SR for a new player joining.",
@@ -3542,7 +3535,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-01541DAA",
 	},
-	[211] = {
+	[210] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Changed soft res of an item from a dead boss to a new one when RL had to reopen SR for a new player joining in.",
@@ -3552,7 +3545,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-037A9141",
 	},
-	[212] = {
+	[211] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needed all items at the end, didn't reply and didn't do anything in the dungeon (no dmg, afk).",
@@ -3562,7 +3555,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-042B7E1F",
 	},
-	[213] = {
+	[212] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd a physical dps dagger being a caster \"to level weapon skill\" and didn't give it back when the party asked for it to be rolled.",
@@ -3572,7 +3565,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03012A3D",
 	},
-	[214] = {
+	[213] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Stole part of the pot in a GDKP by deactivating the Gargul pot announcement and not counting certain items in it.",
@@ -3598,7 +3591,7 @@ t.case_table = {
 			},
 		},
 	},
-	[215] = {
+	[214] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Stole 5.7k of the pot in GDKP by deactivating pot announcement on gargul and not counting certain items. Some items were not sold/rolled.",
@@ -3624,7 +3617,7 @@ t.case_table = {
 			},
 		},
 	},
-	[216] = {
+	[215] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Kicked all the party members and then needed and won all the items at the end of the run.",
@@ -3650,7 +3643,7 @@ t.case_table = {
 			},
 		},
 	},
-	[217] = {
+	[216] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needed and won an item that was agreed upon before starting the run that they would not need on.",
@@ -3660,7 +3653,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-030BE8C6",
 	},
-	[218] = {
+	[217] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Lootpooling Mjolnir Runestone between guildies in a pug. Tried to pass it off as them trading gold for it.",
@@ -3672,7 +3665,7 @@ t.case_table = {
 			"Prcathordu",
 		},
 	},
-	[219] = {
+	[218] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Lootpooling Mjolnir Runestone between guildies in a pug. Tried to pass it off as them trading gold for it.",
@@ -3681,7 +3674,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-029AD120",
 	},
-	[220] = {
+	[219] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Lootpooling Mjolnir Runestone between guildies in a pug. Tried to pass it off as them trading gold for it.",
@@ -3691,7 +3684,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-027F0DB3",
 	},
-	[221] = {
+	[220] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Received an item that was SRed by another player and didn't trade it while knowing there was an issue with it, time expired.",
@@ -3701,7 +3694,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0243E637",
 	},
-	[222] = {
+	[221] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd a caster cloak while being Feral spec in a run with MS>OS rules.",
@@ -3711,7 +3704,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-013A98CE",
 	},
-	[223] = {
+	[222] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd 2 items that the class cannot use for disenchant.",
@@ -3721,7 +3714,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02432FBE",
 	},
-	[224] = {
+	[223] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Last Laugh] after losing the MS roll and kicked raid members so they couldn't see it, had it equipped after.",
@@ -3731,7 +3724,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04295022",
 	},
-	[225] = {
+	[224] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Deleted the OS3D mount in a GBID run due to noone bidding a high enough value, even when a minimum value was not specified.",
@@ -3756,7 +3749,7 @@ t.case_table = {
 			},
 		},
 	},
-	[226] = {
+	[225] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Player has a pattern of leaving raids mid-run right after they don't get the item they want.",
@@ -3766,7 +3759,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0164B0C2",
 	},
-	[227] = {
+	[226] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd 3 items from a boss when the ML was not set and left the raid. Player has enchanting profession.",
@@ -3776,7 +3769,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-042496AB",
 	},
-	[228] = {
+	[227] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Loot pooled a ring with 2 other guildmates rolling while they already had it equipped, to avoid a pugger getting it.",
@@ -3789,7 +3782,7 @@ t.case_table = {
 			"Kaabel",
 		},
 	},
-	[229] = {
+	[228] = {
 		category = "trade",
 		level = 3,
 		description = "[scambuster]: Scammed a player out of Leatherworking mats, accepting the trade and then disbanding the group and not giving the crafted item.",
@@ -3799,7 +3792,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-038DE1F9",
 	},
-	[230] = {
+	[229] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Loot pooled an item for their guildie while having it equipped themselves in the boss before it dropped.",
@@ -3809,7 +3802,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03764C5E",
 	},
-	[231] = {
+	[230] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Loot pooled an item for their guildie while having it equipped themselves in the boss before it dropped.",
@@ -3819,7 +3812,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-024547AD",
 	},
-	[232] = {
+	[231] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Harassment, GDKP pot mishandling, severe AFK grief and reporting people to get his way. Doesn't show pot in Gargul. Join at your own risk.",
@@ -3845,7 +3838,7 @@ t.case_table = {
 			},
 		},
 	},
-	[233] = {
+	[232] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd 3 items for disenchant that were way worse than what the player had and one was completely useless to the class.",
@@ -3858,7 +3851,7 @@ t.case_table = {
 			"Skyllar",
 		},
 	},
-	[234] = {
+	[233] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Stole the Abyss crystals of the raid after pushing to be the designated disenchanter, then sent only one to the person asking them back.",
@@ -3871,7 +3864,7 @@ t.case_table = {
 			"Hajjime",
 		},
 	},
-	[235] = {
+	[234] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Refused to show pot on Gargul when the raid repeatedly asked for it, pot was not correct at the end and they stole gold from the raid.",
@@ -3881,7 +3874,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04154336",
 	},
-	[236] = {
+	[235] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Didn't care about checking SR and gave an item to one of the 3 people on it, then didn't want to take any responsibility for the mistake.",
@@ -3901,7 +3894,7 @@ t.case_table = {
 			},
 		},
 	},
-	[237] = {
+	[236] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Didn't roll item that wasn't SR out of spite for a player, lied and left the raid with more items without rolling. Lied in report too.",
@@ -3921,7 +3914,7 @@ t.case_table = {
 			},
 		},
 	},
-	[238] = {
+	[237] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Left the raid with their friend mid-run after getting what they wanted, confirmed by themselves in the report.",
@@ -3931,7 +3924,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0426CDBD",
 	},
-	[239] = {
+	[238] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Left the raid mid-run with their friend after they got what they wanted, confirmed by themselves in the report.",
@@ -3941,7 +3934,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0421CFC3",
 	},
-	[240] = {
+	[239] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Left the raid mid-run with their friend after getting what they wanted from it, confirmed by themselves.",
@@ -3951,7 +3944,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-042290B8",
 	},
-	[241] = {
+	[240] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Last Laugh] when their RL friend gave it to them ignoring the SR by two other players.",
@@ -3964,7 +3957,7 @@ t.case_table = {
 			"Tahributt",
 		},
 	},
-	[242] = {
+	[241] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ignored SR of two players and gave the item to their friend instead.",
@@ -3974,7 +3967,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-023FA319",
 	},
-	[243] = {
+	[242] = {
 		category = "harassment",
 		level = 2,
 		description = "[scambuster]: Reacted with cancer insults instantly after being declined for a party.",
@@ -3987,7 +3980,7 @@ t.case_table = {
 			"Xbu",
 		},
 	},
-	[244] = {
+	[243] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Kicked players out of the daily HC+ lockout and stayed blocking anyone from completing the ID.",
@@ -4007,7 +4000,7 @@ t.case_table = {
 			},
 		},
 	},
-	[245] = {
+	[244] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Kicked players from the party griefing their daily HC+ lockout and stayed in the ID preventing anyone to finish it.",
@@ -4017,7 +4010,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04285FEF",
 	},
-	[246] = {
+	[245] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja looted loot from VOA they cannot use or equip",
@@ -4027,7 +4020,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03003620",
 	},
-	[247] = {
+	[246] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Harassment individually and as a group (current guild)",
@@ -4037,7 +4030,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-040D6B79",
 	},
-	[248] = {
+	[247] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Racist slurs and toxic behaviour, in game and on discord",
@@ -4050,7 +4043,7 @@ t.case_table = {
 			"Jinsei",
 		},
 	},
-	[249] = {
+	[248] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needed on items that the class cannot use for disenchant or vendor, multiple reports.",
@@ -4060,7 +4053,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-038ED74D",
 	},
-	[250] = {
+	[249] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needed on everything in the last boss to disenchant.",
@@ -4070,7 +4063,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F938C5",
 	},
-	[251] = {
+	[250] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd blues and epics from last boss that rogues cannot use, to sell or disenchant.",
@@ -4080,7 +4073,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04226502",
 	},
-	[252] = {
+	[251] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Tampered SR changing it from dead bosses to new ones mid run.",
@@ -4090,7 +4083,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02313F25",
 	},
-	[253] = {
+	[252] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Tampered SR changing items from dead bosses to new ones mid run.",
@@ -4100,7 +4093,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0424137A",
 	},
-	[254] = {
+	[253] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Tampered SR changing it from dead bosses to new ones mid run.",
@@ -4110,7 +4103,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03FA7F90",
 	},
-	[255] = {
+	[254] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Tampered SR changing items from dead bosses to new ones mid run.",
@@ -4133,7 +4126,7 @@ t.case_table = {
 			},
 		},
 	},
-	[256] = {
+	[255] = {
 		category = "gdkp",
 		level = 2,
 		description = "[scambuster]: Makes GDKPs not using Gargul, miscounts pot, makes a mess with bids and harasses players when they question it. Join at your own risk.",
@@ -4146,7 +4139,7 @@ t.case_table = {
 			"Hellthunderr",
 		},
 	},
-	[257] = {
+	[256] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Received [Unsullied Cuffs] by mistake of the RL and refused to trade them to the winner",
@@ -4156,7 +4149,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04247605",
 	},
-	[258] = {
+	[257] = {
 		category = "trade",
 		level = 3,
 		description = "[scambuster]: Stole gold payment and items for a disenchanting service and laughed at the player",
@@ -4166,7 +4159,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02505015",
 	},
-	[259] = {
+	[258] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Loot pooled priest gloves in VoA with a friend to have higher chances against the other priest",
@@ -4176,7 +4169,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-00DEF1C5",
 	},
-	[260] = {
+	[259] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Loot pooled priest gloves to help their friend against the other priest",
@@ -4186,7 +4179,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-00D18741",
 	},
-	[261] = {
+	[260] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: RL & ML took OS VOA gloves, which should have been rolled out.",
@@ -4196,7 +4189,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02DDC665",
 	},
-	[262] = {
+	[261] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Harassed a player because of a ninja report in which their friends appeared.",
@@ -4206,7 +4199,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036B52EE",
 	},
-	[263] = {
+	[262] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needed on all items from last boss OK HC+, won items cannot use/benefit from, staff, hunter items & tier shoulders etc",
@@ -4216,7 +4209,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04249B56",
 	},
-	[264] = {
+	[263] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Player had toxic attitude against raiders and used slurs.",
@@ -4226,7 +4219,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FAD438",
 	},
-	[265] = {
+	[264] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Took naxx 25  key for MS roll when they had superior item equipped making the role OS. Player took the item.",
@@ -4236,7 +4229,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FDD592",
 	},
-	[266] = {
+	[265] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Went offline without rolling out loot, DE'd the item not rolled and sent to the raid member who needed the item.",
@@ -4246,7 +4239,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0267858E",
 	},
-	[267] = {
+	[266] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Harassed another player using racist slurs.",
@@ -4256,7 +4249,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03043E88",
 	},
-	[268] = {
+	[267] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Player in cooperation with RL changed their SR after the boss kill to loot that dropped in order to increase RL's chances of win.",
@@ -4266,7 +4259,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-037372A5",
 	},
-	[269] = {
+	[268] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Player tampered with SR after boss kill allowing other player to change their SR to dropped loot that was reserved also by RL.",
@@ -4279,7 +4272,7 @@ t.case_table = {
 			"Proszojerdk",
 		},
 	},
-	[270] = {
+	[269] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Player needed on items he can't use and are no upgrade for them in HC for purpose of disenchanting.",
@@ -4299,7 +4292,7 @@ t.case_table = {
 			},
 		},
 	},
-	[271] = {
+	[270] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Allowed SR tampering from a friend in raid and then disconnected with 4 other people.",
@@ -4309,7 +4302,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02E1CC44",
 	},
-	[272] = {
+	[271] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Tampered the SR changing it from a dead boss to a new one and after being called out disconnected from the raid.",
@@ -4319,7 +4312,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02EEF4F8",
 	},
-	[273] = {
+	[272] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: ATM guild confirmed as loot pooling in semi-guild runs. Loot pooled HM Council leather shoulds. Confirmed behaviour since TBC.",
@@ -4329,7 +4322,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-006B7538",
 	},
-	[274] = {
+	[273] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: ATM guild confirmed as loot pooling in semi-guild runs. Loot pooled HM Council leather shoulds. Confirmed behaviour since TBC.",
@@ -4339,7 +4332,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-025DC811",
 	},
-	[275] = {
+	[274] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Torch of Holy Fire] when it was on HR and the leader couldn't put ML on while in combat.",
@@ -4352,7 +4345,7 @@ t.case_table = {
 			"Alamef",
 		},
 	},
-	[276] = {
+	[275] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needed on everything and admitted it was for leveling enchanting.",
@@ -4362,7 +4355,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-041461F9",
 	},
-	[277] = {
+	[276] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Player ninjaed epic pieces in HC+ for disenchanting purposes.",
@@ -4372,7 +4365,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036B1E17",
 	},
-	[278] = {
+	[277] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: As RL in VoA MS > OS run he awarded DPS tier legs to tank instead of DPS warrior.",
@@ -4382,7 +4375,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03A428AE",
 	},
-	[279] = {
+	[278] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: As RL player ignored rolls on MS > OS run of Naxxramas and took item he lost, ignoring whispers from rightful winner.",
@@ -4392,7 +4385,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-037154DD",
 	},
-	[280] = {
+	[279] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Did antisemitic and nazi stuff in Dalaran and then tried to frame other player for it.",
@@ -4402,7 +4395,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-041B972D",
 	},
-	[281] = {
+	[280] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Did antisemitic and nazi stuff in Dalaran and then tried to frame other player for it.",
@@ -4412,7 +4405,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-041BC81A",
 	},
-	[282] = {
+	[281] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Lootpooling/rolled MS on an item that is not their MS to sell the item for 10k to the RL.",
@@ -4422,7 +4415,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-00995EC2",
 	},
-	[283] = {
+	[282] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Loot pooled/bought item as RL on a MS roll in a SR > MS > OS roll",
@@ -4432,7 +4425,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04202507",
 	},
-	[284] = {
+	[283] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: During Naxx 10m skip run as RL kicked another player during first phase of Kel'Thuzad fight in and thus denied him opportunity for his SR.",
@@ -4442,7 +4435,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03A428AE",
 	},
-	[285] = {
+	[284] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Rolled an item and won with the only intention of selling it to the other player.",
@@ -4452,7 +4445,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F90286",
 	},
-	[286] = {
+	[285] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Stole gold from GDKP, refused to pay back. Lies about not being listed to convince people to stay, or swaps chars to not trigger Scambuster",
@@ -4517,9 +4510,9 @@ t.case_table = {
 			},
 		},
 	},
-	[287] = {
+	[286] = {
 		category = "raid",
-		level = 3,
+		level = 2,
 		description = "[scambuster]: Changed SR mid-raid to a new item after the previous SR dropped.",
 		url = "https://discord.com/channels/610036506974748700/1075542121630670999",
 		name = "Muttfuktarn",
@@ -4527,7 +4520,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-041BD8BE",
 	},
-	[288] = {
+	[287] = {
 		category = "raid",
 		level = 2,
 		description = "[scambuster]: Ninja'd item for a friend ignoring the player who won the roll motivated by a vengeance for another item.",
@@ -4537,7 +4530,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F9364B",
 	},
-	[289] = {
+	[288] = {
 		category = "trade",
 		level = 3,
 		description = "[scambuster]: Stole 30k from gbank from firemaw with BF/GF",
@@ -4547,7 +4540,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03072914",
 	},
-	[290] = {
+	[289] = {
 		category = "trade",
 		level = 3,
 		description = "[scambuster]: Stole 30k from guild bank on firemaw with BF/GF",
@@ -4557,7 +4550,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04209A1F",
 	},
-	[291] = {
+	[290] = {
 		category = "trade",
 		level = 3,
 		description = "[scambuster]: Stole 30k from guild bank on firemaw with BF/GF",
@@ -4567,7 +4560,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04209982",
 	},
-	[292] = {
+	[291] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Kicked a player out of the raid when SR changes from RL's friend were being pointed out to the RL as suspicious.",
@@ -4577,7 +4570,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FA1B4B",
 	},
-	[293] = {
+	[292] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needed and won items they could not use and left the party.",
@@ -4587,7 +4580,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02E6E6EC",
 	},
-	[294] = {
+	[293] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Needed and won a melee cloak while being in healer spec in a raid run that had MS > OS rules stated.",
@@ -4597,7 +4590,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F9F8C7",
 	},
-	[295] = {
+	[294] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninjaed [Turning Tide] after losing the SR roll on it, given by their RL friend Contaminate.",
@@ -4610,7 +4603,7 @@ t.case_table = {
 			"Escalot",
 		},
 	},
-	[296] = {
+	[295] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninjaed [Turning Tide] to give it to their friend Escalot when other people that had it on SR won the roll.",
@@ -4623,7 +4616,7 @@ t.case_table = {
 			"Contaminate",
 		},
 	},
-	[297] = {
+	[296] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Removed players soft reserves at the start of the raid before locking it. Player remained in the Nax25 pug for the full duration",
@@ -4633,7 +4626,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FB571D",
 	},
-	[298] = {
+	[297] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Needed on an item that someone else had SR on, refused to give it back and put the winner on ignore.",
@@ -4643,7 +4636,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-041D245A",
 	},
-	[299] = {
+	[298] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: During OS10 2D player as RL set their SR when fight started twice with intention to deceive players that they have only HR as organiser.",
@@ -4653,25 +4646,25 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0307F414",
 	},
-	[300] = {
+	[299] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Changed SR several times mid run from dead bosses to new items",
 		url = "https://discord.com/channels/610036506974748700/1072262086438170674",
 		players = {
 			[1] = {
-				name = "Rohlikos",
-				class = "WARLOCK",
-				faction = "Horde",
-				guid = "Player-4465-024C9B4E",
-			},
-			[2] = {
 				name = "Easyhps",
 				faction = "Horde",
 				guid = "Player-4465-0245343A",
 				aliases = {
 					"Fildik",
 				},
+			},
+			[2] = {
+				name = "Rohlikos",
+				class = "WARLOCK",
+				faction = "Horde",
+				guid = "Player-4465-024C9B4E",
 			},
 			[3] = {
 				name = "Fildaone",
@@ -4681,7 +4674,7 @@ t.case_table = {
 			},
 		},
 	},
-	[301] = {
+	[300] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Changed SR mid run to an item that had already dropped but wasn't rolled yet",
@@ -4694,7 +4687,7 @@ t.case_table = {
 			"Shammzilla",
 		},
 	},
-	[302] = {
+	[301] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: In HC+ player needed multiple epic items he can't use for disenchant purposes.",
@@ -4704,7 +4697,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02313F25",
 	},
-	[303] = {
+	[302] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Player collusion and loot pooling. Master looter was not set, both players rolled and player not on SR won the item.",
@@ -4714,7 +4707,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03BDAB32",
 	},
-	[304] = {
+	[303] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Player collusion and loot pooling. Master looter was not set, both players rolled and player not on SR won the item.",
@@ -4724,7 +4717,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03046F60",
 	},
-	[305] = {
+	[304] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Kicked player(s) for dying, locking them to the ID and preventing them from receiving SR's that dropped.",
@@ -4737,7 +4730,7 @@ t.case_table = {
 			"Cantu",
 		},
 	},
-	[306] = {
+	[305] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Kicked player(s) for dying, locking them to the ID and preventing them from receiving SR's that dropped.",
@@ -4766,7 +4759,7 @@ t.case_table = {
 			},
 		},
 	},
-	[307] = {
+	[306] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Player verbaly attacked players, called them slurs and harassed them in discord DMs.",
@@ -4779,7 +4772,7 @@ t.case_table = {
 			"Shdwstalker",
 		},
 	},
-	[308] = {
+	[307] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Player needed on multiple items on SR run (no ML), left with two - one reserved by another player and refused to trade it to winner/RL.",
@@ -4789,7 +4782,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F96B90",
 	},
-	[309] = {
+	[308] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: screenshots, looted boss and left raid without distributing. Multiple previous reports.",
@@ -4818,7 +4811,7 @@ t.case_table = {
 			},
 		},
 	},
-	[310] = {
+	[309] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Player changed his SR mid raid, kicked players without distributing their SRs and left with unditributed loot.",
@@ -4831,7 +4824,7 @@ t.case_table = {
 			"Nvìdia",
 		},
 	},
-	[311] = {
+	[310] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Player received [Pennant Cloak] from RL - his guildie, without roll (claiming it was HR), thus breaking stated MS > OS loot rules.",
@@ -4841,7 +4834,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02362BF7",
 	},
-	[312] = {
+	[311] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: As RL player broke MS  > OS rules and gave [Pennant Cloak] to guildie lying that it was HR.",
@@ -4851,7 +4844,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03766C75",
 	},
-	[313] = {
+	[312] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: In HC+ player needed multiple epic items he can't use for disenchanting and token for vendoring.",
@@ -4861,7 +4854,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03158301",
 	},
-	[314] = {
+	[313] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Kicked other player before last boss in HC+ out of spite and called him racial slurs.",
@@ -4871,7 +4864,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0305C96E",
 	},
-	[315] = {
+	[314] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: screenshots, looted boss and left raid without distributing. Multiple previous reports.",
@@ -4884,7 +4877,7 @@ t.case_table = {
 			"Cantu",
 		},
 	},
-	[316] = {
+	[315] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Player needed item he didn't SR (when ML was not set) for his OS, disregarding whispers to trade it to rightful winner.",
@@ -4894,7 +4887,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03003620",
 	},
-	[317] = {
+	[316] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Player was mistakenly assigned item in 25m VoA spec run and refused to give it to player for his MS.",
@@ -4904,7 +4897,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FB7DC3",
 	},
-	[318] = {
+	[317] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Player needed on Focusing Iris when RL forgot to put ML, refused to give it back and left the raid.",
@@ -4914,7 +4907,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02DE8957",
 	},
-	[319] = {
+	[318] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Player needed attack power staff they don't benefit from for questionable reasons",
@@ -4924,7 +4917,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-01340587",
 	},
-	[320] = {
+	[319] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Friend lost roll on nax25 neck, key. Rolled on it for them, won and traded it.",
@@ -4934,7 +4927,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F97867",
 	},
-	[321] = {
+	[320] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Lost roll on naxx25 neck. Friend who already had the item equipped needed the item and passed it to them.",
@@ -4944,7 +4937,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02DE3192",
 	},
-	[322] = {
+	[321] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Player verbally abused party member in response to being questioned about Ninja'ing items to DE.",
@@ -4954,7 +4947,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03731900",
 	},
-	[323] = {
+	[322] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needed all items to DE and roll out. Ninja'd the shards and verbally abused a party member when questioned.",
@@ -4964,7 +4957,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03731900",
 	},
-	[324] = {
+	[323] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Looted boss and left raid without distributing. Multiple previous reports.",
@@ -4977,7 +4970,7 @@ t.case_table = {
 			"Cantu",
 		},
 	},
-	[325] = {
+	[324] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: GDKP: Player stole the full GDKP pot as the organiser, this is the second report.",
@@ -4990,7 +4983,7 @@ t.case_table = {
 			"Bonjoví",
 		},
 	},
-	[326] = {
+	[325] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Player needed on plate item he can't use out of spite.",
@@ -5000,7 +4993,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-04144B6A",
 	},
-	[327] = {
+	[326] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Torch of Holy Fire] when masterlooter friend traded it to them in a soft reserve Nax run instead of giving it to the roll winner.",
@@ -5010,7 +5003,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03744E16",
 	},
-	[328] = {
+	[327] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Torch of Holy Fire] by rolling a second time before quickly trading the ML who traded it over then they immediately left the raid.",
@@ -5023,7 +5016,7 @@ t.case_table = {
 			"Renewedcovid",
 		},
 	},
-	[329] = {
+	[328] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Gothik's Cowl] by not awarding it to the highest roller saying that because he is a Druid he should not roll for cloth.",
@@ -5033,7 +5026,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02EAE28B",
 	},
-	[330] = {
+	[329] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Toxic and abusive language commenting on the OPs children in a sexual way.",
@@ -5043,7 +5036,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03880C91",
 	},
-	[331] = {
+	[330] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Handgrips of the Savage Emissary] to disenchant into an [Abyssal Shard] and not letting the party roll for it.",
@@ -5068,7 +5061,7 @@ t.case_table = {
 			},
 		},
 	},
-	[332] = {
+	[331] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needed on all items with \"You're welcome for the carry\" as their reason.",
@@ -5078,7 +5071,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-026DE275",
 	},
-	[333] = {
+	[332] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [Woven Bracae Leggings] by getting a friend (Jaarkirr) to also roll and trade them.",
@@ -5092,7 +5085,7 @@ t.case_table = {
 			"ßlau",
 		},
 	},
-	[334] = {
+	[333] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [Staff of Trickery] for disenchant without rolling the shard, gave no response to questions.",
@@ -5102,7 +5095,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02A8A171",
 	},
-	[335] = {
+	[334] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [War Mace of Unrequited Love] as a Death Knight so do not benefit from a healing mace.",
@@ -5112,7 +5105,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0391A4B2",
 	},
-	[336] = {
+	[335] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [Leggings of Protective Auras] at the end of a run which they cannot use and someone else needed them.",
@@ -5122,7 +5115,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0370A2C2",
 	},
-	[337] = {
+	[336] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Meteorite Whetstone] and [Ravenous Leggings of the Furbolg] that they did not need, ignoring party and whispers.",
@@ -5132,7 +5125,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-038CE98E",
 	},
-	[338] = {
+	[337] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Royal Crest of Lordaeron] they cannot use out of spite for failed achievement as confirmed by their friend.",
@@ -5142,7 +5135,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03087C32",
 	},
-	[339] = {
+	[338] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [Handgrips of the Savage Emissary] which they can't use and ignored whispers to trade it to the rightful winner.",
@@ -5152,7 +5145,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02C18A0C",
 	},
-	[340] = {
+	[339] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Meteorite Whetstone] via roll pooling with a guildie (Swellust), preventing someone in the party from fairly winning it.",
@@ -5162,7 +5155,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02E3015D",
 	},
-	[341] = {
+	[340] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Meteorite Whetstone] via roll pooling with a guildie (Päres), preventing someone in the party from fairly winning it.",
@@ -5175,7 +5168,7 @@ t.case_table = {
 			"Swellust",
 		},
 	},
-	[342] = {
+	[341] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [Red Sword of Courage] which is unique-equip and already had it, later said \"I can need anything as tank\", presumed disenchant.",
@@ -5185,7 +5178,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036D80BC",
 	},
-	[343] = {
+	[342] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [War Mace of Unrequited Love] as a Warlock then leaves the group, presumed for disenchant.",
@@ -5195,7 +5188,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-037330F4",
 	},
-	[344] = {
+	[343] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [Sash of Blood Removal] for disenchant without rolling the shard out to the group.",
@@ -5205,7 +5198,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03718227",
 	},
-	[345] = {
+	[344] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Sharp-Barbed Leather Belt] by Ironsoul on his behalf for OS, disregarding the other players who needed for MS who otherwise won.",
@@ -5215,7 +5208,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-026FF20C",
 	},
-	[346] = {
+	[345] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Sharp-Barbed Leather Belt] on behalf of a friend for OS, disregarding the other players who needed for MS who otherwise won.",
@@ -5225,7 +5218,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0270AE9D",
 	},
-	[347] = {
+	[346] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd cloth bracers for disenchant, was asked to roll out the shard, lost the roll then left the group without trading it.",
@@ -5235,7 +5228,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036EFA03",
 	},
-	[348] = {
+	[347] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [Hemorrhaging Circle] ring as a Balance Druid in a run where it was clearly stated MS > OS.",
@@ -5245,7 +5238,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FDACF0",
 	},
-	[349] = {
+	[348] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Leggings of the Stone Halls] which they could not use then left the party and admitted disenchanting them to sell.",
@@ -5255,7 +5248,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0080441B",
 	},
-	[350] = {
+	[349] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Needed on multiple items for disenchant then left the group without rolling out the shards at the end.",
@@ -5265,7 +5258,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0301C392",
 	},
-	[351] = {
+	[350] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Band of Guile] and many other items at the end of a CoS HC then left the group.",
@@ -5275,7 +5268,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F15A27",
 	},
-	[352] = {
+	[351] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Overlook Handguards] for disenchant without rolling out the [Abyssal Shard] then left the group and hs'd out.",
@@ -5285,7 +5278,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02E21859",
 	},
-	[353] = {
+	[352] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [War Mace of Unrequited Love] as a mage who can't even use it then left the group, presumed for disenchant.",
@@ -5295,7 +5288,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03084276",
 	},
-	[354] = {
+	[353] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Meteorite Whetstone] so they could sell it the player in the party who needed the item.",
@@ -5305,7 +5298,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02EE7CC6",
 	},
-	[355] = {
+	[354] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [Mail Girdle of the Audient Earth] for disenchant when it was needed by someone in the party.",
@@ -5318,7 +5311,7 @@ t.case_table = {
 			"Vatikanstat",
 		},
 	},
-	[356] = {
+	[355] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Flamebeard's Bracers] for discenchant followed by toxic behaviour when confronted about it.",
@@ -5328,7 +5321,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0303D2A4",
 	},
-	[357] = {
+	[356] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Hemorrhaging Circle] as a priest, later admitted to disenchanting it.",
@@ -5338,7 +5331,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0309BEA4",
 	},
-	[358] = {
+	[357] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [Woven Bracae Leggings] by rolling and trading them to their priest friend.",
@@ -5348,7 +5341,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0259A721",
 	},
-	[359] = {
+	[358] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [Seal of the Pantheon] which is a tanking trinket they can't even benefit from, presumed for DE.",
@@ -5358,7 +5351,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02EE2D97",
 	},
-	[360] = {
+	[359] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [Chitin Shell Greathelm] which they can't use for disenchant without asking or splitting with the party.",
@@ -5368,7 +5361,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F6FC9D",
 	},
-	[361] = {
+	[360] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Given [Sash of Blood Removal] to DE but refused to hand the [Abyss Crystal] over to the roll winner then left the group.",
@@ -5378,7 +5371,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02EA8E12",
 	},
-	[362] = {
+	[361] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Bolstered Legplates] tank plate legs they couldn't use which were needed by the tank.",
@@ -5388,7 +5381,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0301DF6C",
 	},
-	[363] = {
+	[362] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Mail Girdle of the Audient Earth] to disenchant then leaving without rolling it out to the group.",
@@ -5397,7 +5390,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-011A5F24",
 	},
-	[364] = {
+	[363] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needed on everything. Asked a mage who won a BoE if he could have the item for OS but then put it on AH.",
@@ -5407,7 +5400,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03880C91",
 	},
-	[365] = {
+	[364] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [Shard of Contempt] from MGT HC despite it being clearly stated as hard reserved.",
@@ -5420,7 +5413,7 @@ t.case_table = {
 			"Dygsvetlo",
 		},
 	},
-	[366] = {
+	[365] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Ninja'd [Drake-Mounted Crossbow] as a paladin who could not use and did not respond to chat or whispers.",
@@ -5429,7 +5422,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0377F674",
 	},
-	[367] = {
+	[366] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Staff of Draconic Combat] as a Death Knight later admitting that they were rolling for a friend.",
@@ -5438,7 +5431,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036C7316",
 	},
-	[368] = {
+	[367] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Skirt of the Old Kingdom] for disenchant, refused to explain.",
@@ -5447,7 +5440,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02904EB4",
 	},
-	[369] = {
+	[368] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needing on all items even the ones they could not use nor benefit from.",
@@ -5456,7 +5449,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0304D975",
 	},
-	[370] = {
+	[369] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needed on all items including items they could not use or benefit from, ignoring party chat.",
@@ -5465,7 +5458,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03BAD94E",
 	},
-	[371] = {
+	[370] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Reins of the Grand Black War Mammoth] in a VoA pug they organised after losing the roll.",
@@ -5478,7 +5471,7 @@ t.case_table = {
 			"Pahhreba",
 		},
 	},
-	[372] = {
+	[371] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Damnation] from Nax25 for a friend via roll pooling, they already had the staff themselves.",
@@ -5490,7 +5483,7 @@ t.case_table = {
 			"Zullymoo",
 		},
 	},
-	[373] = {
+	[372] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Surge Needle Ring] in a EoE 10 man SR pug after masterlooter accidently awarded it to them, refused to trade it back.",
@@ -5502,7 +5495,7 @@ t.case_table = {
 			"Thuspreus",
 		},
 	},
-	[374] = {
+	[373] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Ice Spire Scepter] out of spite for being kicked then tried to sell it to someone who rolled for it as MS.",
@@ -5511,7 +5504,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FA84A5",
 	},
-	[375] = {
+	[374] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Surge Needle Ring] which was clearly stated as hard reserved then ran off and disconnected.",
@@ -5524,7 +5517,7 @@ t.case_table = {
 			"Twoinches",
 		},
 	},
-	[376] = {
+	[375] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Given [Loatheb's Shadow] as a restoration shaman by friend who organised a MS > OS run instead of the MS highest roller.",
@@ -5537,7 +5530,7 @@ t.case_table = {
 			"Scyllo",
 		},
 	},
-	[377] = {
+	[376] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Gave [Loatheb's Shadow] to a restoration shaman friend (Scyllo) in a MS > OS run they organised instead of the MS highest roller.",
@@ -5546,7 +5539,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-033B4170",
 	},
-	[378] = {
+	[377] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Gave [Surge Needle Ring] to low roller despite allowing players to soft reserve it then stating 'not your MS' as reason not to give it.",
@@ -5558,7 +5551,7 @@ t.case_table = {
 			"Sandwrath",
 		},
 	},
-	[379] = {
+	[378] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Pennant Cloak] and [Satchel of Spoils] from OS25 by changing soft reserve after the boss was dead then kicked everyone.",
@@ -5567,7 +5560,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03056191",
 	},
-	[380] = {
+	[379] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Envoy of Mortality] from a Nax25 they organised giving it to Connyrövöga who did not reserve it.",
@@ -5576,7 +5569,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FA577E",
 	},
-	[381] = {
+	[380] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Fury of the Five Flights] from OS25 man instead of passing after raidleader forgot to put on masterloot, refused to hand them back.",
@@ -5585,7 +5578,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-01323946",
 	},
-	[382] = {
+	[381] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Unsullied Cuffs] from OS25 man instead of passing after raidleader forgot to put master looter on, refused to hand them back.",
@@ -5594,7 +5587,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02EB7FDB",
 	},
-	[383] = {
+	[382] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Barricade of Eternity] from EoE which was reserved by the raidleader after masterlooter bug, refused to hand it over.",
@@ -5607,7 +5600,7 @@ t.case_table = {
 			"Ivizza",
 		},
 	},
-	[384] = {
+	[383] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Melancholy Sabatons] from EoE in a SR > MS > OS pug after a master looter bug, refused to trade the item back.",
@@ -5616,19 +5609,17 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03A4D527",
 	},
-	[385] = {
+	[384] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Headpiece of Reconciliation] from OS25 when they lost the roll to a balance druid, refusing to hand it over.",
 		url = "https://discord.com/channels/610036506974748700/1047308412125462528",
 		players = {
 			[1] = {
-				name = "Easyhps",
+				name = "Easydps",
+				class = "MAGE",
 				faction = "Horde",
-				guid = "Player-4465-0245343A",
-				aliases = {
-					"Fildik",
-				},
+				guid = "Player-4465-02EE366E",
 			},
 			[2] = {
 				name = "Fildaone",
@@ -5637,14 +5628,16 @@ t.case_table = {
 				guid = "Player-4465-02E24324",
 			},
 			[3] = {
-				name = "Easydps",
-				class = "MAGE",
+				name = "Easyhps",
 				faction = "Horde",
-				guid = "Player-4465-02EE366E",
+				guid = "Player-4465-0245343A",
+				aliases = {
+					"Fildik",
+				},
 			},
 		},
 	},
-	[386] = {
+	[385] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Illustration of the Dragon Soul] from OS25 pug after losing the roll and accidently be awarded it then logged out immediately.",
@@ -5657,7 +5650,7 @@ t.case_table = {
 			"Devillx",
 		},
 	},
-	[387] = {
+	[386] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Shroud of Luminosity] via roll pooling with a friend (Mozgodlab) who then traded it to them.",
@@ -5666,7 +5659,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0387C4AA",
 	},
-	[388] = {
+	[387] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Shroud of Luminosity] via roll pooling to trade it to a friend who equipt it.",
@@ -5675,7 +5668,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F700FD",
 	},
-	[389] = {
+	[388] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Rolled out [Reins of the Grand Black War Mammoth] from VoA but went offline without giving it to the winner. Later admitted to learning it.",
@@ -5684,7 +5677,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03AFF9F7",
 	},
-	[390] = {
+	[389] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Reins of the Grand Black War Mammoth] in a MS > OS pug stating \"I'm the group leader so I'm taking this\" and left.",
@@ -5693,7 +5686,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-034FFDF5",
 	},
-	[391] = {
+	[390] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Reins of the Grand Black War Mammoth] in a MS > OS pug stating \"I'm the group leader so I'm taking this\" and left.",
@@ -5702,7 +5695,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036F3A44",
 	},
-	[392] = {
+	[391] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Refused to trade [Gown of the Spell-Weaver] to the rightful winner claiming armor class matters so the paladin can't have a cloth chest.",
@@ -5711,7 +5704,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03B27558",
 	},
-	[393] = {
+	[392] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Won [Zeliek's Gauntlets] for MS but refused to equip them despite rules stating all BoE's must be equipped, later said it was for their alt.",
@@ -5720,7 +5713,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02C9F9AE",
 	},
-	[394] = {
+	[393] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Won [Arcanic Tramplers] but refused to equip them despite the pug rules clearly stating all BoE's must be equipped.",
@@ -5729,7 +5722,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-029B37F3",
 	},
-	[395] = {
+	[394] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Key to the Focusing Iris] and [Helm of the Lost Protector] from Nax at the end after rolling everything else then logged out.",
@@ -5738,7 +5731,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-038FD994",
 	},
-	[396] = {
+	[395] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Surge Needle Ring] from EoE after a master loot bug meant it was on group loot then went offline immedately after.",
@@ -5747,7 +5740,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0323F033",
 	},
-	[397] = {
+	[396] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Dying Curse] on their priest alt (Tithesore) after it dropped from Grobbulus they updated their reserve to include it.",
@@ -5756,7 +5749,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02CA95D7",
 	},
-	[398] = {
+	[397] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Dying Curse] on their priest alt (Tithesore) after it dropped from Grobbulus they updated their reserve to include it.",
@@ -5765,7 +5758,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02A889C3",
 	},
-	[399] = {
+	[398] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Dying Curse] from a SR > MS > OS Nax25 pug and after seeing it drop from Grobbulus they updated their reserve to include it.",
@@ -5774,7 +5767,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02E6AB8F",
 	},
-	[400] = {
+	[399] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Reins of the Black Drake] after losing the roll and deeming the winner 'toxic' giving it to someone else.",
@@ -5783,7 +5776,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02CB7320",
 	},
-	[401] = {
+	[400] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Ice Spire Scepter] from EoE after being wrongly traded it and quickly logging out.",
@@ -5809,7 +5802,7 @@ t.case_table = {
 			},
 		},
 	},
-	[402] = {
+	[401] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Ninja'd a plate belt [Ancient Aligned Girdle] in AN HC then left the part without trading it.",
@@ -5818,7 +5811,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F4305E",
 	},
-	[403] = {
+	[402] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Voice of Reason] shield after losing the roll then wrongly awarded it before immediately hearthstoned and logged out.",
@@ -5827,7 +5820,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-034E7DE4",
 	},
-	[404] = {
+	[403] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Surge Needler Ring] to themselves in a SR > MS > OS run and put it on the auction house.",
@@ -5836,7 +5829,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03044EEE",
 	},
-	[405] = {
+	[404] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Part of a guild called <Sons of Hey> who organised a Nax25 pug that was SR x1 > MS > OS who ninja'd [Betrayer of Humanity].",
@@ -5845,7 +5838,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036D30C4",
 	},
-	[406] = {
+	[405] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Part of a guild called <Sons of Hey> who organised a Nax25 pug that was SR x1 > MS > OS who ninja'd [Betrayer of Humanity].",
@@ -5857,7 +5850,7 @@ t.case_table = {
 			"Tabble",
 		},
 	},
-	[407] = {
+	[406] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Part of a guild called <Sons of Hey> who organised a Nax25 pug that was SR x1 > MS > OS who ninja'd [Betrayer of Humanity].",
@@ -5869,13 +5862,21 @@ t.case_table = {
 			"Jaquen",
 		},
 	},
-	[408] = {
+	[407] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Part of a guild called <Sons of Hey> who organised a Nax25 pug that was SR x1 > MS > OS who ninja'd [Betrayer of Humanity].",
 		url = "https://discord.com/channels/610036506974748700/1037492155557625867",
 		players = {
 			[1] = {
+				name = "Kallemandu",
+				faction = "Horde",
+				guid = "Player-4465-0400DAEB",
+				aliases = {
+					"Sebmrp",
+				},
+			},
+			[2] = {
 				name = "Klacki",
 				class = "SHAMAN",
 				faction = "Horde",
@@ -5884,17 +5885,9 @@ t.case_table = {
 					"Kolombus",
 				},
 			},
-			[2] = {
-				name = "Kallemandu",
-				faction = "Horde",
-				guid = "Player-4465-0400DAEB",
-				aliases = {
-					"Sebmrp",
-				},
-			},
 		},
 	},
-	[409] = {
+	[408] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Part of a guild called <Sons of Hey> who organised a OS25 pug that was MS > OS who then looted all the items at the end and left.",
@@ -5903,7 +5896,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02D399EA",
 	},
-	[410] = {
+	[409] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Part of a guild called <Sons of Hey> who organised a OS25 pug that was MS > OS who then looted all the items at the end and left.",
@@ -5912,7 +5905,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036D30C4",
 	},
-	[411] = {
+	[410] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Part of a guild called <Sons of Hey> who organised a OS25 pug that was MS > OS who then looted all the items at the end and left.",
@@ -5924,7 +5917,7 @@ t.case_table = {
 			"Jaquen",
 		},
 	},
-	[412] = {
+	[411] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Part of a guild called <Sons of Hey> who organised a OS25 pug that was MS > OS who then looted all the items at the end and left.",
@@ -5936,13 +5929,21 @@ t.case_table = {
 			"Tabble",
 		},
 	},
-	[413] = {
+	[412] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Part of a guild called <Sons of Hey> who organised a OS25 pug that was MS > OS then looted all the items at the end and left.",
 		url = "https://discord.com/channels/610036506974748700/1037502397595013230",
 		players = {
 			[1] = {
+				name = "Kallemandu",
+				faction = "Horde",
+				guid = "Player-4465-0400DAEB",
+				aliases = {
+					"Sebmrp",
+				},
+			},
+			[2] = {
 				name = "Klacki",
 				class = "SHAMAN",
 				faction = "Horde",
@@ -5951,17 +5952,9 @@ t.case_table = {
 					"Kolombus",
 				},
 			},
-			[2] = {
-				name = "Kallemandu",
-				faction = "Horde",
-				guid = "Player-4465-0400DAEB",
-				aliases = {
-					"Sebmrp",
-				},
-			},
 		},
 	},
-	[414] = {
+	[413] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Legplates of Sovereignty] which are plate legs then kicked the rightful roll winner when he complained.",
@@ -5980,7 +5973,7 @@ t.case_table = {
 			},
 		},
 	},
-	[415] = {
+	[414] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Valorous Bonescythe Gauntlets] without rolling it in a VoA25 run despite there being another rogue.",
@@ -5992,7 +5985,7 @@ t.case_table = {
 			"Jaquen",
 		},
 	},
-	[416] = {
+	[415] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Organised a pug for EoE25 and kept the [Reins of the Azure Drake] for himself instead of rolling it out then left the raid.",
@@ -6005,7 +5998,7 @@ t.case_table = {
 			"Doktordk",
 		},
 	},
-	[417] = {
+	[416] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Crown of the Lost Vanquisher] as raidleader despite losing the roll.",
@@ -6014,7 +6007,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0382B0C7",
 	},
-	[418] = {
+	[417] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Organised a soft reserve pug in Nax 10 then proceeded to insult multiple players before kicking them and keeping loot.",
@@ -6027,7 +6020,7 @@ t.case_table = {
 			"Shdwstalker",
 		},
 	},
-	[419] = {
+	[418] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Illustration of the Dragon Soul] on behalf of a guildie (Deomass) who lost the roll, then full cap laughed about it in raid chat.",
@@ -6036,7 +6029,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036E988D",
 	},
-	[420] = {
+	[419] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Valorous Raiments of Faith] from VoA in a MS > OS run for their offspec then ignored request to trade to the rightful winner.",
@@ -6045,7 +6038,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03006054",
 	},
-	[421] = {
+	[420] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Given [Fury of the Five Flights] by mistake in a OS25 man pug run despite losing the roll and refused to give to the rightful winner.",
@@ -6054,7 +6047,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036AE6A8",
 	},
-	[422] = {
+	[421] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Surge Needle Ring] after a master loot bug meant it was on group loot then immediately went offline.",
@@ -6063,7 +6056,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03262315",
 	},
-	[423] = {
+	[422] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Recieved [Gothik's Cowl] in a MS > OS Nax pug where they lost the roll - did not hand over the item to the rightful winner when asked.",
@@ -6072,7 +6065,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-025D1AE4",
 	},
-	[424] = {
+	[423] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Given [Hailstorm] by his mage friend even though he lost the roll then they both went offline.",
@@ -6081,7 +6074,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0301657B",
 	},
-	[425] = {
+	[424] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Gave [Deadly Gladiator's Satin Gloves] which are resto druid pvp gloves to a balance druid not letting the feral druid roll for it.",
@@ -6090,7 +6083,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F9CF01",
 	},
-	[426] = {
+	[425] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Arcanic Tramplers] in a EoE25 run which they did not soft resreve then went and put them on the auction house.",
@@ -6099,7 +6092,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FF0BC5",
 	},
-	[427] = {
+	[426] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Leggings of the Honored] from and OS25 run, didn't soft reserve or win the roll but took them anyway.",
@@ -6108,7 +6101,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02CB7320",
 	},
-	[428] = {
+	[427] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Living Ice Crystals] healer mace from EoE in a MS > OS pug that they came as DPS for.",
@@ -6117,13 +6110,21 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-037A81D1",
 	},
-	[429] = {
+	[428] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: As raidleader lost a greed roll for expensive BoE [Arcanic Tramplers] from EoE but kept for himself anyway.",
 		url = "https://discord.com/channels/610036506974748700/1035181578114060328",
 		players = {
 			[1] = {
+				name = "Kallemandu",
+				faction = "Horde",
+				guid = "Player-4465-0400DAEB",
+				aliases = {
+					"Sebmrp",
+				},
+			},
+			[2] = {
 				name = "Klacki",
 				class = "SHAMAN",
 				faction = "Horde",
@@ -6132,17 +6133,9 @@ t.case_table = {
 					"Kolombus",
 				},
 			},
-			[2] = {
-				name = "Kallemandu",
-				faction = "Horde",
-				guid = "Player-4465-0400DAEB",
-				aliases = {
-					"Sebmrp",
-				},
-			},
 		},
 	},
-	[430] = {
+	[429] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd tank legs [Legplates of Sovereignty] in a MS > OS raid, refused to give to the winner of the roll.",
@@ -6155,7 +6148,7 @@ t.case_table = {
 			"Doktordk",
 		},
 	},
-	[431] = {
+	[430] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Wand of the Archlich] by guildie master looter in a MS > OS raid without it being rolled for.",
@@ -6164,7 +6157,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02E28CC1",
 	},
-	[432] = {
+	[431] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Helm of the Lost Vanquisher] by guildie master looter in a MS > OS raid without it being rolled for.",
@@ -6173,7 +6166,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02E28C7A",
 	},
-	[433] = {
+	[432] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Master looted [Kel'Thuzad's Reach], [Wand of the Archlich] and [Helm of the Lost Vanquisher] to guildies instead of rolling then left raid.",
@@ -6182,13 +6175,21 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02E2854F",
 	},
-	[434] = {
+	[433] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Part of the guild <Sons of Hey> known organizing pug raids only to assign all loot to themselves.",
 		url = "https://discord.com/channels/610036506974748700/1032385015205597254",
 		players = {
 			[1] = {
+				name = "Kallemandu",
+				faction = "Horde",
+				guid = "Player-4465-0400DAEB",
+				aliases = {
+					"Sebmrp",
+				},
+			},
+			[2] = {
 				name = "Klacki",
 				class = "SHAMAN",
 				faction = "Horde",
@@ -6197,17 +6198,9 @@ t.case_table = {
 					"Kolombus",
 				},
 			},
-			[2] = {
-				name = "Kallemandu",
-				faction = "Horde",
-				guid = "Player-4465-0400DAEB",
-				aliases = {
-					"Sebmrp",
-				},
-			},
 		},
 	},
-	[435] = {
+	[434] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Part of the guild <Sons of Hey> known organizing pug raids only to assign all loot to themselves.",
@@ -6216,7 +6209,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03006885",
 	},
-	[436] = {
+	[435] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Part of the guild <Sons of Hey> known organizing pug raids only to assign all loot to themselves.",
@@ -6225,7 +6218,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0377F497",
 	},
-	[437] = {
+	[436] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Part of the guild <Sons of Hey> known organizing pug raids only to assign all loot to themselves.",
@@ -6238,7 +6231,7 @@ t.case_table = {
 			"Julmahege",
 		},
 	},
-	[438] = {
+	[437] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Helm of the Lost Protector] after masterloot guildie traded it in a MS > OS run instead of the roll winner.",
@@ -6247,7 +6240,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0376E2B5",
 	},
-	[439] = {
+	[438] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Helm of the Lost Protector] giving it to a guildie in a MS > OS run instead of the roll winner.",
@@ -6256,7 +6249,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0374D5CB",
 	},
-	[440] = {
+	[439] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Torch of Holy Fire] as masterlooter and gave it to his friend in a soft reserve Nax run instead of giving it to the roll winner.",
@@ -6265,7 +6258,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03742231",
 	},
-	[441] = {
+	[440] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Reins of the Grand Black War Mammoth] from VoA then logged out and changed character name.",
@@ -6274,7 +6267,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0370F624",
 	},
-	[442] = {
+	[441] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Lost roll for [Betrayer of Humanity] in a Nax run and was given it by mistake then refused to trade it to the rightful roll winner.",
@@ -6283,7 +6276,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-030385FD",
 	},
-	[443] = {
+	[442] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Gem of Imprisoned Vassals] despite losing the roll it being a downgrade then refused to hand it over to the winner.",
@@ -6292,7 +6285,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0305C434",
 	},
-	[444] = {
+	[443] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Key to the Focusing Iris] giving it to themselves in a MS > OS Nax raid.",
@@ -6301,7 +6294,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-00B5557D",
 	},
-	[445] = {
+	[444] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Key to the Focusing Iris] which was not hard reserved in a MS > OS Nax as Raidleader.",
@@ -6310,7 +6303,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0376B0D4",
 	},
-	[446] = {
+	[445] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Gave an [Lost Jewel] ring to a healer instead of the winner of the roll in MS > OS.",
@@ -6330,7 +6323,7 @@ t.case_table = {
 			},
 		},
 	},
-	[447] = {
+	[446] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Didn't hand over [Dawnwalker] boots to a hunter who won the roll because 'they are leather'.",
@@ -6350,7 +6343,7 @@ t.case_table = {
 			},
 		},
 	},
-	[448] = {
+	[447] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Betrayer of Humanity] in Nax after master loot bug and refused to trade it back so it could be properly rolled for.",
@@ -6359,7 +6352,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036B08C3",
 	},
-	[449] = {
+	[448] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Witheld 2 items from winning rollers in a MS > OS raid.",
@@ -6368,7 +6361,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0308F1A0",
 	},
-	[450] = {
+	[449] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Witheld 2 items from winning rollers in a MS > OS raid.",
@@ -6377,7 +6370,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-037C7993",
 	},
-	[451] = {
+	[450] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd BoE [Benefactor's Gauntlets] in Nax after taking advantage of Master Loot bug then left the raid.",
@@ -6386,7 +6379,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03848823",
 	},
-	[452] = {
+	[451] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Hammer of the Astral Plane] in Nax after Master loot bugged on last boss. They did not soft reserve it.",
@@ -6395,7 +6388,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F2B3D7",
 	},
-	[453] = {
+	[452] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Discretely recieved an item that wasn't rolled out by his guildy.",
@@ -6409,7 +6402,7 @@ t.case_table = {
 			"Tosato",
 		},
 	},
-	[454] = {
+	[453] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Worked with a guildy to remove someone from SR so they wouldn't have to roll against someone when it dropped.",
@@ -6418,7 +6411,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03A619DF",
 	},
-	[455] = {
+	[454] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Rolled on item knowing it wasn't their item to roll on, looted the item and equipped it.",
@@ -6427,7 +6420,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0142FCB4",
 	},
-	[456] = {
+	[455] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd Badge of the Swarmguard trinket from a AQ40 run which was soft-reserved and ignored all whispers to trade it.",
@@ -6436,7 +6429,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-038EE932",
 	},
-	[457] = {
+	[456] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Master looted all items in the raid and left at the end without rolling them out.",
@@ -6445,7 +6438,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0379A9E2",
 	},
-	[458] = {
+	[457] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Refused to give valid item to the roll winner in Karazhan.",
@@ -6454,7 +6447,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-00DA0851",
 	},
-	[459] = {
+	[458] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Gave ZA trinket to a guild member in a pug run without rolling the item out.",
@@ -6463,7 +6456,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0028F953",
 	},
-	[460] = {
+	[459] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Gave [Hex Shrunken Head] to losing roll. Later kicked all melee from raid and kept the loot for himself.",
@@ -6472,7 +6465,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-016E16AB",
 	},
-	[461] = {
+	[460] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Took CVOS for themselves instead of giving it to the roll winner then deleted SR's to make it look like they did not SR the item.",
@@ -6481,7 +6474,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03385179",
 	},
-	[462] = {
+	[461] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd Serpent-Coil Braid from someone that soft reserved it.",
@@ -6490,7 +6483,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03056191",
 	},
-	[463] = {
+	[462] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Leggings of the Honored] which were reserved by a hunter but not handed to them.",
@@ -6499,7 +6492,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02EBA8E7",
 	},
-	[464] = {
+	[463] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd a ZA trinket with the raid RL Sketlon, same guild.",
@@ -6508,7 +6501,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02A26834",
 	},
-	[465] = {
+	[464] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Took VoA warrior item as a paladin with warriors needing on the item.",
@@ -6517,7 +6510,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02A9A021",
 	},
-	[466] = {
+	[465] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd all the loot in a semi-guild naxx 25 run.",
@@ -6526,7 +6519,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02E27C6B",
 	},
-	[467] = {
+	[466] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Master looter was off due to error/bug - they then needed the item tried to sell it within raid instead of trading it back.",
@@ -6538,7 +6531,7 @@ t.case_table = {
 			"Chapaev",
 		},
 	},
-	[468] = {
+	[467] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd VOA mount which was not hard reserved and not rolled.",
@@ -6547,7 +6540,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02C84031",
 	},
-	[469] = {
+	[468] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Looted boss and left raid without distributing. Multiple previous reports.",
@@ -6570,7 +6563,7 @@ t.case_table = {
 			},
 		},
 	},
-	[470] = {
+	[469] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja looted DST after losing to a 98 roll.",
@@ -6580,7 +6573,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036AD3EE",
 	},
-	[471] = {
+	[470] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Third report after changing names again they ninja'd Fury of the Five Flights trinket.",
@@ -6589,7 +6582,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036D63AE",
 	},
-	[472] = {
+	[471] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Second report after changing names from Immortalss they ninja'd item they lost the roll to.",
@@ -6598,7 +6591,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036D63AE",
 	},
-	[473] = {
+	[472] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: VOD, SS and logs proving he ninjaed 3 items from KT for himself.",
@@ -6607,7 +6600,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036D63AE",
 	},
-	[474] = {
+	[473] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Rolling MS upgrade on tier they already clearly had in raid and in logs.",
@@ -6617,7 +6610,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-039579E3",
 	},
-	[475] = {
+	[474] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja looted 2H axe from prepatch Karazhan boss on his hunter called Spectracruz.",
@@ -6627,7 +6620,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-010380A0",
 	},
-	[476] = {
+	[475] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja looted 2H axe from prepatch Karazhan boss.",
@@ -6637,7 +6630,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-001EC0F8",
 	},
-	[477] = {
+	[476] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Didn't hand over the item to the winning roll.",
@@ -6647,7 +6640,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036D0D76",
 	},
-	[478] = {
+	[477] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Organiser bidding up items to inflate the price.",
@@ -6657,7 +6650,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03985FEF",
 	},
-	[479] = {
+	[478] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Organiser bidding up items to inflate the price.",
@@ -6667,7 +6660,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F27FE4",
 	},
-	[480] = {
+	[479] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Organised a GDKP and kept the 80k gold pot. Not the first time.",
@@ -6690,7 +6683,7 @@ t.case_table = {
 			},
 		},
 	},
-	[481] = {
+	[480] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Organised a GDKP and kept the 100k gold pot. Not the first time.",
@@ -6700,7 +6693,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-040DFDFD",
 	},
-	[482] = {
+	[481] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Invited 2 bidders for the same item when it was pre-sold.",
@@ -6710,7 +6703,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FACA38",
 	},
-	[483] = {
+	[482] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Organised a GDKP run then logged out at the end without distributing cuts.",
@@ -6720,7 +6713,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02F69219",
 	},
-	[484] = {
+	[483] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Organised a GDKP then kept the entire pot at the end, logged out and changed name.",
@@ -6733,7 +6726,7 @@ t.case_table = {
 			"Bonjoví",
 		},
 	},
-	[485] = {
+	[484] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Called people slurs (including hard r) in-game and on discord.",
@@ -6743,7 +6736,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FB0F7B",
 	},
-	[486] = {
+	[485] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Called people slurs (hard r) in-game and on discord.",
@@ -6753,7 +6746,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FB3C4D",
 	},
-	[487] = {
+	[486] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Using homophobic slurs in-game.",
@@ -6763,7 +6756,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-040B018A",
 	},
-	[488] = {
+	[487] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Third time reported, ninja'd loot from naxxramas 25 man.",
@@ -6777,7 +6770,7 @@ t.case_table = {
 			"Joggeg",
 		},
 	},
-	[489] = {
+	[488] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Second time reported, ninja'd loot from obsidian sanctum 25 man.",
@@ -6791,7 +6784,7 @@ t.case_table = {
 			"Joggeg",
 		},
 	},
-	[490] = {
+	[489] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Semi guild run loot ninja all loot in naxx 25.",
@@ -6805,7 +6798,7 @@ t.case_table = {
 			"Joggeg",
 		},
 	},
-	[491] = {
+	[490] = {
 		category = "harassment",
 		level = 3,
 		description = "[scambuster]: Racist comments to some people who were trying to help them do ZD arena.",
@@ -6815,7 +6808,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-027295ED",
 	},
-	[492] = {
+	[491] = {
 		category = "dungeon",
 		level = 2,
 		description = "[scambuster]: Needing on contested plate gear.",
@@ -6824,33 +6817,33 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03730AF1",
 	},
-	[493] = {
+	[492] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Locking people to raid when they had no intention of allowing them to roll for SR due to a mistake instead of kicking and replacing.",
 		url = "https://discord.com/channels/610036506974748700/1045012455157403748",
 		players = {
 			[1] = {
-				name = "Serioussam",
-				class = "DEATHKNIGHT",
-				faction = "Horde",
-				guid = "Player-4465-036C99F2",
-			},
-			[2] = {
-				name = "Elwhite",
-				class = "PALADIN",
-				faction = "Horde",
-				guid = "Player-4465-03D64D0D",
-			},
-			[3] = {
 				name = "Avinashi",
 				class = "MAGE",
 				faction = "Horde",
 				guid = "Player-4465-02F71E12",
 			},
+			[2] = {
+				name = "Serioussam",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
+				guid = "Player-4465-036C99F2",
+			},
+			[3] = {
+				name = "Elwhite",
+				class = "PALADIN",
+				faction = "Horde",
+				guid = "Player-4465-03D64D0D",
+			},
 		},
 	},
-	[494] = {
+	[493] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Attempting to scam the raid out of BoE items they were not entitled to as they already had them then tried to get raidleader blocklisted.",
@@ -6870,7 +6863,7 @@ t.case_table = {
 			},
 		},
 	},
-	[495] = {
+	[494] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Admitted to needing item(s) for vendor.",
@@ -6880,7 +6873,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0397DD54",
 	},
-	[496] = {
+	[495] = {
 		category = "trade",
 		level = 3,
 		description = "[scambuster]: Deathrolled a then logged off without paying winner gold.",
@@ -6890,7 +6883,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03BC6756",
 	},
-	[497] = {
+	[496] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: As the organiser bidding on items and thus increasing their price for their own gain.",
@@ -6900,9 +6893,9 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036AB382",
 	},
-	[498] = {
+	[497] = {
 		category = "raid",
-		level = 3,
+		level = 2,
 		description = "[scambuster]: Clear breaking of SR rules. He didn't award item to player winning roll and decided to keep it.",
 		url = "https://discord.com/channels/610036506974748700/1036283390716039178",
 		name = "Belfpaladin",
@@ -6910,7 +6903,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0261D12E",
 	},
-	[499] = {
+	[498] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd [Pennant Cloak] after losing the roll then left the raid group.",
@@ -6935,7 +6928,7 @@ t.case_table = {
 			},
 		},
 	},
-	[500] = {
+	[499] = {
 		category = "dungeon",
 		level = 3,
 		description = "[scambuster]: Needing on an item they cannot benefit from and they are enchanter, item would be DE'd.",
@@ -6945,7 +6938,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-036B1E17",
 	},
-	[501] = {
+	[500] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Didn't give [Gauntlets of the Lost Protector] to the roll winner then removed them from group when they complained.",
@@ -6955,7 +6948,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-037A942E",
 	},
-	[502] = {
+	[501] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Did not give the item to the winner, admitted in DM they have the item and said they were not eligible despite being the only soft reserve.",
@@ -6965,7 +6958,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02FAA01D",
 	},
-	[503] = {
+	[502] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Ninja'd a ZA trinket with the raid RL Sketlon, same guild.",
@@ -6975,7 +6968,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-02A6573E",
 	},
-	[504] = {
+	[503] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Bid and won items but refused to pay while demanding his cut from the pot at the end.",
@@ -6985,7 +6978,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-03A8346B",
 	},
-	[505] = {
+	[504] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Did not split the GDKP pot at the end of the raid.",
@@ -6995,7 +6988,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-0300A24D",
 	},
-	[506] = {
+	[505] = {
 		category = "raid",
 		level = 3,
 		description = "[scambuster]: Did not hand over item to winning roll, instead giving it to someone that lost the roll and reserved it 2 minutes after Gruel had died.",
@@ -7005,7 +6998,7 @@ t.case_table = {
 		faction = "Horde",
 		guid = "Player-4465-024FEFE4",
 	},
-	[507] = {
+	[506] = {
 		category = "gdkp",
 		level = 3,
 		description = "[scambuster]: Winning bid on bow from Zul'Aman but did not pay up. Known to also deathroll scam players.",
@@ -7018,7 +7011,7 @@ t.case_table = {
 			"Joeßyden",
 		},
 	},
-	[508] = {
+	[507] = {
 		category = "trade",
 		level = 3,
 		description = "[scambuster]: Multiple reports for similar offense, deathroll scammed someone out of 1k gold on this occasion.",
