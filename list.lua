@@ -1133,10 +1133,13 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1142259217596698694",
 		players = {
 			[1] = {
-				name = "Rankdruid",
+				name = "Rankdruíd",
 				class = "DRUID",
 				faction = "Horde",
 				guid = "Player-4465-02FF9A3F",
+				aliases = {
+					"Rankdruid",
+				},
 			},
 			[2] = {
 				name = "Stopdps",
