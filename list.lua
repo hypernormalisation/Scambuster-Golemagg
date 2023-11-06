@@ -232,10 +232,13 @@ t.case_table = {
 				guid = "Player-4465-02FBFCB3",
 			},
 			[3] = {
-				name = "Myadnu",
+				name = "Myuli",
 				class = "DRUID",
 				faction = "Horde",
 				guid = "Player-4465-02FBFD13",
+				aliases = {
+					"Myadnu",
+				},
 			},
 			[4] = {
 				name = "Diedzins",
