@@ -3904,28 +3904,28 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1115423225313235004",
 		players = {
 			[1] = {
-				name = "Shadöwpriest",
-				class = "PRIEST",
-				faction = "Horde",
-				guid = "Player-4465-02FB8229",
-			},
-			[2] = {
 				name = "Megawizzard",
 				class = "MAGE",
 				faction = "Horde",
 				guid = "Player-4465-02F13742",
 			},
-			[3] = {
-				name = "Megawizard",
-				class = "MAGE",
+			[2] = {
+				name = "Shadöwpriest",
+				class = "PRIEST",
 				faction = "Horde",
-				guid = "Player-4465-02F15F4F",
+				guid = "Player-4465-02FB8229",
 			},
-			[4] = {
+			[3] = {
 				name = "Angrywarrior",
 				class = "WARRIOR",
 				faction = "Horde",
 				guid = "Player-4465-02F2143C",
+			},
+			[4] = {
+				name = "Megawizard",
+				class = "MAGE",
+				faction = "Horde",
+				guid = "Player-4465-02F15F4F",
 			},
 		},
 	},
@@ -4057,16 +4057,16 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1113450521123094538",
 		players = {
 			[1] = {
-				name = "Cräbby",
-				class = "DEATHKNIGHT",
-				faction = "Horde",
-				guid = "Player-4465-03701DC4",
-			},
-			[2] = {
 				name = "Crãbby",
 				class = "PALADIN",
 				faction = "Horde",
 				guid = "Player-4465-041BD6B1",
+			},
+			[2] = {
+				name = "Cräbby",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
+				guid = "Player-4465-03701DC4",
 			},
 		},
 	},
@@ -4949,6 +4949,15 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1099013488199872512",
 		players = {
 			[1] = {
+				name = "Xliné",
+				class = "MAGE",
+				faction = "Horde",
+				guid = "Player-4465-02C07D89",
+				aliases = {
+					"Maddemone",
+				},
+			},
+			[2] = {
 				name = "Réverene",
 				class = "PALADIN",
 				faction = "Horde",
@@ -4956,15 +4965,6 @@ t.case_table = {
 				aliases = {
 					"Rve",
 					"Rêvêrence",
-				},
-			},
-			[2] = {
-				name = "Xliné",
-				class = "MAGE",
-				faction = "Horde",
-				guid = "Player-4465-02C07D89",
-				aliases = {
-					"Maddemone",
 				},
 			},
 		},
@@ -5059,22 +5059,22 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1097300550460129340",
 		players = {
 			[1] = {
-				name = "Chøde",
-				class = "DEATHKNIGHT",
-				faction = "Horde",
-				guid = "Player-4465-04253E12",
-			},
-			[2] = {
 				name = "Werepyre",
 				class = "PRIEST",
 				faction = "Horde",
 				guid = "Player-4465-0422956F",
 			},
-			[3] = {
+			[2] = {
 				name = "Davidwozniak",
 				class = "WARRIOR",
 				faction = "Horde",
 				guid = "Player-4465-041ADF7B",
+			},
+			[3] = {
+				name = "Chøde",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
+				guid = "Player-4465-04253E12",
 			},
 		},
 	},
@@ -5091,16 +5091,16 @@ t.case_table = {
 				guid = "Player-4465-04151EC1",
 			},
 			[2] = {
-				name = "Fàtal",
-				class = "PRIEST",
-				faction = "Horde",
-				guid = "Player-4465-040CC9B9",
-			},
-			[3] = {
 				name = "Nessunaa",
 				class = "MAGE",
 				faction = "Horde",
 				guid = "Player-4465-04165CAC",
+			},
+			[3] = {
+				name = "Fàtal",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-040CC9B9",
 			},
 		},
 	},
@@ -5906,54 +5906,30 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1074711389404413962",
 		players = {
 			[1] = {
-				name = "Jooje",
-				class = "PRIEST",
-				faction = "Horde",
-				guid = "Player-4465-02EBA83D",
-			},
-			[2] = {
 				name = "Nargil",
 				class = "SHAMAN",
 				faction = "Horde",
 				guid = "Player-4465-0304D75E",
 			},
-			[3] = {
-				name = "Hadronox",
-				class = "DEATHKNIGHT",
-				faction = "Horde",
-				guid = "Player-4465-036B632D",
-			},
-			[4] = {
-				name = "Vizzy",
-				class = "HUNTER",
-				faction = "Horde",
-				guid = "Player-4465-0429CE06",
-			},
-			[5] = {
-				name = "Primalbeast",
-				class = "DRUID",
-				faction = "Horde",
-				guid = "Player-4465-02ED8852",
-			},
-			[6] = {
-				name = "Avenus",
-				class = "MAGE",
-				faction = "Horde",
-				guid = "Player-4465-0300A020",
-			},
-			[7] = {
-				name = "Helzor",
-				class = "WARRIOR",
-				faction = "Horde",
-				guid = "Player-4465-0300A3CC",
-			},
-			[8] = {
+			[2] = {
 				name = "Arcwarden",
 				class = "MAGE",
 				faction = "Horde",
 				guid = "Player-4465-02E38B84",
 			},
-			[9] = {
+			[3] = {
+				name = "Helzor",
+				class = "WARRIOR",
+				faction = "Horde",
+				guid = "Player-4465-0300A3CC",
+			},
+			[4] = {
+				name = "Avenus",
+				class = "MAGE",
+				faction = "Horde",
+				guid = "Player-4465-0300A020",
+			},
+			[5] = {
 				name = "Horseman",
 				class = "PALADIN",
 				faction = "Horde",
@@ -5961,6 +5937,30 @@ t.case_table = {
 				aliases = {
 					"Maximizer",
 				},
+			},
+			[6] = {
+				name = "Vizzy",
+				class = "HUNTER",
+				faction = "Horde",
+				guid = "Player-4465-0429CE06",
+			},
+			[7] = {
+				name = "Primalbeast",
+				class = "DRUID",
+				faction = "Horde",
+				guid = "Player-4465-02ED8852",
+			},
+			[8] = {
+				name = "Jooje",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-02EBA83D",
+			},
+			[9] = {
+				name = "Hadronox",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
+				guid = "Player-4465-036B632D",
 			},
 		},
 	},
@@ -6497,10 +6497,9 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1059409839975055390",
 		players = {
 			[1] = {
-				name = "Akatsukio",
-				class = "PALADIN",
+				name = "Drchandler",
 				faction = "Horde",
-				guid = "Player-4465-0419651F",
+				guid = "Player-4465-02FB81E0",
 			},
 			[2] = {
 				name = "Rexoliins",
@@ -6509,9 +6508,10 @@ t.case_table = {
 				guid = "Player-4465-03B93605",
 			},
 			[3] = {
-				name = "Drchandler",
+				name = "Akatsukio",
+				class = "PALADIN",
 				faction = "Horde",
-				guid = "Player-4465-02FB81E0",
+				guid = "Player-4465-0419651F",
 			},
 		},
 	},
@@ -8119,6 +8119,12 @@ t.case_table = {
 				guid = "Player-4465-040DFDFD",
 			},
 			[2] = {
+				name = "Thefallin",
+				class = "PRIEST",
+				faction = "Horde",
+				guid = "Player-4465-0436984B",
+			},
+			[3] = {
 				name = "Tilaxe",
 				class = "HUNTER",
 				faction = "Horde",
@@ -8126,12 +8132,6 @@ t.case_table = {
 				aliases = {
 					"Shimisu",
 				},
-			},
-			[3] = {
-				name = "Thefallin",
-				class = "PRIEST",
-				faction = "Horde",
-				guid = "Player-4465-0436984B",
 			},
 		},
 	},
