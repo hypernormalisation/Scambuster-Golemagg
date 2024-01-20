@@ -3409,6 +3409,7 @@ t.case_table = {
 	},
 	[336] = {
 		name = "Anknownlolz",
+		class = "WARLOCK",
 		guid = "Player-4465-0271BEB8",
 		faction = "Horde",
 		level = 3,
