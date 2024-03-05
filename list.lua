@@ -7045,6 +7045,7 @@ t.case_table = {
 	},
 	[684] = {
 		name = "Empaines",
+		class = "MAGE",
 		guid = "Player-4465-011A5F24",
 		faction = "Horde",
 		level = 3,
