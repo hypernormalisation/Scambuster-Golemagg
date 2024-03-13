@@ -8291,6 +8291,7 @@ t.case_table = {
 	},
 	[809] = {
 		name = "Baffynka",
+		class = "PRIEST",
 		guid = "Player-4465-03730AF1",
 		faction = "Horde",
 		level = 2,
