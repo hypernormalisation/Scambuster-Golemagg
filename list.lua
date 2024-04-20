@@ -3592,9 +3592,12 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1150497797427187843",
 	},
 	[355] = {
-		name = "Sharlo",
+		name = "Swagone",
 		class = "MAGE",
 		guid = "Player-4465-02FA3CF3",
+		aliases = {
+			"Sharlo",
+		},
 		faction = "Horde",
 		level = 2,
 		category = "raid",
