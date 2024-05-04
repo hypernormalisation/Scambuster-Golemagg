@@ -1,7 +1,7 @@
 <div align="center">
 
 # Scambuster-Golemagg
-![Banner](https://user-images.githubusercontent.com/52763122/212466261-6ec683c1-33a3-4d73-a127-565c020b0b96.gif)
+![Golemagg_Banner_Childrens_Week_12fps_right](https://github.com/hypernormalisation/Scambuster-Golemagg/assets/52763122/97061416-f33d-4fea-9fd9-d7a94f0e8920)
 
 [![Downloads](https://img.shields.io/github/downloads/Hypernormalisation/Scambuster-Golemagg/total?logo=github&color=%235ab76e&style=for-the-badge&label=Downloads)](https://github.com/Hypernormalisation/Scambuster-Golemagg/releases/latest)
 [![Latest](https://img.shields.io/github/v/release/hypernormalisation/Scambuster-Golemagg?label=latest&style=for-the-badge&color=%23818dff)](https://github.com/Hypernormalisation/Scambuster-Golemagg/releases/latest)
