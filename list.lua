@@ -1,7 +1,6 @@
 local _, t = ...
 
 -- Golemagg Discord Blocklist Table
-
 -- unique characters: 844
 
 t.version = "@project-version@"
