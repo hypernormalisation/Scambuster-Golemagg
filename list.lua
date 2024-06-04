@@ -4759,7 +4759,7 @@ t.case_table = {
 	[462] = {
 		name = "Klacki",
 		class = "SHAMAN",
-		guid = "Player-4465-036D02CE",
+		guid = "Player-4465-045725D2",
 		aliases = {
 			"Tosla",
 			"Kolombus",
