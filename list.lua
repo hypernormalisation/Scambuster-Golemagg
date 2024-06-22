@@ -3917,9 +3917,12 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1114707180713693255",
 	},
 	[382] = {
-		name = "Unholydonutz",
+		name = "Unholydonütz",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-0379B649",
+		aliases = {
+			"Unholydonutz",
+		},
 		faction = "Horde",
 		level = 3,
 		category = "raid",
