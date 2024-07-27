@@ -2,12 +2,142 @@ local _, t = ...
 
 -- Golemagg Discord Blocklist Table
 
--- unique characters: 530
+-- unique characters: 543
 
 t.version = "@project-version@"
 
 t.case_table = {
 	[1] = {
+		name = "Môrningstar",
+		class = "PRIEST",
+		guid = "Player-4465-02C44FA8",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item when he lost the roll and also rolled with an alt to have higher chances.",
+		url = "https://discord.com/channels/610036506974748700/1265718074858803362",
+	},
+	[2] = {
+		name = "Anugød",
+		class = "SHAMAN",
+		guid = "Player-4465-01C3C043",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item when he lost the roll and also rolled with an alt to have higher chances.",
+		url = "https://discord.com/channels/610036506974748700/1265718074858803362",
+	},
+	[3] = {
+		name = "Cønjuringx",
+		class = "SHAMAN",
+		guid = "Player-4465-018AC1A3",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item when he lost the roll and also rolled with an alt to have higher chances.",
+		url = "https://discord.com/channels/610036506974748700/1265718074858803362",
+	},
+	[4] = {
+		name = "Moonmother",
+		class = "DRUID",
+		guid = "Player-4465-013EA0E8",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item when he lost the roll and also rolled with an alt to have higher chances.",
+		url = "https://discord.com/channels/610036506974748700/1265718074858803362",
+	},
+	[5] = {
+		name = "Luxferre",
+		class = "PRIEST",
+		guid = "Player-4465-023AD6E4",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item when he lost the roll and also rolled with an alt to have higher chances.",
+		url = "https://discord.com/channels/610036506974748700/1265718074858803362",
+	},
+	[6] = {
+		name = "Arrakisdraco",
+		class = "SHAMAN",
+		guid = "Player-4465-01C3C03A",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item when he lost the roll and also rolled with an alt to have higher chances.",
+		url = "https://discord.com/channels/610036506974748700/1265718074858803362",
+	},
+	[7] = {
+		name = "Dmtseatfsoul",
+		class = "DRUID",
+		guid = "Player-4465-031169DA",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item when he lost the roll and also rolled with an alt to have higher chances.",
+		url = "https://discord.com/channels/610036506974748700/1265718074858803362",
+	},
+	[8] = {
+		name = "Gnøsis",
+		class = "PALADIN",
+		guid = "Player-4465-046074C1",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item when he lost the roll and also rolled with an alt to have higher chances.",
+		url = "https://discord.com/channels/610036506974748700/1265718074858803362",
+	},
+	[9] = {
+		name = "Vergeron",
+		class = "ROGUE",
+		guid = "Player-4465-018304AF",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item when he lost the roll and also rolled with an alt to have higher chances.",
+		url = "https://discord.com/channels/610036506974748700/1265718074858803362",
+	},
+	[10] = {
+		name = "Ivemanynames",
+		class = "MAGE",
+		guid = "Player-4465-00AFAF74",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item when he lost the roll and also rolled with an alt to have higher chances.",
+		url = "https://discord.com/channels/610036506974748700/1265718074858803362",
+	},
+	[11] = {
+		name = "Vanzør",
+		class = "WARRIOR",
+		guid = "Player-4465-018972A3",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item when he lost the roll and also rolled with an alt to have higher chances.",
+		url = "https://discord.com/channels/610036506974748700/1265718074858803362",
+	},
+	[12] = {
+		name = "Rozmarýnka",
+		class = "WARRIOR",
+		guid = "Player-4465-02FA4C3D",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item when he lost the roll and also rolled with an alt to have higher chances.",
+		url = "https://discord.com/channels/610036506974748700/1265718074858803362",
+	},
+	[13] = {
+		name = "Humblegød",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-037C3A3E",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item when he lost the roll and also rolled with an alt to have higher chances.",
+		url = "https://discord.com/channels/610036506974748700/1265718074858803362",
+	},
+	[14] = {
 		name = "Shilfog",
 		class = "PRIEST",
 		guid = "Player-4465-02F93CC1",
@@ -17,7 +147,7 @@ t.case_table = {
 		description = "2 Reports - Part of a guild run that preyed on and ninja'd from the one pug they brought along, denying them loot they were entitled to roll on",
 		url = "https://discord.com/channels/610036506974748700/1263294185436610620",
 	},
-	[2] = {
+	[15] = {
 		name = "Pachunga",
 		class = "PALADIN",
 		guid = "Player-4465-048314C8",
@@ -27,7 +157,7 @@ t.case_table = {
 		description = "2 Reports - Part of a guild run that preyed on and ninja'd from the one pug they brought along, denying them loot they were entitled to roll on",
 		url = "https://discord.com/channels/610036506974748700/1263294185436610620",
 	},
-	[3] = {
+	[16] = {
 		name = "Crsete",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-045FED2E",
@@ -37,7 +167,7 @@ t.case_table = {
 		description = "2 Reports - Part of a guild run that preyed on and ninja'd from the one pug they brought along, denying them loot they were entitled to roll on",
 		url = "https://discord.com/channels/610036506974748700/1263294185436610620",
 	},
-	[4] = {
+	[17] = {
 		name = "Autoclysm",
 		class = "WARLOCK",
 		guid = "Player-4465-049C9FF3",
@@ -47,7 +177,7 @@ t.case_table = {
 		description = "1 Report - Part of a guild run that preyed on and ninja'd from the one pug they brought along, denying them loot they were entitled to roll on",
 		url = "https://discord.com/channels/610036506974748700/1263294185436610620",
 	},
-	[5] = {
+	[18] = {
 		name = "Ninjaofdunas",
 		class = "SHAMAN",
 		guid = "Player-4465-048310BD",
@@ -57,7 +187,7 @@ t.case_table = {
 		description = "2 Reports - Part of a guild run that preyed on and ninja'd from the one pug they brought along, denying them loot they were entitled to roll on",
 		url = "https://discord.com/channels/610036506974748700/1263294185436610620",
 	},
-	[6] = {
+	[19] = {
 		name = "Awakke",
 		class = "WARRIOR",
 		guid = "Player-4465-046637AC",
@@ -67,7 +197,7 @@ t.case_table = {
 		description = "1 Report - Part of a guild run that preyed on and ninja'd from the one pug they brought along, denying them loot they were entitled to roll on",
 		url = "https://discord.com/channels/610036506974748700/1263294185436610620",
 	},
-	[7] = {
+	[20] = {
 		name = "Lolïpë",
 		class = "PALADIN",
 		guid = "Player-4465-047F40B5",
@@ -77,7 +207,7 @@ t.case_table = {
 		description = "2 Reports - Part of a guild run that preyed on and ninja'd from the one pug they brought along, denying them loot they were entitled to roll on",
 		url = "https://discord.com/channels/610036506974748700/1263294185436610620",
 	},
-	[8] = {
+	[21] = {
 		name = "Ltcaia",
 		class = "SHAMAN",
 		guid = "Player-4465-02F90117",
@@ -87,7 +217,7 @@ t.case_table = {
 		description = "2 Reports - Part of a guild run that preyed on and ninja'd from the one pug they brought along, denying them loot they were entitled to roll on",
 		url = "https://discord.com/channels/610036506974748700/1263294185436610620",
 	},
-	[9] = {
+	[22] = {
 		name = "Journéy",
 		class = "DRUID",
 		guid = "Player-4465-04916B2F",
@@ -97,7 +227,7 @@ t.case_table = {
 		description = "1 Report - Part of a guild run that preyed on and ninja'd from the one pug they brought along, denying them loot they were entitled to roll on",
 		url = "https://discord.com/channels/610036506974748700/1263294185436610620",
 	},
-	[10] = {
+	[23] = {
 		name = "Catacllysm",
 		class = "ROGUE",
 		guid = "Player-4465-047EE55B",
@@ -107,7 +237,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd and attempted to sell the mount from TotFW, then failing to sell it, gave it to himself and logged off",
 		url = "https://discord.com/channels/610036506974748700/1262896053615722508",
 	},
-	[11] = {
+	[24] = {
 		name = "Avepocho",
 		class = "DRUID",
 		guid = "Player-4465-04878392",
@@ -117,7 +247,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item changing the loot rules when the items had already dropped.",
 		url = "https://discord.com/channels/610036506974748700/1259620675669463162",
 	},
-	[12] = {
+	[25] = {
 		name = "Daqan",
 		class = "PALADIN",
 		guid = "Player-4465-04A00D07",
@@ -127,7 +257,7 @@ t.case_table = {
 		description = "1 Report - reluctant to mention loot rules until saying \"ms os\" followed by keeping all the BoEs for themselves as RL",
 		url = "https://discord.com/channels/610036506974748700/1259870467292926024",
 	},
-	[13] = {
+	[26] = {
 		name = "Anitamakswin",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-048D379A",
@@ -137,37 +267,7 @@ t.case_table = {
 		description = "1 Report - Unfairly kicked a pug mid raid in order to get a guildy in, all with admission, completely bricking their ID for that raid",
 		url = "https://discord.com/channels/610036506974748700/1259603160083857428",
 	},
-	[14] = {
-		name = "Nargil",
-		class = "SHAMAN",
-		guid = "Player-4465-0304D75E",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "6 Reports - brought 2 mages to \"spec run\" having made the same \"deal\" with both - tldr negligent abuse of loot",
-		url = "https://discord.com/channels/610036506974748700/1258016557972328448",
-	},
-	[15] = {
-		name = "Hadronox",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-036B632D",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "6 Reports - brought 2 mages to \"spec run\" having made the same \"deal\" with both - tldr negligent abuse of loot",
-		url = "https://discord.com/channels/610036506974748700/1258016557972328448",
-	},
-	[16] = {
-		name = "Jooje",
-		class = "PRIEST",
-		guid = "Player-4465-02EBA83D",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "6 Reports - brought 2 mages to \"spec run\" having made the same \"deal\" with both - tldr negligent abuse of loot",
-		url = "https://discord.com/channels/610036506974748700/1258016557972328448",
-	},
-	[17] = {
+	[27] = {
 		name = "Arcwarden",
 		class = "MAGE",
 		guid = "Player-4465-02E38B84",
@@ -177,107 +277,37 @@ t.case_table = {
 		description = "6 Reports - brought 2 mages to \"spec run\" having made the same \"deal\" with both - tldr negligent abuse of loot",
 		url = "https://discord.com/channels/610036506974748700/1258016557972328448",
 	},
-	[18] = {
-		name = "Darkroguex",
-		class = "ROGUE",
-		guid = "Player-4465-0482F761",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
-		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
-	},
-	[19] = {
-		name = "Palaknightt",
-		class = "PALADIN",
-		guid = "Player-4465-0482F778",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
-		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
-	},
-	[20] = {
-		name = "Icelordd",
-		class = "MAGE",
-		guid = "Player-4465-02EE39DB",
-		faction = "Unknown",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
-		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
-	},
-	[21] = {
-		name = "Peekre",
-		class = "MAGE",
-		guid = "Player-4465-04445DB7",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
-		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
-	},
-	[22] = {
-		name = "Palaknightx",
-		class = "PALADIN",
-		guid = "Player-4465-048799EB",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
-		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
-	},
-	[23] = {
-		name = "Rîze",
-		class = "PRIEST",
-		guid = "Player-4465-0482F76E",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
-		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
-	},
-	[24] = {
-		name = "Redfiled",
-		class = "HUNTER",
-		guid = "Player-4465-04444B26",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
-		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
-	},
-	[25] = {
-		name = "Deathchoicce",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-044B5A56",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
-		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
-	},
-	[26] = {
-		name = "Marîo",
-		class = "WARLOCK",
-		guid = "Player-4465-044B1625",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
-		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
-	},
-	[27] = {
-		name = "Kendey",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-04445526",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
-		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
-	},
 	[28] = {
+		name = "Jooje",
+		class = "PRIEST",
+		guid = "Player-4465-02EBA83D",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "6 Reports - brought 2 mages to \"spec run\" having made the same \"deal\" with both - tldr negligent abuse of loot",
+		url = "https://discord.com/channels/610036506974748700/1258016557972328448",
+	},
+	[29] = {
+		name = "Nargil",
+		class = "SHAMAN",
+		guid = "Player-4465-0304D75E",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "6 Reports - brought 2 mages to \"spec run\" having made the same \"deal\" with both - tldr negligent abuse of loot",
+		url = "https://discord.com/channels/610036506974748700/1258016557972328448",
+	},
+	[30] = {
+		name = "Hadronox",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-036B632D",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "6 Reports - brought 2 mages to \"spec run\" having made the same \"deal\" with both - tldr negligent abuse of loot",
+		url = "https://discord.com/channels/610036506974748700/1258016557972328448",
+	},
+	[31] = {
 		name = "Palaknightz",
 		class = "PALADIN",
 		guid = "Player-4465-0482F75A",
@@ -287,7 +317,107 @@ t.case_table = {
 		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
 		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
 	},
-	[29] = {
+	[32] = {
+		name = "Icelordd",
+		class = "MAGE",
+		guid = "Player-4465-02EE39DB",
+		faction = "Unknown",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
+		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
+	},
+	[33] = {
+		name = "Kendey",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-04445526",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
+		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
+	},
+	[34] = {
+		name = "Palaknightx",
+		class = "PALADIN",
+		guid = "Player-4465-048799EB",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
+		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
+	},
+	[35] = {
+		name = "Palaknightt",
+		class = "PALADIN",
+		guid = "Player-4465-0482F778",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
+		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
+	},
+	[36] = {
+		name = "Rîze",
+		class = "PRIEST",
+		guid = "Player-4465-0482F76E",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
+		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
+	},
+	[37] = {
+		name = "Deathchoicce",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-044B5A56",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
+		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
+	},
+	[38] = {
+		name = "Darkroguex",
+		class = "ROGUE",
+		guid = "Player-4465-0482F761",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
+		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
+	},
+	[39] = {
+		name = "Peekre",
+		class = "MAGE",
+		guid = "Player-4465-04445DB7",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
+		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
+	},
+	[40] = {
+		name = "Redfiled",
+		class = "HUNTER",
+		guid = "Player-4465-04444B26",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
+		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
+	},
+	[41] = {
+		name = "Marîo",
+		class = "WARLOCK",
+		guid = "Player-4465-044B1625",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Keeping loot supposed to go to \"offspec\" to disenchant themself for profit to fund their gold selling business",
+		url = "https://discord.com/channels/610036506974748700/1259261954573471744",
+	},
+	[42] = {
 		name = "Zamat",
 		class = "DRUID",
 		guid = "Player-4465-04845C8F",
@@ -297,27 +427,7 @@ t.case_table = {
 		description = "1 Report - Deceived RL, rolled for and took item that they should've rolled OS for as MS, denying another player who won the roll their MS",
 		url = "https://discord.com/channels/610036506974748700/1258016294440013924",
 	},
-	[30] = {
-		name = "Éder",
-		class = "DRUID",
-		guid = "Player-4465-025C3FE3",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd thor'idal bow in a transmog run (as a shaman) to try to sell",
-		url = "https://discord.com/channels/610036506974748700/1257446507741708379",
-	},
-	[31] = {
-		name = "Verjun",
-		class = "MAGE",
-		guid = "Player-4465-01B3BC34",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd thor'idal bow in a transmog run (as a shaman) to try to sell",
-		url = "https://discord.com/channels/610036506974748700/1257446507741708379",
-	},
-	[32] = {
+	[43] = {
 		name = "Fistbez",
 		class = "SHAMAN",
 		guid = "Player-4465-013F90BE",
@@ -327,7 +437,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd thor'idal bow in a transmog run (as a shaman) to try to sell",
 		url = "https://discord.com/channels/610036506974748700/1257446507741708379",
 	},
-	[33] = {
+	[44] = {
 		name = "Zeiler",
 		class = "PALADIN",
 		guid = "Player-4465-02570C90",
@@ -337,7 +447,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd thor'idal bow in a transmog run (as a shaman) to try to sell",
 		url = "https://discord.com/channels/610036506974748700/1257446507741708379",
 	},
-	[34] = {
+	[45] = {
 		name = "Flathom",
 		class = "HUNTER",
 		guid = "Player-4465-048F8B85",
@@ -347,7 +457,27 @@ t.case_table = {
 		description = "1 Report - Ninja'd thor'idal bow in a transmog run (as a shaman) to try to sell",
 		url = "https://discord.com/channels/610036506974748700/1257446507741708379",
 	},
-	[35] = {
+	[46] = {
+		name = "Éder",
+		class = "DRUID",
+		guid = "Player-4465-025C3FE3",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd thor'idal bow in a transmog run (as a shaman) to try to sell",
+		url = "https://discord.com/channels/610036506974748700/1257446507741708379",
+	},
+	[47] = {
+		name = "Verjun",
+		class = "MAGE",
+		guid = "Player-4465-01B3BC34",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd thor'idal bow in a transmog run (as a shaman) to try to sell",
+		url = "https://discord.com/channels/610036506974748700/1257446507741708379",
+	},
+	[48] = {
 		name = "Seruy",
 		class = "PRIEST",
 		guid = "Player-4465-0380F2DB",
@@ -357,7 +487,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd thor'idal bow in a transmog run (as a shaman) to try to sell",
 		url = "https://discord.com/channels/610036506974748700/1257446507741708379",
 	},
-	[36] = {
+	[49] = {
 		name = "Greenginger",
 		class = "SHAMAN",
 		guid = "Player-4465-0487AED9",
@@ -367,7 +497,7 @@ t.case_table = {
 		description = "1 Report - Participated in loot counciling and preying on pugs in their guild run, unfairly denying them loot",
 		url = "https://discord.com/channels/610036506974748700/1257115885093785610",
 	},
-	[37] = {
+	[50] = {
 		name = "Strigiformes",
 		class = "DRUID",
 		guid = "Player-4465-048B36F2",
@@ -377,7 +507,7 @@ t.case_table = {
 		description = "1 Report - Participated in loot counciling and preying on pugs in their guild run, unfairly denying them loot",
 		url = "https://discord.com/channels/610036506974748700/1257115885093785610",
 	},
-	[38] = {
+	[51] = {
 		name = "Sniffmygrips",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-04805189",
@@ -387,7 +517,7 @@ t.case_table = {
 		description = "1 Report - Participated in loot counciling and preying on pugs in their guild run, unfairly denying them loot",
 		url = "https://discord.com/channels/610036506974748700/1257115885093785610",
 	},
-	[39] = {
+	[52] = {
 		name = "Soliks",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-0495C117",
@@ -397,7 +527,7 @@ t.case_table = {
 		description = "1 Report - Received an unfairly won item from a listed RL, did not attempt to resolve the situation fairly and kept it",
 		url = "https://discord.com/channels/610036506974748700/1256673304291446865",
 	},
-	[40] = {
+	[53] = {
 		name = "Bèrserk",
 		class = "DRUID",
 		guid = "Player-4465-02FFAEA6",
@@ -407,7 +537,7 @@ t.case_table = {
 		description = "1 Report - Loot counciled and made up his own loot rules midrun, denying a player a fairly won item",
 		url = "https://discord.com/channels/610036506974748700/1256673304291446865",
 	},
-	[41] = {
+	[54] = {
 		name = "Enddma",
 		class = "PRIEST",
 		guid = "Player-4465-04899362",
@@ -417,7 +547,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd item for DE in a BH, denying another player a usable item",
 		url = "https://discord.com/channels/610036506974748700/1255482004842086430",
 	},
-	[42] = {
+	[55] = {
 		name = "Ciernakrava",
 		class = "DRUID",
 		guid = "Player-4465-04927C26",
@@ -427,7 +557,7 @@ t.case_table = {
 		description = "1 Report - Robbed 20k from a guilds GBank and immediately left guild and stopped communicating",
 		url = "https://discord.com/channels/610036506974748700/1253494312021397505",
 	},
-	[43] = {
+	[56] = {
 		name = "Kerestapo",
 		class = "PRIEST",
 		guid = "Player-4465-04921C1B",
@@ -437,7 +567,7 @@ t.case_table = {
 		description = "1 Report - Robbed 20k from a guilds GBank and immediately left guild and stopped communicating",
 		url = "https://discord.com/channels/610036506974748700/1253494312021397505",
 	},
-	[44] = {
+	[57] = {
 		name = "Hahaballs",
 		class = "WARLOCK",
 		guid = "Player-4465-02D6D8A1",
@@ -447,7 +577,7 @@ t.case_table = {
 		description = "1 Report - Collaborated in a ninja loot in raid being the one to recieve the ninja'd item from the RL in the same guild",
 		url = "https://discord.com/channels/610036506974748700/1253456726661791877",
 	},
-	[45] = {
+	[58] = {
 		name = "Killerne",
 		class = "HUNTER",
 		guid = "Player-4465-02CB7320",
@@ -457,7 +587,7 @@ t.case_table = {
 		description = "3 Reports - Serial ninja looter in raids with multiple offences",
 		url = "https://discord.com/channels/610036506974748700/1253456726661791877",
 	},
-	[46] = {
+	[59] = {
 		name = "Msbmj",
 		class = "HUNTER",
 		guid = "Player-4465-049BA223",
@@ -467,7 +597,7 @@ t.case_table = {
 		description = "1 Report - Benefitted from a guildy ninja looting and loot pooling an item to him he lost a roll on denying another player the item they should've won",
 		url = "https://discord.com/channels/610036506974748700/1253031622056345701",
 	},
-	[47] = {
+	[60] = {
 		name = "Watafakar",
 		class = "PALADIN",
 		guid = "Player-4465-048D6028",
@@ -477,7 +607,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item to loot pool to a guildy, denying the rightful winner the item in the process",
 		url = "https://discord.com/channels/610036506974748700/1253031622056345701",
 	},
-	[48] = {
+	[61] = {
 		name = "Alanumm",
 		class = "DRUID",
 		guid = "Player-4465-03028EC9",
@@ -487,17 +617,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd a BOE to sell as RL in a raid with no stated rule it was HR, denying someone their BIS item who won the roll for it fairly",
 		url = "https://discord.com/channels/610036506974748700/1252761636935172217",
 	},
-	[49] = {
-		name = "Batyaplague",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-047B3831",
-		faction = "Horde",
-		level = 2,
-		category = "dungeon",
-		description = "1 Report - Kicked someone from RDF group over a 1 minute bio break. Replied abusively and toxic when asked about it.",
-		url = "https://discord.com/channels/610036506974748700/1251301796991864944",
-	},
-	[50] = {
+	[62] = {
 		name = "Batyagrowth",
 		class = "DRUID",
 		guid = "Player-4465-0499449E",
@@ -507,17 +627,17 @@ t.case_table = {
 		description = "1 Report - Kicked someone from RDF group over a 1 minute bio break. Replied abusively and toxic when asked about it.",
 		url = "https://discord.com/channels/610036506974748700/1251301796991864944",
 	},
-	[51] = {
-		name = "Batyastorm",
-		class = "SHAMAN",
-		guid = "Player-4465-04629855",
+	[63] = {
+		name = "Batyaplague",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-047B3831",
 		faction = "Horde",
 		level = 2,
 		category = "dungeon",
 		description = "1 Report - Kicked someone from RDF group over a 1 minute bio break. Replied abusively and toxic when asked about it.",
 		url = "https://discord.com/channels/610036506974748700/1251301796991864944",
 	},
-	[52] = {
+	[64] = {
 		name = "Batyalight",
 		class = "PALADIN",
 		guid = "Player-4465-047A9833",
@@ -527,7 +647,17 @@ t.case_table = {
 		description = "1 Report - Kicked someone from RDF group over a 1 minute bio break. Replied abusively and toxic when asked about it.",
 		url = "https://discord.com/channels/610036506974748700/1251301796991864944",
 	},
-	[53] = {
+	[65] = {
+		name = "Batyastorm",
+		class = "SHAMAN",
+		guid = "Player-4465-04629855",
+		faction = "Horde",
+		level = 2,
+		category = "dungeon",
+		description = "1 Report - Kicked someone from RDF group over a 1 minute bio break. Replied abusively and toxic when asked about it.",
+		url = "https://discord.com/channels/610036506974748700/1251301796991864944",
+	},
+	[66] = {
 		name = "Glumifiveg",
 		class = "MAGE",
 		guid = "Player-4465-04960EE9",
@@ -537,7 +667,7 @@ t.case_table = {
 		description = "1 Report - Benefited from a guildy loot pooling an item to them that they lost their roll on",
 		url = "https://discord.com/channels/610036506974748700/1250576305301491832",
 	},
-	[54] = {
+	[67] = {
 		name = "Graruma",
 		class = "ROGUE",
 		guid = "Player-4465-00F580D3",
@@ -547,7 +677,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd a cloth item as a Rogue to loot pool to a guildy who lost their roll",
 		url = "https://discord.com/channels/610036506974748700/1250576305301491832",
 	},
-	[55] = {
+	[68] = {
 		name = "Grimø",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-03B62A41",
@@ -557,7 +687,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item, likely out of spite, denying another person a fair upgrade",
 		url = "https://discord.com/channels/610036506974748700/1250175387133149329",
 	},
-	[56] = {
+	[69] = {
 		name = "Cursebride",
 		class = "MAGE",
 		guid = "Player-4465-02EBA8E7",
@@ -567,7 +697,7 @@ t.case_table = {
 		description = "2 Reports - Ninja'd an item not rolling it. Accepted rolling afterwards but still kept it after losing roll and DCed.",
 		url = "https://discord.com/channels/610036506974748700/1250749672482668556",
 	},
-	[57] = {
+	[70] = {
 		name = "Toriitobravo",
 		class = "PALADIN",
 		guid = "Player-4465-04927A37",
@@ -577,7 +707,7 @@ t.case_table = {
 		description = "1 Report - ninja'd mail items as a paladin, replying with attitude when asked about it",
 		url = "https://discord.com/channels/610036506974748700/1249420985359138997",
 	},
-	[58] = {
+	[71] = {
 		name = "Sonofdeath",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-0389AE51",
@@ -587,7 +717,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item, likely out of spite, denying another player who could rightfully use it",
 		url = "https://discord.com/channels/610036506974748700/1248667444554371286",
 	},
-	[59] = {
+	[72] = {
 		name = "Shanksdudu",
 		class = "DRUID",
 		guid = "Player-4465-03567AC9",
@@ -597,7 +727,7 @@ t.case_table = {
 		description = "1 Report - Needed on every item, none of them usable by the class, to try to sell it to players in the raid.",
 		url = "https://discord.com/channels/610036506974748700/1248614247190237255",
 	},
-	[60] = {
+	[73] = {
 		name = "Gambinojr",
 		class = "PRIEST",
 		guid = "Player-4465-048A568B",
@@ -607,7 +737,7 @@ t.case_table = {
 		description = "1 Report - Spitefully ninja'd an item in a dungeon, was mailicious, toxic and attempted to be deceptive",
 		url = "https://discord.com/channels/610036506974748700/1247293714389401641",
 	},
-	[61] = {
+	[74] = {
 		name = "Tokysko",
 		class = "ROGUE",
 		guid = "Player-4465-04731A66",
@@ -617,7 +747,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd a BOE via retroactive HR rule to sell on the AH in a MS>OS raid",
 		url = "https://discord.com/channels/610036506974748700/1247267985446404309",
 	},
-	[62] = {
+	[75] = {
 		name = "Rackeliluda",
 		class = "SHAMAN",
 		guid = "Player-4465-041BC47E",
@@ -627,7 +757,7 @@ t.case_table = {
 		description = "1 Report - Used toxic and ableist language towards another party member in a random HC dungeon",
 		url = "https://discord.com/channels/610036506974748700/1245429333632225333",
 	},
-	[63] = {
+	[76] = {
 		name = "Erinaa",
 		class = "ROGUE",
 		guid = "Player-4465-042A1FEE",
@@ -637,7 +767,7 @@ t.case_table = {
 		description = "1 Report - Benefitted from a loot pool from his friend, in the process denying the item from the person who should've won it",
 		url = "https://discord.com/channels/610036506974748700/1246132149585711267",
 	},
-	[64] = {
+	[77] = {
 		name = "Aloneintokyo",
 		class = "MAGE",
 		guid = "Player-4465-029F172E",
@@ -647,7 +777,7 @@ t.case_table = {
 		description = "1 Report - Needed on an item to loot pool it to his friend, in the process denying it from another person who should've won it",
 		url = "https://discord.com/channels/610036506974748700/1246132149585711267",
 	},
-	[65] = {
+	[78] = {
 		name = "Pentamra",
 		class = "PALADIN",
 		guid = "Player-4465-0488BA30",
@@ -657,7 +787,7 @@ t.case_table = {
 		description = "1 Report - Toxic comments, intentionally wiping by afking and trying to hold his party hostage by not tanking unless they did what he wanted",
 		url = "https://discord.com/channels/610036506974748700/1246580474697093190",
 	},
-	[66] = {
+	[79] = {
 		name = "Goobzy",
 		class = "DRUID",
 		guid = "Player-4465-0491A65B",
@@ -667,7 +797,7 @@ t.case_table = {
 		description = "1 Report - Received and equipped an item he lost a roll on but that a guildie unfairly loot pooled to him",
 		url = "https://discord.com/channels/610036506974748700/1246790183639056415",
 	},
-	[67] = {
+	[80] = {
 		name = "Bulionek",
 		class = "WARRIOR",
 		guid = "Player-4465-04943B30",
@@ -677,7 +807,7 @@ t.case_table = {
 		description = "1 Report - Ninja looted an item to loot pool to a guildie who needed it too, denying it unfairly from another player",
 		url = "https://discord.com/channels/610036506974748700/1246790183639056415",
 	},
-	[68] = {
+	[81] = {
 		name = "Vlaamsbehang",
 		class = "MAGE",
 		guid = "Player-4465-048E192E",
@@ -687,7 +817,7 @@ t.case_table = {
 		description = "1 Report - Needed on an item he couldnt use, denying another player the item, and then attempting to sell it to them",
 		url = "https://discord.com/channels/610036506974748700/1246891383294263387",
 	},
-	[69] = {
+	[82] = {
 		name = "Duzydrutong",
 		class = "DRUID",
 		guid = "Player-4465-0440664B",
@@ -697,7 +827,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd a dagger and took to vile language when asked why",
 		url = "https://discord.com/channels/610036506974748700/1245447716767797248",
 	},
-	[70] = {
+	[83] = {
 		name = "Pykatostes",
 		class = "ROGUE",
 		guid = "Player-4465-048B63B3",
@@ -707,7 +837,7 @@ t.case_table = {
 		description = "1 Report - Lost a roll vs a druid - proceeded to ninja a relic and unhingedly toxic behavior",
 		url = "https://discord.com/channels/610036506974748700/1245331379550687332",
 	},
-	[71] = {
+	[84] = {
 		name = "Brzydula",
 		class = "MAGE",
 		guid = "Player-4465-0484BBAF",
@@ -717,7 +847,7 @@ t.case_table = {
 		description = "1 Report - lootpool scammed with their warrior friend for a cloth belt (ignored roll win order)",
 		url = "https://discord.com/channels/610036506974748700/1243667231670272011",
 	},
-	[72] = {
+	[85] = {
 		name = "Ugzuk",
 		class = "WARRIOR",
 		guid = "Player-4465-0483FC38",
@@ -727,27 +857,7 @@ t.case_table = {
 		description = "1 Report - lootpool scam for their mage guildies (cloth belt - ignored roll win order)",
 		url = "https://discord.com/channels/610036506974748700/1243667231670272011",
 	},
-	[73] = {
-		name = "Tasdingomom",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-041F0A96",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Needed on an item with the only intention to sell it to another player.",
-		url = "https://discord.com/channels/610036506974748700/1240314821983862837",
-	},
-	[74] = {
-		name = "Nakameguro",
-		class = "SHAMAN",
-		guid = "Player-4465-0476C1CC",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Needed on an item with the only intention to sell it to another player.",
-		url = "https://discord.com/channels/610036506974748700/1240314821983862837",
-	},
-	[75] = {
+	[86] = {
 		name = "Fushundchups",
 		class = "WARRIOR",
 		guid = "Player-4465-0402BC8C",
@@ -757,7 +867,27 @@ t.case_table = {
 		description = "1 Report - Needed on an item with the only intention to sell it to another player.",
 		url = "https://discord.com/channels/610036506974748700/1240314821983862837",
 	},
-	[76] = {
+	[87] = {
+		name = "Tasdingomom",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-041F0A96",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Needed on an item with the only intention to sell it to another player.",
+		url = "https://discord.com/channels/610036506974748700/1240314821983862837",
+	},
+	[88] = {
+		name = "Nakameguro",
+		class = "SHAMAN",
+		guid = "Player-4465-0476C1CC",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Needed on an item with the only intention to sell it to another player.",
+		url = "https://discord.com/channels/610036506974748700/1240314821983862837",
+	},
+	[89] = {
 		name = "Ricesheep",
 		class = "MAGE",
 		guid = "Player-4465-042A0336",
@@ -767,7 +897,7 @@ t.case_table = {
 		description = "1 Report - Needed on an item with the only intention to sell it to another player.",
 		url = "https://discord.com/channels/610036506974748700/1240314821983862837",
 	},
-	[77] = {
+	[90] = {
 		name = "Lesnikq",
 		class = "PRIEST",
 		guid = "Player-4465-0438A76D",
@@ -777,7 +907,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item rolling twice and tricking the RL into giving it to him, equipped instantly.",
 		url = "https://discord.com/channels/610036506974748700/1234801295421079643",
 	},
-	[78] = {
+	[91] = {
 		name = "Esskandar",
 		class = "ROGUE",
 		guid = "Player-4465-047FB446",
@@ -787,7 +917,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd all items at the end of the run.",
 		url = "https://discord.com/channels/610036506974748700/1234578134158934118",
 	},
-	[79] = {
+	[92] = {
 		name = "Shadezs",
 		class = "MAGE",
 		guid = "Player-4465-02FB9A3F",
@@ -797,7 +927,7 @@ t.case_table = {
 		description = "1 Report - Stole gold from a raid leader tricking into trading without paying, refused to pay afterwards and insulted him.",
 		url = "https://discord.com/channels/610036506974748700/1229626031741079647",
 	},
-	[80] = {
+	[93] = {
 		name = "Thanatomwro",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-0383DF14",
@@ -807,17 +937,7 @@ t.case_table = {
 		description = "3 Reports - Gave a player an item they changed in the SR against rules, history of problems with SR.",
 		url = "https://discord.com/channels/610036506974748700/1228469236616265808",
 	},
-	[81] = {
-		name = "Holinkalolz",
-		class = "PALADIN",
-		guid = "Player-4465-03702727",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Ninja'd an item by changing the Softres to it when RL reopened it for new players.",
-		url = "https://discord.com/channels/610036506974748700/1228469236616265808",
-	},
-	[82] = {
+	[94] = {
 		name = "Castrololz",
 		class = "ROGUE",
 		guid = "Player-4465-025F2488",
@@ -827,7 +947,17 @@ t.case_table = {
 		description = "2 Reports - Ninja'd an item by changing the Softres to it when RL reopened it for new players.",
 		url = "https://discord.com/channels/610036506974748700/1228469236616265808",
 	},
-	[83] = {
+	[95] = {
+		name = "Holinkalolz",
+		class = "PALADIN",
+		guid = "Player-4465-03702727",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Ninja'd an item by changing the Softres to it when RL reopened it for new players.",
+		url = "https://discord.com/channels/610036506974748700/1228469236616265808",
+	},
+	[96] = {
 		name = "Hardlylolz",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-036A6B2A",
@@ -837,7 +967,7 @@ t.case_table = {
 		description = "2 Reports - Ninja'd an item by changing the Softres to it when RL reopened it for new players.",
 		url = "https://discord.com/channels/610036506974748700/1228469236616265808",
 	},
-	[84] = {
+	[97] = {
 		name = "Selamãshalan",
 		class = "WARLOCK",
 		guid = "Player-4465-0421AB06",
@@ -847,7 +977,7 @@ t.case_table = {
 		description = "1 Report - Got an item with RL breaking rules for it and allowing an unfair roll and didn't give it back.",
 		url = "https://discord.com/channels/610036506974748700/1227538713098190878",
 	},
-	[85] = {
+	[98] = {
 		name = "Warnius",
 		class = "WARRIOR",
 		guid = "Player-4465-028DD621",
@@ -857,17 +987,7 @@ t.case_table = {
 		description = "1 Report - Broke his own stated rules in raid and gave an item to a player that had agreed to not roll, stealing it from another.",
 		url = "https://discord.com/channels/610036506974748700/1227538713098190878",
 	},
-	[86] = {
-		name = "Loltyint",
-		class = "MAGE",
-		guid = "Player-4465-042A426D",
-		faction = "Horde",
-		level = 3,
-		category = "dungeon",
-		description = "3 Reports - Ninja'd all items at the end of the run, repeated behaviour.",
-		url = "https://discord.com/channels/610036506974748700/1227260681863172168",
-	},
-	[87] = {
+	[99] = {
 		name = "Ejdms",
 		class = "HUNTER",
 		guid = "Player-4465-031A4096",
@@ -877,7 +997,17 @@ t.case_table = {
 		description = "3 Reports - Ninja'd all items at the end of the run, repeated behaviour.",
 		url = "https://discord.com/channels/610036506974748700/1227260681863172168",
 	},
-	[88] = {
+	[100] = {
+		name = "Loltyint",
+		class = "MAGE",
+		guid = "Player-4465-042A426D",
+		faction = "Horde",
+		level = 3,
+		category = "dungeon",
+		description = "3 Reports - Ninja'd all items at the end of the run, repeated behaviour.",
+		url = "https://discord.com/channels/610036506974748700/1227260681863172168",
+	},
+	[101] = {
 		name = "Kohas",
 		class = "PALADIN",
 		guid = "Player-4465-04372680",
@@ -890,7 +1020,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd all items in a raid run when RL forgot to put ML, left the raid and went offline.",
 		url = "https://discord.com/channels/610036506974748700/1227260681863172168",
 	},
-	[89] = {
+	[102] = {
 		name = "Daiiman",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-03B81425",
@@ -900,7 +1030,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd items, ninjapulled, made the group wipe and left when they didn't want to votekick another player.",
 		url = "https://discord.com/channels/610036506974748700/1226919728778313878",
 	},
-	[90] = {
+	[103] = {
 		name = "Berliin",
 		class = "PALADIN",
 		guid = "Player-4465-02FA6BE2",
@@ -910,7 +1040,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd items, ninjapulled, made the group wipe and left when they didn't want to votekick another player.",
 		url = "https://discord.com/channels/610036506974748700/1226919728778313878",
 	},
-	[91] = {
+	[104] = {
 		name = "Drogosgeci",
 		class = "ROGUE",
 		guid = "Player-4465-04581DEA",
@@ -920,17 +1050,7 @@ t.case_table = {
 		description = "1 Report - Leaves raid after his SR item doesn't drop, always after Saurfang.",
 		url = "https://discord.com/channels/610036506974748700/1225019254999482428",
 	},
-	[92] = {
-		name = "Xbb",
-		class = "ROGUE",
-		guid = "Player-4465-045638C2",
-		faction = "Horde",
-		level = 3,
-		category = "dungeon",
-		description = "1 Report - Loot pooled items with a friend in the run allowing them to have double rolls on everything against other players.",
-		url = "https://discord.com/channels/610036506974748700/1224825935698722907",
-	},
-	[93] = {
+	[105] = {
 		name = "Xbaba",
 		class = "PALADIN",
 		guid = "Player-4465-047D7A67",
@@ -940,7 +1060,17 @@ t.case_table = {
 		description = "1 Report - Loot pooled items with a friend in the run allowing them to have double rolls on everything against other players.",
 		url = "https://discord.com/channels/610036506974748700/1224825935698722907",
 	},
-	[94] = {
+	[106] = {
+		name = "Xbb",
+		class = "ROGUE",
+		guid = "Player-4465-045638C2",
+		faction = "Horde",
+		level = 3,
+		category = "dungeon",
+		description = "1 Report - Loot pooled items with a friend in the run allowing them to have double rolls on everything against other players.",
+		url = "https://discord.com/channels/610036506974748700/1224825935698722907",
+	},
+	[107] = {
 		name = "Xbobo",
 		class = "DRUID",
 		guid = "Player-4465-04563164",
@@ -950,17 +1080,7 @@ t.case_table = {
 		description = "1 Report - Loot pooled items with a friend in the run allowing them to have double rolls on everything against other players.",
 		url = "https://discord.com/channels/610036506974748700/1224825935698722907",
 	},
-	[95] = {
-		name = "Didaz",
-		class = "ROGUE",
-		guid = "Player-4465-047D518E",
-		faction = "Horde",
-		level = 3,
-		category = "dungeon",
-		description = "1 Report - Loot pooled items for a friend in the run and insulted a player when asked about it.",
-		url = "https://discord.com/channels/610036506974748700/1224825935698722907",
-	},
-	[96] = {
+	[108] = {
 		name = "Didada",
 		class = "DRUID",
 		guid = "Player-4465-0475FBB9",
@@ -970,17 +1090,17 @@ t.case_table = {
 		description = "1 Report - Loot pooled items for a friend in the run and insulted a player when asked about it.",
 		url = "https://discord.com/channels/610036506974748700/1224825935698722907",
 	},
-	[97] = {
-		name = "Kabszilulxd",
-		class = "WARRIOR",
-		guid = "Player-4465-025661B4",
+	[109] = {
+		name = "Didaz",
+		class = "ROGUE",
+		guid = "Player-4465-047D518E",
 		faction = "Horde",
-		level = 2,
+		level = 3,
 		category = "dungeon",
-		description = "1 Report - Ninja'd all items at the end of the run.",
-		url = "https://discord.com/channels/610036506974748700/1224745294521176115",
+		description = "1 Report - Loot pooled items for a friend in the run and insulted a player when asked about it.",
+		url = "https://discord.com/channels/610036506974748700/1224825935698722907",
 	},
-	[98] = {
+	[110] = {
 		name = "Kabszilol",
 		class = "PALADIN",
 		guid = "Player-4465-0261C700",
@@ -990,7 +1110,17 @@ t.case_table = {
 		description = "1 Report - Ninja'd all items at the end of the run.",
 		url = "https://discord.com/channels/610036506974748700/1224745294521176115",
 	},
-	[99] = {
+	[111] = {
+		name = "Kabszilulxd",
+		class = "WARRIOR",
+		guid = "Player-4465-025661B4",
+		faction = "Horde",
+		level = 2,
+		category = "dungeon",
+		description = "1 Report - Ninja'd all items at the end of the run.",
+		url = "https://discord.com/channels/610036506974748700/1224745294521176115",
+	},
+	[112] = {
 		name = "Kabszidklol",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-0369FDCB",
@@ -1000,7 +1130,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd all items at the end of the run.",
 		url = "https://discord.com/channels/610036506974748700/1224745294521176115",
 	},
-	[100] = {
+	[113] = {
 		name = "Richandalfa",
 		class = "PRIEST",
 		guid = "Player-4465-04286519",
@@ -1010,7 +1140,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd all items at the end of the run.",
 		url = "https://discord.com/channels/610036506974748700/1224267263482531840",
 	},
-	[101] = {
+	[114] = {
 		name = "Nöctua",
 		class = "DRUID",
 		guid = "Player-4465-04512460",
@@ -1020,7 +1150,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd all items at the end of the run and left, ignored whispers.",
 		url = "https://discord.com/channels/610036506974748700/1222874659888955464",
 	},
-	[102] = {
+	[115] = {
 		name = "Georgiaa",
 		class = "DRUID",
 		guid = "Player-4465-02F26BAD",
@@ -1030,7 +1160,7 @@ t.case_table = {
 		description = "1 Report - Kept an item that should have been rolled, ignored whispers and raid messages and logged off.",
 		url = "https://discord.com/channels/610036506974748700/1222541571820621894",
 	},
-	[103] = {
+	[116] = {
 		name = "Pleskaa",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-04796802",
@@ -1040,37 +1170,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd item by giving it directly to his bags and left the raid, multiple screenshots from different players.",
 		url = "https://discord.com/channels/610036506974748700/1222968428470730772",
 	},
-	[104] = {
-		name = "Rakøvinka",
-		class = "PALADIN",
-		guid = "Player-4465-02500184",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "3 Reports - Steals gold from players in GDKP by deducting unfairly or not trading the items but still taking the gold, pockets deductions.",
-		url = "https://discord.com/channels/610036506974748700/1219012597186166987",
-	},
-	[105] = {
-		name = "Narkóza",
-		class = "PALADIN",
-		guid = "Player-4465-0436CC44",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "3 Reports - Steals gold from players in GDKP by deducting unfairly or not trading the items but still taking the gold, pockets deductions.",
-		url = "https://discord.com/channels/610036506974748700/1219012597186166987",
-	},
-	[106] = {
-		name = "Chemoterapia",
-		class = "PALADIN",
-		guid = "Player-4465-02946C79",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "3 Reports - Steals gold from players in GDKP by deducting unfairly or not trading the items but still taking the gold, pockets deductions.",
-		url = "https://discord.com/channels/610036506974748700/1219012597186166987",
-	},
-	[107] = {
+	[117] = {
 		name = "Cirhoza",
 		class = "PALADIN",
 		guid = "Player-4465-042421E4",
@@ -1080,7 +1180,37 @@ t.case_table = {
 		description = "3 Reports - Steals gold from players in GDKP by deducting unfairly or not trading the items but still taking the gold, pockets deductions.",
 		url = "https://discord.com/channels/610036506974748700/1219012597186166987",
 	},
-	[108] = {
+	[118] = {
+		name = "Metacomp",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-0375CD27",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "3 Reports - Steals gold from players in GDKP by deducting unfairly or not trading the items but still taking the gold, pockets deductions.",
+		url = "https://discord.com/channels/610036506974748700/1219012597186166987",
+	},
+	[119] = {
+		name = "Rakøvinka",
+		class = "PALADIN",
+		guid = "Player-4465-02500184",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "3 Reports - Steals gold from players in GDKP by deducting unfairly or not trading the items but still taking the gold, pockets deductions.",
+		url = "https://discord.com/channels/610036506974748700/1219012597186166987",
+	},
+	[120] = {
+		name = "Narkóza",
+		class = "PALADIN",
+		guid = "Player-4465-0436CC44",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "3 Reports - Steals gold from players in GDKP by deducting unfairly or not trading the items but still taking the gold, pockets deductions.",
+		url = "https://discord.com/channels/610036506974748700/1219012597186166987",
+	},
+	[121] = {
 		name = "Chlamýdia",
 		class = "PALADIN",
 		guid = "Player-4465-041BF137",
@@ -1090,7 +1220,17 @@ t.case_table = {
 		description = "3 Reports - Steals gold from players in GDKP by deducting unfairly or not trading the items but still taking the gold, pockets deductions.",
 		url = "https://discord.com/channels/610036506974748700/1219012597186166987",
 	},
-	[109] = {
+	[122] = {
+		name = "Chemoterapia",
+		class = "PALADIN",
+		guid = "Player-4465-02946C79",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "3 Reports - Steals gold from players in GDKP by deducting unfairly or not trading the items but still taking the gold, pockets deductions.",
+		url = "https://discord.com/channels/610036506974748700/1219012597186166987",
+	},
+	[123] = {
 		name = "Brucellosis",
 		class = "PALADIN",
 		guid = "Player-4465-03E64961",
@@ -1103,17 +1243,7 @@ t.case_table = {
 		description = "3 Reports - Steals gold from players in GDKP by deducting unfairly or not trading the items but still taking the gold, pockets deductions.",
 		url = "https://discord.com/channels/610036506974748700/1219012597186166987",
 	},
-	[110] = {
-		name = "Metacomp",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-0375CD27",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "3 Reports - Steals gold from players in GDKP by deducting unfairly or not trading the items but still taking the gold, pockets deductions.",
-		url = "https://discord.com/channels/610036506974748700/1219012597186166987",
-	},
-	[111] = {
+	[124] = {
 		name = "Kabööm",
 		class = "DRUID",
 		guid = "Player-4465-042D2274",
@@ -1123,7 +1253,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd all items throughout the dungeon, lied about the reason and trolled the party.",
 		url = "https://discord.com/channels/610036506974748700/1218581741275709542",
 	},
-	[112] = {
+	[125] = {
 		name = "Evamagus",
 		class = "MAGE",
 		guid = "Player-4465-045D68B0",
@@ -1133,7 +1263,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd all items at the end of the run, admitted it was for gold farm and mocked the party.",
 		url = "https://discord.com/channels/610036506974748700/1218486940018413648",
 	},
-	[113] = {
+	[126] = {
 		name = "Deadlýblonde",
 		class = "PALADIN",
 		guid = "Player-4465-0437BFAD",
@@ -1143,7 +1273,7 @@ t.case_table = {
 		description = "3 Reports - Ninja'd an item that he didn't win the roll for due to a mistake by the RL, didn't give the item to right winner.",
 		url = "https://discord.com/channels/610036506974748700/1216111619688366172",
 	},
-	[114] = {
+	[127] = {
 		name = "Uhaha",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-036D13CD",
@@ -1153,7 +1283,7 @@ t.case_table = {
 		description = "1 Report - Gold seller. Stole gold from a player doing an unfair cutban without reason, doubled down and insulted in the report, didn't give it back.",
 		url = "https://discord.com/channels/610036506974748700/1212165828796092496",
 	},
-	[115] = {
+	[128] = {
 		name = "Naraxas",
 		class = "PALADIN",
 		guid = "Player-4465-04511008",
@@ -1163,7 +1293,7 @@ t.case_table = {
 		description = "1 Report - Ninjas all items at the end of the run, uses plenty of excuses and changes the story to avoid consequences.",
 		url = "https://discord.com/channels/610036506974748700/1215630050565824542",
 	},
-	[116] = {
+	[129] = {
 		name = "Savageblade",
 		class = "ROGUE",
 		guid = "Player-4465-044AF265",
@@ -1173,17 +1303,7 @@ t.case_table = {
 		description = "1 Report - Ninjas all items at the end of the run, uses plenty of excuses and changes the story to avoid consequences.",
 		url = "https://discord.com/channels/610036506974748700/1215630050565824542",
 	},
-	[117] = {
-		name = "Atimka",
-		class = "HUNTER",
-		guid = "Player-4465-0424EDC2",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Left raid suddenly to go do arenas, fake posed as an officer of his guild when asked about it.",
-		url = "https://discord.com/channels/610036506974748700/1214324418235605042",
-	},
-	[118] = {
+	[130] = {
 		name = "Surykatka",
 		class = "WARRIOR",
 		guid = "Player-4465-0426EA4B",
@@ -1193,7 +1313,17 @@ t.case_table = {
 		description = "1 Report - Left raid suddenly to go do arenas, fake posed as an officer of his guild when asked about it.",
 		url = "https://discord.com/channels/610036506974748700/1214324418235605042",
 	},
-	[119] = {
+	[131] = {
+		name = "Atimka",
+		class = "HUNTER",
+		guid = "Player-4465-0424EDC2",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Left raid suddenly to go do arenas, fake posed as an officer of his guild when asked about it.",
+		url = "https://discord.com/channels/610036506974748700/1214324418235605042",
+	},
+	[132] = {
 		name = "Chomiczek",
 		class = "PALADIN",
 		guid = "Player-4465-0437833D",
@@ -1203,17 +1333,7 @@ t.case_table = {
 		description = "1 Report - Left raid suddenly to go do arenas, fake posed as an officer of his guild when asked about it.",
 		url = "https://discord.com/channels/610036506974748700/1214324418235605042",
 	},
-	[120] = {
-		name = "Byxapuk",
-		class = "HUNTER",
-		guid = "Player-4465-04741E98",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Waited until people were leaving the raid to ninja all items after being told not to by RL, doubled down in the report.",
-		url = "https://discord.com/channels/610036506974748700/1215331750184751184",
-	},
-	[121] = {
+	[133] = {
 		name = "Lighoshadow",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-04741EAC",
@@ -1223,7 +1343,7 @@ t.case_table = {
 		description = "1 Report - Waited until people were leaving the raid to ninja all items after being told not to by RL, doubled down in the report.",
 		url = "https://discord.com/channels/610036506974748700/1215331750184751184",
 	},
-	[122] = {
+	[134] = {
 		name = "Myloo",
 		class = "MAGE",
 		guid = "Player-4465-04741ECB",
@@ -1233,7 +1353,17 @@ t.case_table = {
 		description = "1 Report - Waited until people were leaving the raid to ninja all items after being told not to by RL, doubled down in the report.",
 		url = "https://discord.com/channels/610036506974748700/1215331750184751184",
 	},
-	[123] = {
+	[135] = {
+		name = "Byxapuk",
+		class = "HUNTER",
+		guid = "Player-4465-04741E98",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Waited until people were leaving the raid to ninja all items after being told not to by RL, doubled down in the report.",
+		url = "https://discord.com/channels/610036506974748700/1215331750184751184",
+	},
+	[136] = {
 		name = "Rozmanir",
 		class = "DRUID",
 		guid = "Player-4465-04741EB5",
@@ -1243,27 +1373,7 @@ t.case_table = {
 		description = "1 Report - Waited until people were leaving the raid to ninja all items after being told not to by RL, doubled down in the report.",
 		url = "https://discord.com/channels/610036506974748700/1215331750184751184",
 	},
-	[124] = {
-		name = "Dargeros",
-		class = "WARRIOR",
-		guid = "Player-4465-0478DAC1",
-		faction = "Horde",
-		level = 3,
-		category = "trade",
-		description = "1 Report - Scammer whispering faking as a guildie/friend to ask for gold.",
-		url = "https://discord.com/channels/610036506974748700/1144733276838297750/1213824246833488022",
-	},
-	[125] = {
-		name = "Xarone",
-		class = "MAGE",
-		guid = "Player-4465-04838936",
-		faction = "Horde",
-		level = 3,
-		category = "trade",
-		description = "1 Report - Scammer whispering faking as a guildie/friend to ask for gold.",
-		url = "https://discord.com/channels/610036506974748700/1144733276838297750/1213824246833488022",
-	},
-	[126] = {
+	[137] = {
 		name = "Emporz",
 		class = "WARRIOR",
 		guid = "Player-4465-0475CA8F",
@@ -1273,7 +1383,17 @@ t.case_table = {
 		description = "1 Report - Scammer whispering faking as a guildie/friend to ask for gold.",
 		url = "https://discord.com/channels/610036506974748700/1144733276838297750/1213824246833488022",
 	},
-	[127] = {
+	[138] = {
+		name = "Xarone",
+		class = "MAGE",
+		guid = "Player-4465-04838936",
+		faction = "Horde",
+		level = 3,
+		category = "trade",
+		description = "1 Report - Scammer whispering faking as a guildie/friend to ask for gold.",
+		url = "https://discord.com/channels/610036506974748700/1144733276838297750/1213824246833488022",
+	},
+	[139] = {
 		name = "Judgeyzozo",
 		class = "WARRIOR",
 		guid = "Player-4465-0478111A",
@@ -1283,27 +1403,17 @@ t.case_table = {
 		description = "1 Report - Scammer whispering faking as a guildie/friend to ask for gold.",
 		url = "https://discord.com/channels/610036506974748700/1144733276838297750/1213824246833488022",
 	},
-	[128] = {
-		name = "Horizontal",
-		class = "PALADIN",
-		guid = "Player-4465-02A3866E",
+	[140] = {
+		name = "Dargeros",
+		class = "WARRIOR",
+		guid = "Player-4465-0478DAC1",
 		faction = "Horde",
 		level = 3,
-		category = "dungeon",
-		description = "6 Reports - Ninja's all items at the end of the run, 6th report.",
-		url = "https://discord.com/channels/610036506974748700/1212998016085135360",
+		category = "trade",
+		description = "1 Report - Scammer whispering faking as a guildie/friend to ask for gold.",
+		url = "https://discord.com/channels/610036506974748700/1144733276838297750/1213824246833488022",
 	},
-	[129] = {
-		name = "Vertiik",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-03830D6F",
-		faction = "Horde",
-		level = 3,
-		category = "dungeon",
-		description = "6 Reports - Ninja's all items at the end of the run, 6th report.",
-		url = "https://discord.com/channels/610036506974748700/1212998016085135360",
-	},
-	[130] = {
+	[141] = {
 		name = "Vytrtkal",
 		class = "DRUID",
 		guid = "Player-4465-0236D997",
@@ -1313,7 +1423,17 @@ t.case_table = {
 		description = "6 Reports - Ninja's all items at the end of the run, 6th report.",
 		url = "https://discord.com/channels/610036506974748700/1212998016085135360",
 	},
-	[131] = {
+	[142] = {
+		name = "Vertiik",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-03830D6F",
+		faction = "Horde",
+		level = 3,
+		category = "dungeon",
+		description = "6 Reports - Ninja's all items at the end of the run, 6th report.",
+		url = "https://discord.com/channels/610036506974748700/1212998016085135360",
+	},
+	[143] = {
 		name = "Vertikal",
 		class = "HUNTER",
 		guid = "Player-4465-0232DDEF",
@@ -1323,7 +1443,17 @@ t.case_table = {
 		description = "6 Reports - Ninja's all items at the end of the run, 6th report.",
 		url = "https://discord.com/channels/610036506974748700/1212998016085135360",
 	},
-	[132] = {
+	[144] = {
+		name = "Horizontal",
+		class = "PALADIN",
+		guid = "Player-4465-02A3866E",
+		faction = "Horde",
+		level = 3,
+		category = "dungeon",
+		description = "6 Reports - Ninja's all items at the end of the run, 6th report.",
+		url = "https://discord.com/channels/610036506974748700/1212998016085135360",
+	},
+	[145] = {
 		name = "Toxdots",
 		class = "WARLOCK",
 		guid = "Player-4465-042458AE",
@@ -1333,7 +1463,7 @@ t.case_table = {
 		description = "3 Reports - Ninjas all the items at the end of the run, several reports.",
 		url = "https://discord.com/channels/610036506974748700/1210490477351149568",
 	},
-	[133] = {
+	[146] = {
 		name = "Romeczeq",
 		class = "PALADIN",
 		guid = "Player-4465-042A5C16",
@@ -1343,7 +1473,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd Death's Choice and Solace trinkets, left raid without finishing the roll, with F A M E guild helping in the scam.",
 		url = "https://discord.com/channels/610036506974748700/1206364348721664071",
 	},
-	[134] = {
+	[147] = {
 		name = "Depsiior",
 		class = "PRIEST",
 		guid = "Player-4465-02C10ACC",
@@ -1353,17 +1483,17 @@ t.case_table = {
 		description = "3 Reports - Ninja'd Death's Choice and Solace trinkets, left raid without finishing the roll, with F A M E guild helping in the scam.",
 		url = "https://discord.com/channels/610036506974748700/1206364348721664071",
 	},
-	[135] = {
-		name = "Depsior",
+	[148] = {
+		name = "Romusiowa",
 		class = "PALADIN",
-		guid = "Player-4465-02DF9626",
+		guid = "Player-4465-03EB2472",
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "3 Reports - Ninja'd Death's Choice and Solace trinkets, left raid without finishing the roll, with F A M E guild helping in the scam.",
+		description = "1 Report - Ninja'd Death's Choice and Solace trinkets, left raid without finishing the roll, with F A M E guild helping in the scam.",
 		url = "https://discord.com/channels/610036506974748700/1206364348721664071",
 	},
-	[136] = {
+	[149] = {
 		name = "Zagubiony",
 		class = "DRUID",
 		guid = "Player-4465-03ACE1BE",
@@ -1376,17 +1506,7 @@ t.case_table = {
 		description = "3 Reports - Ninja'd Death's Choice and Solace trinkets, left raid without finishing the roll, with F A M E guild helping in the scam.",
 		url = "https://discord.com/channels/610036506974748700/1206364348721664071",
 	},
-	[137] = {
-		name = "Romusiowa",
-		class = "PALADIN",
-		guid = "Player-4465-03EB2472",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd Death's Choice and Solace trinkets, left raid without finishing the roll, with F A M E guild helping in the scam.",
-		url = "https://discord.com/channels/610036506974748700/1206364348721664071",
-	},
-	[138] = {
+	[150] = {
 		name = "Romeczek",
 		class = "ROGUE",
 		guid = "Player-4465-0422F2FE",
@@ -1396,7 +1516,17 @@ t.case_table = {
 		description = "1 Report - Ninja'd Death's Choice and Solace trinkets, left raid without finishing the roll, with F A M E guild helping in the scam.",
 		url = "https://discord.com/channels/610036506974748700/1206364348721664071",
 	},
-	[139] = {
+	[151] = {
+		name = "Depsior",
+		class = "PALADIN",
+		guid = "Player-4465-02DF9626",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "3 Reports - Ninja'd Death's Choice and Solace trinkets, left raid without finishing the roll, with F A M E guild helping in the scam.",
+		url = "https://discord.com/channels/610036506974748700/1206364348721664071",
+	},
+	[152] = {
 		name = "Sulán",
 		class = "DRUID",
 		guid = "Player-4465-04761ED7",
@@ -1406,7 +1536,7 @@ t.case_table = {
 		description = "1 Report - Ignored the winner of a roll in an advertised MS > OS raid and did loot council putting personal opinions over rolls.",
 		url = "https://discord.com/channels/610036506974748700/1205185797456924753",
 	},
-	[140] = {
+	[153] = {
 		name = "Gigaburster",
 		class = "MAGE",
 		guid = "Player-4465-02EA354E",
@@ -1416,7 +1546,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd item rolling it, losing the roll and then saying 'nvm I steal'",
 		url = "https://discord.com/channels/610036506974748700/1205159284908757033",
 	},
-	[141] = {
+	[154] = {
 		name = "Haterman",
 		class = "PRIEST",
 		guid = "Player-4465-0471AC72",
@@ -1426,7 +1556,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item demanding payment for it, doubled down and insulted everyone in the report.",
 		url = "https://discord.com/channels/610036506974748700/1204231716584292352",
 	},
-	[142] = {
+	[155] = {
 		name = "Apyromaniac",
 		class = "MAGE",
 		guid = "Player-4465-043224D5",
@@ -1436,17 +1566,7 @@ t.case_table = {
 		description = "1 Report - Griefed an entire raid by using the lockout with other people when the raid was planned to continue on another day.",
 		url = "https://discord.com/channels/610036506974748700/1203085201283219577",
 	},
-	[143] = {
-		name = "Kuramerqq",
-		class = "PALADIN",
-		guid = "Player-4465-02BA2A6F",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Left raid before raid end forcing the raid to go normal and end it there.",
-		url = "https://discord.com/channels/610036506974748700/1199831640051032104",
-	},
-	[144] = {
+	[156] = {
 		name = "Kuramerqt",
 		class = "DRUID",
 		guid = "Player-4465-02BC523C",
@@ -1456,17 +1576,7 @@ t.case_table = {
 		description = "1 Report - Left raid before raid end forcing the raid to go normal and end it there.",
 		url = "https://discord.com/channels/610036506974748700/1199831640051032104",
 	},
-	[145] = {
-		name = "Kuramer",
-		class = "PRIEST",
-		guid = "Player-4465-027CC131",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Left raid before raid end forcing the raid to go normal and end it there.",
-		url = "https://discord.com/channels/610036506974748700/1199831640051032104",
-	},
-	[146] = {
+	[157] = {
 		name = "Kuramerr",
 		class = "SHAMAN",
 		guid = "Player-4465-042E6A6B",
@@ -1476,17 +1586,37 @@ t.case_table = {
 		description = "1 Report - Left raid before raid end forcing the raid to go normal and end it there.",
 		url = "https://discord.com/channels/610036506974748700/1199831640051032104",
 	},
-	[147] = {
-		name = "Madprophett",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-0369FC70",
+	[158] = {
+		name = "Kuramerqq",
+		class = "PALADIN",
+		guid = "Player-4465-02BA2A6F",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Left raid before raid end forcing the raid to go normal and end it there.",
+		url = "https://discord.com/channels/610036506974748700/1199831640051032104",
+	},
+	[159] = {
+		name = "Kuramer",
+		class = "PRIEST",
+		guid = "Player-4465-027CC131",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Left raid before raid end forcing the raid to go normal and end it there.",
+		url = "https://discord.com/channels/610036506974748700/1199831640051032104",
+	},
+	[160] = {
+		name = "Wråith",
+		class = "DRUID",
+		guid = "Player-4465-03C6913B",
 		faction = "Horde",
 		level = 3,
 		category = "raid",
 		description = "3 Reports - Went offline with all the items in the raid, doubled down in the report, gave one back and didn't care about the rest.",
 		url = "https://discord.com/channels/610036506974748700/1201257388519477328",
 	},
-	[148] = {
+	[161] = {
 		name = "Mageprophet",
 		class = "MAGE",
 		guid = "Player-4465-02FA3AF9",
@@ -1500,37 +1630,7 @@ t.case_table = {
 		description = "3 Reports - Went offline with all the items in the raid, doubled down in the report, gave one back and didn't care about the rest.",
 		url = "https://discord.com/channels/610036506974748700/1201257388519477328",
 	},
-	[149] = {
-		name = "Madproophet",
-		class = "SHAMAN",
-		guid = "Player-4465-02F94BEA",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "3 Reports - Went offline with all the items in the raid, doubled down in the report, gave one back and didn't care about the rest.",
-		url = "https://discord.com/channels/610036506974748700/1201257388519477328",
-	},
-	[150] = {
-		name = "Illidåri",
-		class = "PRIEST",
-		guid = "Player-4465-04067FAB",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "3 Reports - Went offline with all the items in the raid, doubled down in the report, gave one back and didn't care about the rest.",
-		url = "https://discord.com/channels/610036506974748700/1201257388519477328",
-	},
-	[151] = {
-		name = "Wråith",
-		class = "DRUID",
-		guid = "Player-4465-03C6913B",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "3 Reports - Went offline with all the items in the raid, doubled down in the report, gave one back and didn't care about the rest.",
-		url = "https://discord.com/channels/610036506974748700/1201257388519477328",
-	},
-	[152] = {
+	[162] = {
 		name = "Madprophet",
 		class = "PALADIN",
 		guid = "Player-4465-02F9489E",
@@ -1540,17 +1640,17 @@ t.case_table = {
 		description = "3 Reports - Went offline with all the items in the raid, doubled down in the report, gave one back and didn't care about the rest.",
 		url = "https://discord.com/channels/610036506974748700/1201257388519477328",
 	},
-	[153] = {
-		name = "Cowprophet",
-		class = "DRUID",
-		guid = "Player-4465-04406931",
+	[163] = {
+		name = "Illidåri",
+		class = "PRIEST",
+		guid = "Player-4465-04067FAB",
 		faction = "Horde",
 		level = 3,
 		category = "raid",
 		description = "3 Reports - Went offline with all the items in the raid, doubled down in the report, gave one back and didn't care about the rest.",
 		url = "https://discord.com/channels/610036506974748700/1201257388519477328",
 	},
-	[154] = {
+	[164] = {
 		name = "Màdprophet",
 		class = "WARRIOR",
 		guid = "Player-4465-03567AC2",
@@ -1560,7 +1660,50 @@ t.case_table = {
 		description = "3 Reports - Went offline with all the items in the raid, doubled down in the report, gave one back and didn't care about the rest.",
 		url = "https://discord.com/channels/610036506974748700/1201257388519477328",
 	},
-	[155] = {
+	[165] = {
+		name = "Madproophet",
+		class = "SHAMAN",
+		guid = "Player-4465-02F94BEA",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "3 Reports - Went offline with all the items in the raid, doubled down in the report, gave one back and didn't care about the rest.",
+		url = "https://discord.com/channels/610036506974748700/1201257388519477328",
+	},
+	[166] = {
+		name = "Cowprophet",
+		class = "DRUID",
+		guid = "Player-4465-04406931",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "3 Reports - Went offline with all the items in the raid, doubled down in the report, gave one back and didn't care about the rest.",
+		url = "https://discord.com/channels/610036506974748700/1201257388519477328",
+	},
+	[167] = {
+		name = "Madprophett",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-0369FC70",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "3 Reports - Went offline with all the items in the raid, doubled down in the report, gave one back and didn't care about the rest.",
+		url = "https://discord.com/channels/610036506974748700/1201257388519477328",
+	},
+	[168] = {
+		name = "Mezmur",
+		class = "ROGUE",
+		guid = "Player-4465-0472D529",
+		aliases = {
+			"Börnn",
+		},
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Changed SR from an item from a dead boss to a new one several times during the raid.",
+		url = "https://discord.com/channels/610036506974748700/1200549727561846834",
+	},
+	[169] = {
 		name = "Börrnn",
 		class = "PRIEST",
 		guid = "Player-4465-0446CF6C",
@@ -1574,20 +1717,7 @@ t.case_table = {
 		description = "1 Report - Changed SR from an item from a dead boss to a new one several times during the raid.",
 		url = "https://discord.com/channels/610036506974748700/1200549727561846834",
 	},
-	[156] = {
-		name = "Mezmur",
-		class = "ROGUE",
-		guid = "Player-4465-0472D529",
-		aliases = {
-			"Börnn",
-		},
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Changed SR from an item from a dead boss to a new one several times during the raid.",
-		url = "https://discord.com/channels/610036506974748700/1200549727561846834",
-	},
-	[157] = {
+	[170] = {
 		name = "Fergall",
 		class = "DRUID",
 		guid = "Player-4465-0471F669",
@@ -1597,27 +1727,7 @@ t.case_table = {
 		description = "3 Reports - Ninja'd items not rolling them. Also organises raids to farm gold for selling, not caring about people's time neither leading.",
 		url = "https://discord.com/channels/610036506974748700/1198340581890478100",
 	},
-	[158] = {
-		name = "Carroll",
-		class = "PALADIN",
-		guid = "Player-4465-0261EC2B",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "3 Reports - Ninja'd items not rolling them. Also organises raids to farm gold for selling, not caring about people's time neither leading.",
-		url = "https://discord.com/channels/610036506974748700/1198340581890478100",
-	},
-	[159] = {
-		name = "Cârroll",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-037D7590",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "3 Reports - Ninja'd items not rolling them. Also organises raids to farm gold for selling, not caring about people's time neither leading.",
-		url = "https://discord.com/channels/610036506974748700/1198340581890478100",
-	},
-	[160] = {
+	[171] = {
 		name = "Uofo",
 		class = "SHAMAN",
 		guid = "Player-4465-02BAD1D8",
@@ -1627,7 +1737,27 @@ t.case_table = {
 		description = "2 Reports - Ninja'd items not rolling them. Also organises raids to farm gold for selling, not caring about people's time neither leading.",
 		url = "https://discord.com/channels/610036506974748700/1198340581890478100",
 	},
-	[161] = {
+	[172] = {
+		name = "Carroll",
+		class = "PALADIN",
+		guid = "Player-4465-0261EC2B",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "3 Reports - Ninja'd items not rolling them. Also organises raids to farm gold for selling, not caring about people's time neither leading.",
+		url = "https://discord.com/channels/610036506974748700/1198340581890478100",
+	},
+	[173] = {
+		name = "Cârroll",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-037D7590",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "3 Reports - Ninja'd items not rolling them. Also organises raids to farm gold for selling, not caring about people's time neither leading.",
+		url = "https://discord.com/channels/610036506974748700/1198340581890478100",
+	},
+	[174] = {
 		name = "Sipixx",
 		class = "WARLOCK",
 		guid = "Player-4465-04149778",
@@ -1637,17 +1767,7 @@ t.case_table = {
 		description = "1 Report - Ninja pulls bosses several times to grief and kill players until it's kicked and then ninja pulls again.",
 		url = "https://discord.com/channels/610036506974748700/1197855574960898089",
 	},
-	[162] = {
-		name = "Mortälity",
-		class = "HUNTER",
-		guid = "Player-4465-04752641",
-		faction = "Horde",
-		level = 3,
-		category = "harassment",
-		description = "1 Report - Flames and insults for no reason, then leaves right after his SR is gone. Another previous report with harassment and a kick too.",
-		url = "https://discord.com/channels/610036506974748700/1196136947115098183",
-	},
-	[163] = {
+	[175] = {
 		name = "Mortaliti",
 		class = "DRUID",
 		guid = "Player-4465-043A5B01",
@@ -1657,7 +1777,17 @@ t.case_table = {
 		description = "1 Report - Flames and insults for no reason, then leaves right after his SR is gone. Another previous report with harassment and a kick too.",
 		url = "https://discord.com/channels/610036506974748700/1196136947115098183",
 	},
-	[164] = {
+	[176] = {
+		name = "Mortälity",
+		class = "HUNTER",
+		guid = "Player-4465-04752641",
+		faction = "Horde",
+		level = 3,
+		category = "harassment",
+		description = "1 Report - Flames and insults for no reason, then leaves right after his SR is gone. Another previous report with harassment and a kick too.",
+		url = "https://discord.com/channels/610036506974748700/1196136947115098183",
+	},
+	[177] = {
 		name = "Mortalíty",
 		class = "HUNTER",
 		guid = "Player-4465-02F5C232",
@@ -1667,7 +1797,7 @@ t.case_table = {
 		description = "1 Report - Flames and insults for no reason, then leaves right after his SR is gone. Another previous report with harassment and a kick too.",
 		url = "https://discord.com/channels/610036506974748700/1196136947115098183",
 	},
-	[165] = {
+	[178] = {
 		name = "Mortalitii",
 		class = "WARRIOR",
 		guid = "Player-4465-044148B2",
@@ -1677,7 +1807,7 @@ t.case_table = {
 		description = "1 Report - Flames and insults for no reason, then leaves right after his SR is gone. Another previous report with harassment and a kick too.",
 		url = "https://discord.com/channels/610036506974748700/1196136947115098183",
 	},
-	[166] = {
+	[179] = {
 		name = "Kaalivan",
 		class = "PALADIN",
 		guid = "Player-4465-031EF86E",
@@ -1687,7 +1817,7 @@ t.case_table = {
 		description = "1 Report - Kicked a player on a whim, doubled down in the report and admitted with no regret that he would kick anyone like that again.",
 		url = "https://discord.com/channels/610036506974748700/1197343229465612288",
 	},
-	[167] = {
+	[180] = {
 		name = "Anula",
 		class = "PALADIN",
 		guid = "Player-4465-0386C1E0",
@@ -1697,7 +1827,7 @@ t.case_table = {
 		description = "1 Report - Offered a player to reroll an item that was loot pooled but it was a lie and insulted him.",
 		url = "https://discord.com/channels/610036506974748700/1193221677765636207",
 	},
-	[168] = {
+	[181] = {
 		name = "Koteexdk",
 		class = "ROGUE",
 		guid = "Player-4465-044064B4",
@@ -1707,7 +1837,7 @@ t.case_table = {
 		description = "1 Report - Left raid after less than 15 minutes in and when the SR was gone. Pattern of a couple other raids found.",
 		url = "https://discord.com/channels/610036506974748700/1193496075529617449",
 	},
-	[169] = {
+	[182] = {
 		name = "Føteexdk",
 		class = "HUNTER",
 		guid = "Player-4465-0446F82A",
@@ -1717,7 +1847,7 @@ t.case_table = {
 		description = "1 Report - Left raid after less than 15 minutes in and when the SR was gone. Pattern of a couple other raids found.",
 		url = "https://discord.com/channels/610036506974748700/1193496075529617449",
 	},
-	[170] = {
+	[183] = {
 		name = "Aktaminninja",
 		class = "PALADIN",
 		guid = "Player-4465-03F74750",
@@ -1727,7 +1857,7 @@ t.case_table = {
 		description = "1 Report - Kicked player from the raid for no reason and didn't allow to roll on the SR item.",
 		url = "https://discord.com/channels/610036506974748700/1193934419812175953",
 	},
-	[171] = {
+	[184] = {
 		name = "Hune",
 		class = "HUNTER",
 		guid = "Player-4465-03852E61",
@@ -1737,7 +1867,7 @@ t.case_table = {
 		description = "2 Reports - Leaves raids when his SR doesn't drop, pattern found of at least 3 raids.",
 		url = "https://discord.com/channels/610036506974748700/1192549614377771029",
 	},
-	[172] = {
+	[185] = {
 		name = "Tempoflæsk",
 		class = "SHAMAN",
 		guid = "Player-4465-02EBB9E1",
@@ -1747,7 +1877,7 @@ t.case_table = {
 		description = "1 Report - Left raid after less than 30 minutes right after his SR was gone.",
 		url = "https://discord.com/channels/610036506974748700/1191834129260613635",
 	},
-	[173] = {
+	[186] = {
 		name = "Ktulus",
 		class = "WARRIOR",
 		guid = "Player-4465-045698B5",
@@ -1757,27 +1887,7 @@ t.case_table = {
 		description = "1 Report - Didn't give item to a winner of the roll despite all the raid telling him to do so. Also rolled for both specs as MS.",
 		url = "https://discord.com/channels/610036506974748700/1191821675713532036",
 	},
-	[174] = {
-		name = "Multisportt",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-036E0EA9",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Leaves raids after SR is gone or at the first wipe, pattern found of leaving with multiple chars a lot of times.",
-		url = "https://discord.com/channels/610036506974748700/1191101070974406776",
-	},
-	[175] = {
-		name = "Multisport",
-		class = "MAGE",
-		guid = "Player-4465-032C857E",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Leaves raids after SR is gone or at the first wipe, pattern found of leaving with multiple chars a lot of times.",
-		url = "https://discord.com/channels/610036506974748700/1191101070974406776",
-	},
-	[176] = {
+	[187] = {
 		name = "Multisporten",
 		class = "HUNTER",
 		guid = "Player-4465-03051E4C",
@@ -1787,7 +1897,17 @@ t.case_table = {
 		description = "1 Report - Leaves raids after SR is gone or at the first wipe, pattern found of leaving with multiple chars a lot of times.",
 		url = "https://discord.com/channels/610036506974748700/1191101070974406776",
 	},
-	[177] = {
+	[188] = {
+		name = "Multisport",
+		class = "MAGE",
+		guid = "Player-4465-032C857E",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Leaves raids after SR is gone or at the first wipe, pattern found of leaving with multiple chars a lot of times.",
+		url = "https://discord.com/channels/610036506974748700/1191101070974406776",
+	},
+	[189] = {
 		name = "Multissport",
 		class = "WARRIOR",
 		guid = "Player-4465-03051FA6",
@@ -1797,7 +1917,17 @@ t.case_table = {
 		description = "1 Report - Leaves raids after SR is gone or at the first wipe, pattern found of leaving with multiple chars a lot of times.",
 		url = "https://discord.com/channels/610036506974748700/1191101070974406776",
 	},
-	[178] = {
+	[190] = {
+		name = "Multisportt",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-036E0EA9",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Leaves raids after SR is gone or at the first wipe, pattern found of leaving with multiple chars a lot of times.",
+		url = "https://discord.com/channels/610036506974748700/1191101070974406776",
+	},
+	[191] = {
 		name = "Agyhalal",
 		class = "PALADIN",
 		guid = "Player-4465-044F9EF0",
@@ -1807,7 +1937,7 @@ t.case_table = {
 		description = "2 Reports - Insults everyone, shouts in voice, ninjapulls and leaves the raid. Overall toxic player.",
 		url = "https://discord.com/channels/610036506974748700/1191474939606339604",
 	},
-	[179] = {
+	[192] = {
 		name = "Scrofa",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-04567BCA",
@@ -1817,7 +1947,7 @@ t.case_table = {
 		description = "2 Reports - Insults everyone, shouts in voice, ninjapulls and leaves the raid. Overall toxic player.",
 		url = "https://discord.com/channels/610036506974748700/1191474939606339604",
 	},
-	[180] = {
+	[193] = {
 		name = "Yordanov",
 		class = "DRUID",
 		guid = "Player-4465-04528454",
@@ -1827,7 +1957,7 @@ t.case_table = {
 		description = "1 Report - Part of <Wild Hunt>, guild with multiple ninja reports. Changed MS spec to roll for when the raid was saved already.",
 		url = "https://discord.com/channels/610036506974748700/1188264322510626957",
 	},
-	[181] = {
+	[194] = {
 		name = "Butowskiy",
 		class = "MAGE",
 		guid = "Player-4465-045BCBED",
@@ -1837,7 +1967,7 @@ t.case_table = {
 		description = "1 Report - Part of <Wild Hunt>, guild with multiple ninja reports. Rolls several times to try to get items unfairly.",
 		url = "https://discord.com/channels/610036506974748700/1188264322510626957",
 	},
-	[182] = {
+	[195] = {
 		name = "Tsukuyoml",
 		class = "PALADIN",
 		guid = "Player-4465-045D7188",
@@ -1847,7 +1977,7 @@ t.case_table = {
 		description = "1 Report - Part of <Wild Hunt>, guild with multiple ninja reports. Ninja'd an item and tried to loot pool another.",
 		url = "https://discord.com/channels/610036506974748700/1188264322510626957",
 	},
-	[183] = {
+	[196] = {
 		name = "Firisett",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-045ED5BC",
@@ -1857,7 +1987,7 @@ t.case_table = {
 		description = "1 Report - Part of <Wild Hunt>, guild with multiple ninja reports. Ignores SR and rolls while being ML.",
 		url = "https://discord.com/channels/610036506974748700/1188264322510626957",
 	},
-	[184] = {
+	[197] = {
 		name = "Irrele",
 		class = "DRUID",
 		guid = "Player-4465-03EE92E3",
@@ -1867,47 +1997,7 @@ t.case_table = {
 		description = "1 Report - Serial leaver of raids before they are finished. 2 reports in the same thread and more than 10 other raids found.",
 		url = "https://discord.com/channels/610036506974748700/1189348027689861160",
 	},
-	[185] = {
-		name = "Lifestealerx",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-037001FF",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Loot bans players on a whim, toxic RL, kicks players when he can't get more gold from them. Gold seller/farmer.",
-		url = "https://discord.com/channels/610036506974748700/1189913782852526080",
-	},
-	[186] = {
-		name = "Moogambo",
-		class = "SHAMAN",
-		guid = "Player-4465-045A7D91",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Loot bans players on a whim, toxic RL, kicks players when he can't get more gold from them. Gold seller/farmer.",
-		url = "https://discord.com/channels/610036506974748700/1189913782852526080",
-	},
-	[187] = {
-		name = "Donhaki",
-		class = "ROGUE",
-		guid = "Player-4465-04563B20",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Loot bans players on a whim, toxic RL, kicks players when he can't get more gold from them. Gold seller/farmer.",
-		url = "https://discord.com/channels/610036506974748700/1189913782852526080",
-	},
-	[188] = {
-		name = "Supernene",
-		class = "PALADIN",
-		guid = "Player-4465-045618C7",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Loot bans players on a whim, toxic RL, kicks players when he can't get more gold from them. Gold seller/farmer.",
-		url = "https://discord.com/channels/610036506974748700/1189913782852526080",
-	},
-	[189] = {
+	[198] = {
 		name = "Icyfllow",
 		class = "ROGUE",
 		guid = "Player-4465-044BC301",
@@ -1917,70 +2007,47 @@ t.case_table = {
 		description = "2 Reports - Loot bans players on a whim, toxic RL, kicks players when he can't get more gold from them. Gold seller/farmer.",
 		url = "https://discord.com/channels/610036506974748700/1189913782852526080",
 	},
-	[190] = {
-		name = "Cruxxboosted",
-		class = "WARLOCK",
-		guid = "Player-4465-04350220",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
-		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
-	},
-	[191] = {
-		name = "Purechungus",
-		class = "DRUID",
-		guid = "Player-4465-02E07FDB",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
-		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
-	},
-	[192] = {
-		name = "Cruxxblast",
-		class = "MAGE",
-		guid = "Player-4465-044E2C21",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
-		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
-	},
-	[193] = {
-		name = "Cruxxdivine",
+	[199] = {
+		name = "Supernene",
 		class = "PALADIN",
-		guid = "Player-4465-04245D53",
-		aliases = {
-			"Cruxxqq",
-		},
+		guid = "Player-4465-045618C7",
 		faction = "Horde",
 		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
-		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
+		category = "raid",
+		description = "2 Reports - Loot bans players on a whim, toxic RL, kicks players when he can't get more gold from them. Gold seller/farmer.",
+		url = "https://discord.com/channels/610036506974748700/1189913782852526080",
 	},
-	[194] = {
-		name = "Çruxx",
-		class = "WARLOCK",
-		guid = "Player-4465-04174633",
+	[200] = {
+		name = "Lifestealerx",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-037001FF",
 		faction = "Horde",
 		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
-		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
+		category = "raid",
+		description = "2 Reports - Loot bans players on a whim, toxic RL, kicks players when he can't get more gold from them. Gold seller/farmer.",
+		url = "https://discord.com/channels/610036506974748700/1189913782852526080",
 	},
-	[195] = {
-		name = "Cruxxmoo",
-		class = "DRUID",
-		guid = "Player-4465-043DD88A",
+	[201] = {
+		name = "Donhaki",
+		class = "ROGUE",
+		guid = "Player-4465-04563B20",
 		faction = "Horde",
 		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
-		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
+		category = "raid",
+		description = "2 Reports - Loot bans players on a whim, toxic RL, kicks players when he can't get more gold from them. Gold seller/farmer.",
+		url = "https://discord.com/channels/610036506974748700/1189913782852526080",
 	},
-	[196] = {
+	[202] = {
+		name = "Moogambo",
+		class = "SHAMAN",
+		guid = "Player-4465-045A7D91",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Loot bans players on a whim, toxic RL, kicks players when he can't get more gold from them. Gold seller/farmer.",
+		url = "https://discord.com/channels/610036506974748700/1189913782852526080",
+	},
+	[203] = {
 		name = "Cruxxwizard",
 		class = "MAGE",
 		guid = "Player-4465-03C923AA",
@@ -1993,20 +2060,37 @@ t.case_table = {
 		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
 		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
 	},
-	[197] = {
-		name = "Cruxxdisease",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-03B391CE",
-		aliases = {
-			"Coopé",
-		},
+	[204] = {
+		name = "Cruxxblast",
+		class = "MAGE",
+		guid = "Player-4465-044E2C21",
 		faction = "Horde",
 		level = 3,
 		category = "gdkp",
 		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
 		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
 	},
-	[198] = {
+	[205] = {
+		name = "Purechungus",
+		class = "DRUID",
+		guid = "Player-4465-02E07FDB",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
+		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
+	},
+	[206] = {
+		name = "Cruxxmoo",
+		class = "DRUID",
+		guid = "Player-4465-043DD88A",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
+		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
+	},
+	[207] = {
 		name = "Cruxxstealth",
 		class = "ROGUE",
 		guid = "Player-4465-040423F2",
@@ -2021,37 +2105,7 @@ t.case_table = {
 		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
 		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
 	},
-	[199] = {
-		name = "Cruxxmagic",
-		class = "MAGE",
-		guid = "Player-4465-04443BF2",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
-		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
-	},
-	[200] = {
-		name = "Cruxx",
-		class = "PALADIN",
-		guid = "Player-4465-02FECDB9",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
-		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
-	},
-	[201] = {
-		name = "Cruxxuwu",
-		class = "SHAMAN",
-		guid = "Player-4465-03036022",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
-		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
-	},
-	[202] = {
+	[208] = {
 		name = "Cruxxreaver",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-044AF187",
@@ -2061,7 +2115,83 @@ t.case_table = {
 		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
 		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
 	},
-	[203] = {
+	[209] = {
+		name = "Cruxxboosted",
+		class = "WARLOCK",
+		guid = "Player-4465-04350220",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
+		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
+	},
+	[210] = {
+		name = "Cruxx",
+		class = "PALADIN",
+		guid = "Player-4465-02FECDB9",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
+		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
+	},
+	[211] = {
+		name = "Cruxxmagic",
+		class = "MAGE",
+		guid = "Player-4465-04443BF2",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
+		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
+	},
+	[212] = {
+		name = "Cruxxuwu",
+		class = "SHAMAN",
+		guid = "Player-4465-03036022",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
+		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
+	},
+	[213] = {
+		name = "Cruxxdivine",
+		class = "PALADIN",
+		guid = "Player-4465-04245D53",
+		aliases = {
+			"Cruxxqq",
+		},
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
+		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
+	},
+	[214] = {
+		name = "Çruxx",
+		class = "WARLOCK",
+		guid = "Player-4465-04174633",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
+		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
+	},
+	[215] = {
+		name = "Cruxxdisease",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-03B391CE",
+		aliases = {
+			"Coopé",
+		},
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random kicks and unfair cutbans without a reason, rules don't apply the same to everyone, generic gold seller/farmer.",
+		url = "https://discord.com/channels/610036506974748700/1190416158659186840",
+	},
+	[216] = {
 		name = "Paganieris",
 		class = "HUNTER",
 		guid = "Player-4465-02E87792",
@@ -2071,7 +2201,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd item saying there was \"no point to roll it\" while the raid asked for it to be rolled.",
 		url = "https://discord.com/channels/610036506974748700/1188802530306707516",
 	},
-	[204] = {
+	[217] = {
 		name = "Ewaypotter",
 		class = "MAGE",
 		guid = "Player-4465-044C54FA",
@@ -2081,17 +2211,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item not rolling it and saying it was HR, the ad proved it wasn't.",
 		url = "https://discord.com/channels/610036506974748700/1185949519112839268",
 	},
-	[205] = {
-		name = "Fauke",
-		class = "PALADIN",
-		guid = "Player-4465-045E0632",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd item giving it to the second roll without a reason.",
-		url = "https://discord.com/channels/610036506974748700/1183772300387045406",
-	},
-	[206] = {
+	[218] = {
 		name = "Teranos",
 		class = "PRIEST",
 		guid = "Player-4465-04602A14",
@@ -2101,7 +2221,17 @@ t.case_table = {
 		description = "1 Report - Ninja'd item giving it to the second roll without a reason.",
 		url = "https://discord.com/channels/610036506974748700/1183772300387045406",
 	},
-	[207] = {
+	[219] = {
+		name = "Fauke",
+		class = "PALADIN",
+		guid = "Player-4465-045E0632",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd item giving it to the second roll without a reason.",
+		url = "https://discord.com/channels/610036506974748700/1183772300387045406",
+	},
+	[220] = {
 		name = "Moonkee",
 		class = "DRUID",
 		guid = "Player-4465-045ECE80",
@@ -2111,27 +2241,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd item giving it to the second roll without a reason.",
 		url = "https://discord.com/channels/610036506974748700/1183772300387045406",
 	},
-	[208] = {
-		name = "Icedekok",
-		class = "MAGE",
-		guid = "Player-4465-043F6715",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Left raid after his SR didn't drop, admitted it in the report.",
-		url = "https://discord.com/channels/610036506974748700/1179527600784285706",
-	},
-	[209] = {
-		name = "Gripdekok",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-043E4F40",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Left raid after his SR didn't drop, admitted it in the report.",
-		url = "https://discord.com/channels/610036506974748700/1179527600784285706",
-	},
-	[210] = {
+	[221] = {
 		name = "Slamdekok",
 		class = "WARRIOR",
 		guid = "Player-4465-04396F22",
@@ -2144,7 +2254,27 @@ t.case_table = {
 		description = "1 Report - Left raid after his SR didn't drop, admitted it in the report.",
 		url = "https://discord.com/channels/610036506974748700/1179527600784285706",
 	},
-	[211] = {
+	[222] = {
+		name = "Gripdekok",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-043E4F40",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Left raid after his SR didn't drop, admitted it in the report.",
+		url = "https://discord.com/channels/610036506974748700/1179527600784285706",
+	},
+	[223] = {
+		name = "Icedekok",
+		class = "MAGE",
+		guid = "Player-4465-043F6715",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Left raid after his SR didn't drop, admitted it in the report.",
+		url = "https://discord.com/channels/610036506974748700/1179527600784285706",
+	},
+	[224] = {
 		name = "Sukdekok",
 		class = "HUNTER",
 		guid = "Player-4465-04396EFE",
@@ -2154,7 +2284,7 @@ t.case_table = {
 		description = "1 Report - Left raid after his SR didn't drop, admitted it in the report.",
 		url = "https://discord.com/channels/610036506974748700/1179527600784285706",
 	},
-	[212] = {
+	[225] = {
 		name = "Divinevicar",
 		class = "PRIEST",
 		guid = "Player-4465-043B378A",
@@ -2164,7 +2294,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item being the second roll and taking it instead of the winner, arguing that mages don't use spirit.",
 		url = "https://discord.com/channels/610036506974748700/1181359965022195763",
 	},
-	[213] = {
+	[226] = {
 		name = "Dummare",
 		class = "MAGE",
 		guid = "Player-4465-04234686",
@@ -2174,7 +2304,7 @@ t.case_table = {
 		description = "3 Reports - Scams with deathrolls, doesn't pay put when losing.",
 		url = "https://discord.com/channels/610036506974748700/1178759124717150208",
 	},
-	[214] = {
+	[227] = {
 		name = "Jarlenn",
 		class = "MAGE",
 		guid = "Player-4465-042C63EF",
@@ -2184,7 +2314,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item being the second roll and equipped it knowing he was not the winner.",
 		url = "https://discord.com/channels/610036506974748700/1178448964148809869",
 	},
-	[215] = {
+	[228] = {
 		name = "Shamamba",
 		class = "SHAMAN",
 		guid = "Player-4465-02E5727E",
@@ -2194,7 +2324,7 @@ t.case_table = {
 		description = "1 Report - Part of Banden PuG org, with vague rules they use to ninja items by not respecting the rolls. Doubled down in the report.",
 		url = "https://discord.com/channels/610036506974748700/1178448964148809869",
 	},
-	[216] = {
+	[229] = {
 		name = "Looting",
 		class = "HUNTER",
 		guid = "Player-4465-0453272D",
@@ -2204,7 +2334,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item for a guildie by giving it to second roll while being ML. No remorse and doubled down, insulting people on top.",
 		url = "https://discord.com/channels/610036506974748700/1178448964148809869",
 	},
-	[217] = {
+	[230] = {
 		name = "Hekse",
 		class = "WARLOCK",
 		guid = "Player-4465-042105E1",
@@ -2214,7 +2344,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item for a guildie by giving it to second roll while being ML. No remorse and doubled down, insulting people on top.",
 		url = "https://discord.com/channels/610036506974748700/1178448964148809869",
 	},
-	[218] = {
+	[231] = {
 		name = "Inyourmind",
 		class = "PRIEST",
 		guid = "Player-4465-02E13966",
@@ -2224,7 +2354,7 @@ t.case_table = {
 		description = "1 Report - Part of Banden PuG org, with vague rules they use to ninja items by not respecting the rolls. Doubled down in the report.",
 		url = "https://discord.com/channels/610036506974748700/1178448964148809869",
 	},
-	[219] = {
+	[232] = {
 		name = "Wisson",
 		class = "HUNTER",
 		guid = "Player-4465-044FBF31",
@@ -2234,37 +2364,7 @@ t.case_table = {
 		description = "1 Report - Part of Banden PuG org, with vague rules they use to ninja items by not respecting the rolls. Doubled down in the report.",
 		url = "https://discord.com/channels/610036506974748700/1178448964148809869",
 	},
-	[220] = {
-		name = "Jarlu",
-		class = "DRUID",
-		guid = "Player-4465-02DF9AF5",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd an item for a guildie by giving it to second roll, using an excuse with no rules to argue it. Listed in Firemaw for ninja too.",
-		url = "https://discord.com/channels/610036506974748700/1178448964148809869",
-	},
-	[221] = {
-		name = "Jarlupaladin",
-		class = "PALADIN",
-		guid = "Player-4465-04569EE7",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd an item for a guildie by giving it to second roll, using an excuse with no rules to argue it. Listed in Firemaw for ninja too.",
-		url = "https://discord.com/channels/610036506974748700/1178448964148809869",
-	},
-	[222] = {
-		name = "Jarlushaman",
-		class = "SHAMAN",
-		guid = "Player-4465-045C36CE",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd an item for a guildie by giving it to second roll, using an excuse with no rules to argue it. Listed in Firemaw for ninja too.",
-		url = "https://discord.com/channels/610036506974748700/1178448964148809869",
-	},
-	[223] = {
+	[233] = {
 		name = "Jarlupriest",
 		class = "PRIEST",
 		guid = "Player-4465-045EF19E",
@@ -2274,7 +2374,37 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item for a guildie by giving it to second roll, using an excuse with no rules to argue it. Listed in Firemaw for ninja too.",
 		url = "https://discord.com/channels/610036506974748700/1178448964148809869",
 	},
-	[224] = {
+	[234] = {
+		name = "Jarlushaman",
+		class = "SHAMAN",
+		guid = "Player-4465-045C36CE",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item for a guildie by giving it to second roll, using an excuse with no rules to argue it. Listed in Firemaw for ninja too.",
+		url = "https://discord.com/channels/610036506974748700/1178448964148809869",
+	},
+	[235] = {
+		name = "Jarlu",
+		class = "DRUID",
+		guid = "Player-4465-02DF9AF5",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item for a guildie by giving it to second roll, using an excuse with no rules to argue it. Listed in Firemaw for ninja too.",
+		url = "https://discord.com/channels/610036506974748700/1178448964148809869",
+	},
+	[236] = {
+		name = "Jarlupaladin",
+		class = "PALADIN",
+		guid = "Player-4465-04569EE7",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item for a guildie by giving it to second roll, using an excuse with no rules to argue it. Listed in Firemaw for ninja too.",
+		url = "https://discord.com/channels/610036506974748700/1178448964148809869",
+	},
+	[237] = {
 		name = "Ibnegokhan",
 		class = "ROGUE",
 		guid = "Player-4465-045E73C1",
@@ -2284,7 +2414,7 @@ t.case_table = {
 		description = "1 Report - Harassed a player because he was checking logs in a raid and wasn't convinced by the grey logs of this player.",
 		url = "https://discord.com/channels/610036506974748700/1179563648008601610",
 	},
-	[225] = {
+	[238] = {
 		name = "Sintrexed",
 		class = "SHAMAN",
 		guid = "Player-4465-04417721",
@@ -2294,27 +2424,7 @@ t.case_table = {
 		description = "1 Report - Voluntarily griefed Anub 50 tries making the raid wipe by getting the adds out of the ice, tried to grief Valkyrs too.",
 		url = "https://discord.com/channels/610036506974748700/1177790499764052058",
 	},
-	[226] = {
-		name = "Tankerina",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-04151EC1",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "3 Reports - Ninja'd several items by keeping them at the end of the run and not rolling. History of ninjaing/stealing, serial scammer. Avoid.",
-		url = "https://discord.com/channels/610036506974748700/1172677233232576553",
-	},
-	[227] = {
-		name = "Fàtal",
-		class = "PRIEST",
-		guid = "Player-4465-040CC9B9",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "3 Reports - Ninja'd several items by keeping them at the end of the run and not rolling. History of ninjaing/stealing, serial scammer. Avoid.",
-		url = "https://discord.com/channels/610036506974748700/1172677233232576553",
-	},
-	[228] = {
+	[239] = {
 		name = "Nessunaa",
 		class = "MAGE",
 		guid = "Player-4465-04165CAC",
@@ -2324,97 +2434,27 @@ t.case_table = {
 		description = "3 Reports - Ninja'd several items by keeping them at the end of the run and not rolling. History of ninjaing/stealing, serial scammer. Avoid.",
 		url = "https://discord.com/channels/610036506974748700/1172677233232576553",
 	},
-	[229] = {
-		name = "Rohacs",
-		class = "SHAMAN",
-		guid = "Player-4465-044B3A22",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
-		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
-	},
-	[230] = {
-		name = "Darëbak",
-		class = "ROGUE",
-		guid = "Player-4465-0393921C",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
-		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
-	},
-	[231] = {
-		name = "Yöinker",
-		class = "MAGE",
-		guid = "Player-4465-02F19912",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
-		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
-	},
-	[232] = {
-		name = "Rohacc",
-		class = "DRUID",
-		guid = "Player-4465-042ACD8C",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
-		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
-	},
-	[233] = {
-		name = "Spotlïght",
-		class = "PALADIN",
-		guid = "Player-4465-02DEB992",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
-		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
-	},
-	[234] = {
-		name = "Lovëc",
-		class = "HUNTER",
-		guid = "Player-4465-02F8FE71",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
-		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
-	},
-	[235] = {
-		name = "Chainlïght",
-		class = "SHAMAN",
-		guid = "Player-4465-04208EF3",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
-		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
-	},
-	[236] = {
-		name = "Rouhac",
+	[240] = {
+		name = "Tankerina",
 		class = "DEATHKNIGHT",
-		guid = "Player-4465-03784510",
+		guid = "Player-4465-04151EC1",
 		faction = "Horde",
-		level = 2,
+		level = 3,
 		category = "raid",
-		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
-		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
+		description = "3 Reports - Ninja'd several items by keeping them at the end of the run and not rolling. History of ninjaing/stealing, serial scammer. Avoid.",
+		url = "https://discord.com/channels/610036506974748700/1172677233232576553",
 	},
-	[237] = {
-		name = "Rohäc",
-		class = "WARRIOR",
-		guid = "Player-4465-0236A122",
+	[241] = {
+		name = "Fàtal",
+		class = "PRIEST",
+		guid = "Player-4465-040CC9B9",
 		faction = "Horde",
-		level = 2,
+		level = 3,
 		category = "raid",
-		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
-		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
+		description = "3 Reports - Ninja'd several items by keeping them at the end of the run and not rolling. History of ninjaing/stealing, serial scammer. Avoid.",
+		url = "https://discord.com/channels/610036506974748700/1172677233232576553",
 	},
-	[238] = {
+	[242] = {
 		name = "Shadowbölt",
 		class = "WARLOCK",
 		guid = "Player-4465-02E89868",
@@ -2424,7 +2464,17 @@ t.case_table = {
 		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
 		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
 	},
-	[239] = {
+	[243] = {
+		name = "Spotlïght",
+		class = "PALADIN",
+		guid = "Player-4465-02DEB992",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
+		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
+	},
+	[244] = {
 		name = "Hötlight",
 		class = "DRUID",
 		guid = "Player-4465-02E7B1D1",
@@ -2434,16 +2484,27 @@ t.case_table = {
 		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
 		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
 	},
-	[240] = {
-		name = "Röhac",
-		guid = "Player-4465-0241109A",
+	[245] = {
+		name = "Rohacs",
+		class = "SHAMAN",
+		guid = "Player-4465-044B3A22",
 		faction = "Horde",
 		level = 2,
 		category = "raid",
 		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
 		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
 	},
-	[241] = {
+	[246] = {
+		name = "Darëbak",
+		class = "ROGUE",
+		guid = "Player-4465-0393921C",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
+		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
+	},
+	[247] = {
 		name = "Grouplight",
 		class = "PRIEST",
 		guid = "Player-4465-04208F12",
@@ -2453,7 +2514,7 @@ t.case_table = {
 		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
 		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
 	},
-	[242] = {
+	[248] = {
 		name = "Spötlight",
 		class = "PALADIN",
 		guid = "Player-4465-04208EF1",
@@ -2463,7 +2524,76 @@ t.case_table = {
 		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
 		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
 	},
-	[243] = {
+	[249] = {
+		name = "Yöinker",
+		class = "MAGE",
+		guid = "Player-4465-02F19912",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
+		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
+	},
+	[250] = {
+		name = "Rohacc",
+		class = "DRUID",
+		guid = "Player-4465-042ACD8C",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
+		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
+	},
+	[251] = {
+		name = "Lovëc",
+		class = "HUNTER",
+		guid = "Player-4465-02F8FE71",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
+		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
+	},
+	[252] = {
+		name = "Chainlïght",
+		class = "SHAMAN",
+		guid = "Player-4465-04208EF3",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
+		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
+	},
+	[253] = {
+		name = "Rouhac",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-03784510",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
+		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
+	},
+	[254] = {
+		name = "Rohäc",
+		class = "WARRIOR",
+		guid = "Player-4465-0236A122",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
+		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
+	},
+	[255] = {
+		name = "Röhac",
+		guid = "Player-4465-0241109A",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Griefed SR roll for a player, didn't fix it and admitted not caring about people/loot in the report, doesn't think it's his responsibility.",
+		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
+	},
+	[256] = {
 		name = "Rektaren",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-04571671",
@@ -2473,7 +2603,7 @@ t.case_table = {
 		description = "1 Report - Left raid after a wipe on a raid that otherwise was going as normal.",
 		url = "https://discord.com/channels/610036506974748700/1174311990487941202",
 	},
-	[244] = {
+	[257] = {
 		name = "Georgeprince",
 		class = "ROGUE",
 		guid = "Player-4465-043BF741",
@@ -2483,7 +2613,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd Death's Choice by not rolling it and going offline.",
 		url = "https://discord.com/channels/610036506974748700/1174741463440039987",
 	},
-	[245] = {
+	[258] = {
 		name = "Proga",
 		class = "PALADIN",
 		guid = "Player-4465-02F0DCBF",
@@ -2493,7 +2623,7 @@ t.case_table = {
 		description = "1 Report - Rolled MS for items with the intention of selling them to raid members.",
 		url = "https://discord.com/channels/610036506974748700/1173332235777224914",
 	},
-	[246] = {
+	[259] = {
 		name = "Nordström",
 		class = "WARRIOR",
 		guid = "Player-4465-036C03F7",
@@ -2503,7 +2633,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item to give it to his friend loot pooling.",
 		url = "https://discord.com/channels/610036506974748700/1172679704147398728",
 	},
-	[247] = {
+	[260] = {
 		name = "Infuzioni",
 		class = "PALADIN",
 		guid = "Player-4465-0431B36F",
@@ -2516,7 +2646,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd item not rolling it and letting it expire, later admitted to loot banning one of the players who had it SR without warning.",
 		url = "https://discord.com/channels/610036506974748700/1175628903402967060",
 	},
-	[248] = {
+	[261] = {
 		name = "Shtupci",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-0433E420",
@@ -2529,7 +2659,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd item not rolling it and letting it expire, later admitted to loot banning one of the players who had it SR without warning.",
 		url = "https://discord.com/channels/610036506974748700/1175628903402967060",
 	},
-	[249] = {
+	[262] = {
 		name = "Peevo",
 		class = "SHAMAN",
 		guid = "Player-4465-0454665E",
@@ -2539,7 +2669,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd items at the end of a run as \"payment for carry\", but didn't offer any services neither was any agreement beforehand.",
 		url = "https://discord.com/channels/610036506974748700/1171963394606235648",
 	},
-	[250] = {
+	[263] = {
 		name = "Saasseller",
 		class = "ROGUE",
 		guid = "Player-4465-043E74AA",
@@ -2549,27 +2679,7 @@ t.case_table = {
 		description = "1 Report - Stole materials from a player, promising a craft in return but putting him on ignore and leaving with the mats.",
 		url = "https://discord.com/channels/610036506974748700/1171756555906056293",
 	},
-	[251] = {
-		name = "Palferiatya",
-		class = "PRIEST",
-		guid = "Player-4465-0371FADF",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "3 Reports - Constantly leaves raids after his SR is done, first report.",
-		url = "https://discord.com/channels/610036506974748700/1098740635160301779",
-	},
-	[252] = {
-		name = "Diotoro",
-		class = "PALADIN",
-		guid = "Player-4465-02F4E00E",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "3 Reports - Constantly leaves raids after his SR is done, first report.",
-		url = "https://discord.com/channels/610036506974748700/1098740635160301779",
-	},
-	[253] = {
+	[264] = {
 		name = "Bythenight",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-036EA03A",
@@ -2579,17 +2689,27 @@ t.case_table = {
 		description = "3 Reports - Constantly leaves raids after his SR is done, first report.",
 		url = "https://discord.com/channels/610036506974748700/1098740635160301779",
 	},
-	[254] = {
-		name = "Kalexd",
-		class = "ROGUE",
-		guid = "Player-4465-043427AB",
+	[265] = {
+		name = "Diotoro",
+		class = "PALADIN",
+		guid = "Player-4465-02F4E00E",
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "2 Reports - Kicks from raids when getting upset/angry, doesn't allow SR to be rolled by the player who had it.",
-		url = "https://discord.com/channels/610036506974748700/1149293083591180288",
+		description = "3 Reports - Constantly leaves raids after his SR is done, first report.",
+		url = "https://discord.com/channels/610036506974748700/1098740635160301779",
 	},
-	[255] = {
+	[266] = {
+		name = "Palferiatya",
+		class = "PRIEST",
+		guid = "Player-4465-0371FADF",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "3 Reports - Constantly leaves raids after his SR is done, first report.",
+		url = "https://discord.com/channels/610036506974748700/1098740635160301779",
+	},
+	[267] = {
 		name = "Macedonian",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-042714EF",
@@ -2599,7 +2719,7 @@ t.case_table = {
 		description = "2 Reports - Kicks from raids when getting upset/angry, doesn't allow SR to be rolled by the player who had it.",
 		url = "https://discord.com/channels/610036506974748700/1149293083591180288",
 	},
-	[256] = {
+	[268] = {
 		name = "Macedoniian",
 		class = "PALADIN",
 		guid = "Player-4465-04291E1C",
@@ -2609,7 +2729,7 @@ t.case_table = {
 		description = "2 Reports - Kicks from raids when getting upset/angry, doesn't allow SR to be rolled by the player who had it.",
 		url = "https://discord.com/channels/610036506974748700/1149293083591180288",
 	},
-	[257] = {
+	[269] = {
 		name = "Phálánx",
 		class = "MAGE",
 		guid = "Player-4465-043122C4",
@@ -2619,7 +2739,17 @@ t.case_table = {
 		description = "2 Reports - Kicks from raids when getting upset/angry, doesn't allow SR to be rolled by the player who had it.",
 		url = "https://discord.com/channels/610036506974748700/1149293083591180288",
 	},
-	[258] = {
+	[270] = {
+		name = "Kalexd",
+		class = "ROGUE",
+		guid = "Player-4465-043427AB",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Kicks from raids when getting upset/angry, doesn't allow SR to be rolled by the player who had it.",
+		url = "https://discord.com/channels/610036506974748700/1149293083591180288",
+	},
+	[271] = {
 		name = "Cidor",
 		class = "WARRIOR",
 		guid = "Player-4465-02E6577F",
@@ -2629,7 +2759,7 @@ t.case_table = {
 		description = "1 Report - Does loot council in pug raids, putting his opinion on top of MS > OS and denying loot on valid rolls.",
 		url = "https://discord.com/channels/610036506974748700/1170821921559031949",
 	},
-	[259] = {
+	[272] = {
 		name = "Laggylaxo",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-036B64B8",
@@ -2639,7 +2769,7 @@ t.case_table = {
 		description = "1 Report - Helped his friend ninja an item by changing raid rules mid run and didn't want to solve it, shrugged it off.",
 		url = "https://discord.com/channels/610036506974748700/1170525578349264998",
 	},
-	[260] = {
+	[273] = {
 		name = "Schugz",
 		class = "WARRIOR",
 		guid = "Player-4465-007D2A87",
@@ -2652,7 +2782,7 @@ t.case_table = {
 		description = "2 Reports - Ninja'd an item changing the rules about it mid raid, laughed about it in the report, doesn't care.",
 		url = "https://discord.com/channels/610036506974748700/1170525578349264998",
 	},
-	[261] = {
+	[274] = {
 		name = "Lladós",
 		class = "SHAMAN",
 		guid = "Player-4465-044DEBA7",
@@ -2662,7 +2792,7 @@ t.case_table = {
 		description = "1 Report - Got RL when original RL disconnected and abused it holding loot hostage, kicking a player mid boss and griefed the ID for everyone.",
 		url = "https://discord.com/channels/610036506974748700/1169906566556823572",
 	},
-	[262] = {
+	[275] = {
 		name = "Thefallin",
 		class = "PRIEST",
 		guid = "Player-4465-0436984B",
@@ -2672,7 +2802,7 @@ t.case_table = {
 		description = "8 Reports - Stole entire GDKP pot and went offline, has done it before several times.",
 		url = "https://discord.com/channels/610036506974748700/1144722018902736916",
 	},
-	[263] = {
+	[276] = {
 		name = "Fiftykcal",
 		class = "PRIEST",
 		guid = "Player-4465-01F9C4AA",
@@ -2682,7 +2812,7 @@ t.case_table = {
 		description = "1 Report - Harasses players with insults, slurs, wishing death on family etc.",
 		url = "https://discord.com/channels/610036506974748700/1169305429390675998",
 	},
-	[264] = {
+	[277] = {
 		name = "Putridhoe",
 		class = "PRIEST",
 		guid = "Player-4465-044016D4",
@@ -2692,67 +2822,7 @@ t.case_table = {
 		description = "1 Report - Harasses with racial slurs and allegedly invites people to kick them off a cliff.",
 		url = "https://discord.com/channels/610036506974748700/1168920357261029466",
 	},
-	[265] = {
-		name = "Nododge",
-		class = "SHAMAN",
-		guid = "Player-4465-02FB5506",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
-		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
-	},
-	[266] = {
-		name = "Dodge",
-		class = "WARRIOR",
-		guid = "Player-4465-00B44B79",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
-		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
-	},
-	[267] = {
-		name = "Nekododge",
-		class = "WARLOCK",
-		guid = "Player-4465-00B36EA9",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
-		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
-	},
-	[268] = {
-		name = "Adodge",
-		class = "DRUID",
-		guid = "Player-4465-0177A1E7",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
-		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
-	},
-	[269] = {
-		name = "Unholydodge",
-		class = "SHAMAN",
-		guid = "Player-4465-0141E785",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
-		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
-	},
-	[270] = {
-		name = "Dodgeweed",
-		class = "PRIEST",
-		guid = "Player-4465-01823B9B",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
-		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
-	},
-	[271] = {
+	[278] = {
 		name = "Dodgeque",
 		class = "DRUID",
 		guid = "Player-4465-02F37464",
@@ -2762,57 +2832,17 @@ t.case_table = {
 		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
 		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
 	},
-	[272] = {
-		name = "Dodges",
-		class = "ROGUE",
-		guid = "Player-4465-018790CA",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
-		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
-	},
-	[273] = {
-		name = "Restododge",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-036FA009",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
-		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
-	},
-	[274] = {
-		name = "Dodgesenpai",
-		class = "MAGE",
-		guid = "Player-4465-01866167",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
-		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
-	},
-	[275] = {
-		name = "Kurododge",
-		class = "WARLOCK",
-		guid = "Player-4465-01CC84AE",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
-		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
-	},
-	[276] = {
-		name = "Holydodge",
+	[279] = {
+		name = "Nododge",
 		class = "SHAMAN",
-		guid = "Player-4465-0104ABD4",
+		guid = "Player-4465-02FB5506",
 		faction = "Horde",
 		level = 3,
 		category = "raid",
 		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
 		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
 	},
-	[277] = {
+	[280] = {
 		name = "Dodgenyahui",
 		class = "WARRIOR",
 		guid = "Player-4465-0455FE8D",
@@ -2822,7 +2852,107 @@ t.case_table = {
 		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
 		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
 	},
-	[278] = {
+	[281] = {
+		name = "Dodges",
+		class = "ROGUE",
+		guid = "Player-4465-018790CA",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
+		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
+	},
+	[282] = {
+		name = "Restododge",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-036FA009",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
+		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
+	},
+	[283] = {
+		name = "Dodge",
+		class = "WARRIOR",
+		guid = "Player-4465-00B44B79",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
+		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
+	},
+	[284] = {
+		name = "Dodgesenpai",
+		class = "MAGE",
+		guid = "Player-4465-01866167",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
+		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
+	},
+	[285] = {
+		name = "Kurododge",
+		class = "WARLOCK",
+		guid = "Player-4465-01CC84AE",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
+		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
+	},
+	[286] = {
+		name = "Holydodge",
+		class = "SHAMAN",
+		guid = "Player-4465-0104ABD4",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
+		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
+	},
+	[287] = {
+		name = "Nekododge",
+		class = "WARLOCK",
+		guid = "Player-4465-00B36EA9",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
+		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
+	},
+	[288] = {
+		name = "Adodge",
+		class = "DRUID",
+		guid = "Player-4465-0177A1E7",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
+		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
+	},
+	[289] = {
+		name = "Unholydodge",
+		class = "SHAMAN",
+		guid = "Player-4465-0141E785",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
+		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
+	},
+	[290] = {
+		name = "Dodgeweed",
+		class = "PRIEST",
+		guid = "Player-4465-01823B9B",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd Deathbringer's Will and laughed about it, recorded in stream with clips in the report.",
+		url = "https://discord.com/channels/610036506974748700/1169077255796949042",
+	},
+	[291] = {
 		name = "Jooli",
 		class = "MAGE",
 		guid = "Player-4465-0245E9B9",
@@ -2832,7 +2962,7 @@ t.case_table = {
 		description = "2 Reports - Raid leader organises with no care, griefs people's time, is linked to people who sell gold and are listed too.",
 		url = "https://discord.com/channels/610036506974748700/1166342538513354772",
 	},
-	[279] = {
+	[292] = {
 		name = "Gymisempty",
 		class = "DRUID",
 		guid = "Player-4465-0304D3B1",
@@ -2842,7 +2972,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd all the loot of end boss in dungeon, confirmed it in the report, no remorse.",
 		url = "https://discord.com/channels/610036506974748700/1165960002037624862",
 	},
-	[280] = {
+	[293] = {
 		name = "Ramiskow",
 		class = "HUNTER",
 		guid = "Player-4465-036E659F",
@@ -2852,7 +2982,7 @@ t.case_table = {
 		description = "1 Report - As RL decided to not give an item to highest roll based on personal opinions of how much the player was going to use the item.",
 		url = "https://discord.com/channels/610036506974748700/1164172091743010857",
 	},
-	[281] = {
+	[294] = {
 		name = "Nall",
 		class = "SHAMAN",
 		guid = "Player-4465-02E7BEF6",
@@ -2862,7 +2992,7 @@ t.case_table = {
 		description = "1 Report - Needed all items in a dungeon, even ones that were needed by other player. Mocked them about enchanting when asked.",
 		url = "https://discord.com/channels/610036506974748700/1164277390550253678",
 	},
-	[282] = {
+	[295] = {
 		name = "Crinell",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-042E38A8",
@@ -2872,7 +3002,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item in ICC making up new unnanounced rules for SR when the raid was already started and saved.",
 		url = "https://discord.com/channels/610036506974748700/1162848458747674835",
 	},
-	[283] = {
+	[296] = {
 		name = "Simgarde",
 		class = "PALADIN",
 		guid = "Player-4465-042FA53F",
@@ -2882,17 +3012,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item in ICC making up new unnanounced rules for SR when the raid was already started and saved.",
 		url = "https://discord.com/channels/610036506974748700/1162848458747674835",
 	},
-	[284] = {
-		name = "Avenus",
-		class = "MAGE",
-		guid = "Player-4465-0300A020",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "4 Reports - GDKP scams and negligence in SR runs. Group of gold sellers not caring about organising, only to farm gold.",
-		url = "https://discord.com/channels/610036506974748700/1162828491662839958",
-	},
-	[285] = {
+	[297] = {
 		name = "Helzor",
 		class = "WARRIOR",
 		guid = "Player-4465-0300A3CC",
@@ -2902,17 +3022,7 @@ t.case_table = {
 		description = "4 Reports - GDKP scams and negligence in SR runs. Group of gold sellers not caring about organising, only to farm gold.",
 		url = "https://discord.com/channels/610036506974748700/1162828491662839958",
 	},
-	[286] = {
-		name = "Primalbeast",
-		class = "DRUID",
-		guid = "Player-4465-02ED8852",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "4 Reports - GDKP scams and negligence in SR runs. Group of gold sellers not caring about organising, only to farm gold.",
-		url = "https://discord.com/channels/610036506974748700/1162828491662839958",
-	},
-	[287] = {
+	[298] = {
 		name = "Vizzy",
 		class = "HUNTER",
 		guid = "Player-4465-0429CE06",
@@ -2922,7 +3032,7 @@ t.case_table = {
 		description = "4 Reports - GDKP scams and negligence in SR runs. Group of gold sellers not caring about organising, only to farm gold.",
 		url = "https://discord.com/channels/610036506974748700/1162828491662839958",
 	},
-	[288] = {
+	[299] = {
 		name = "Horseman",
 		class = "PALADIN",
 		guid = "Player-4465-0303BDD9",
@@ -2935,7 +3045,27 @@ t.case_table = {
 		description = "4 Reports - GDKP scams and negligence in SR runs. Group of gold sellers not caring about organising, only to farm gold.",
 		url = "https://discord.com/channels/610036506974748700/1162828491662839958",
 	},
-	[289] = {
+	[300] = {
+		name = "Primalbeast",
+		class = "DRUID",
+		guid = "Player-4465-02ED8852",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "4 Reports - GDKP scams and negligence in SR runs. Group of gold sellers not caring about organising, only to farm gold.",
+		url = "https://discord.com/channels/610036506974748700/1162828491662839958",
+	},
+	[301] = {
+		name = "Avenus",
+		class = "MAGE",
+		guid = "Player-4465-0300A020",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "4 Reports - GDKP scams and negligence in SR runs. Group of gold sellers not caring about organising, only to farm gold.",
+		url = "https://discord.com/channels/610036506974748700/1162828491662839958",
+	},
+	[302] = {
 		name = "Bursteed",
 		class = "WARLOCK",
 		guid = "Player-4465-044C655C",
@@ -2945,27 +3075,7 @@ t.case_table = {
 		description = "1 Report - Deleted 3SR of the item he wanted as RL and proceeded to the boss without telling those people, who didn't know it was deleted.",
 		url = "https://discord.com/channels/610036506974748700/1160325842757484726",
 	},
-	[290] = {
-		name = "Kittybleeds",
-		class = "DRUID",
-		guid = "Player-4465-044FBE5E",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
-		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
-	},
-	[291] = {
-		name = "Moneyshaker",
-		class = "PALADIN",
-		guid = "Player-4465-038DAC97",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
-		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
-	},
-	[292] = {
+	[303] = {
 		name = "Culoretardin",
 		class = "PALADIN",
 		guid = "Player-4465-047E1913",
@@ -2975,67 +3085,17 @@ t.case_table = {
 		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
 		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
 	},
-	[293] = {
-		name = "Skillparadis",
+	[304] = {
+		name = "Kittybleeds",
 		class = "DRUID",
-		guid = "Player-4465-02F3DA7A",
+		guid = "Player-4465-044FBE5E",
 		faction = "Horde",
 		level = 3,
 		category = "raid",
 		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
 		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
 	},
-	[294] = {
-		name = "Snapshotandy",
-		class = "WARLOCK",
-		guid = "Player-4465-03B5D11E",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
-		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
-	},
-	[295] = {
-		name = "Culostdz",
-		class = "SHAMAN",
-		guid = "Player-4465-04512AC8",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
-		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
-	},
-	[296] = {
-		name = "Cumalredar",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-036CD24C",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
-		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
-	},
-	[297] = {
-		name = "Phorupocket",
-		class = "PRIEST",
-		guid = "Player-4465-02F0891E",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
-		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
-	},
-	[298] = {
-		name = "Zikzik",
-		class = "HUNTER",
-		guid = "Player-4465-02F193F4",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
-		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
-	},
-	[299] = {
+	[305] = {
 		name = "Culoxtrz",
 		class = "ROGUE",
 		guid = "Player-4465-036CC36D",
@@ -3045,7 +3105,77 @@ t.case_table = {
 		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
 		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
 	},
-	[300] = {
+	[306] = {
+		name = "Moneyshaker",
+		class = "PALADIN",
+		guid = "Player-4465-038DAC97",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
+		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
+	},
+	[307] = {
+		name = "Zikzik",
+		class = "HUNTER",
+		guid = "Player-4465-02F193F4",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
+		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
+	},
+	[308] = {
+		name = "Phorupocket",
+		class = "PRIEST",
+		guid = "Player-4465-02F0891E",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
+		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
+	},
+	[309] = {
+		name = "Skillparadis",
+		class = "DRUID",
+		guid = "Player-4465-02F3DA7A",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
+		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
+	},
+	[310] = {
+		name = "Cumalredar",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-036CD24C",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
+		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
+	},
+	[311] = {
+		name = "Culostdz",
+		class = "SHAMAN",
+		guid = "Player-4465-04512AC8",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
+		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
+	},
+	[312] = {
+		name = "Snapshotandy",
+		class = "WARLOCK",
+		guid = "Player-4465-03B5D11E",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Didn't give an item to the winner of the roll and kicked him from the raid, doubled down in the report with no remorse.",
+		url = "https://discord.com/channels/610036506974748700/1160691668429832312",
+	},
+	[313] = {
 		name = "Takhty",
 		class = "DRUID",
 		guid = "Player-4465-02ED993E",
@@ -3055,27 +3185,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd 2 items rolling as MS but they were for OS and lied to the RL about it. Also lied in the report several times changing the story.",
 		url = "https://discord.com/channels/610036506974748700/1159229849399988256",
 	},
-	[301] = {
-		name = "Justfrostydr",
-		class = "DRUID",
-		guid = "Player-4465-02538224",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Kicks players from raid mid pull at the smallest mistake or disagreement, saving them. Doubled down in the report.",
-		url = "https://discord.com/channels/610036506974748700/1157757813527937037",
-	},
-	[302] = {
-		name = "Justfrosty",
-		class = "WARRIOR",
-		guid = "Player-4465-01338363",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Kicks players from raid mid pull at the smallest mistake or disagreement, saving them. Doubled down in the report.",
-		url = "https://discord.com/channels/610036506974748700/1157757813527937037",
-	},
-	[303] = {
+	[314] = {
 		name = "Justfrostypl",
 		class = "PALADIN",
 		guid = "Player-4465-037EE624",
@@ -3085,7 +3195,27 @@ t.case_table = {
 		description = "1 Report - Kicks players from raid mid pull at the smallest mistake or disagreement, saving them. Doubled down in the report.",
 		url = "https://discord.com/channels/610036506974748700/1157757813527937037",
 	},
-	[304] = {
+	[315] = {
+		name = "Justfrosty",
+		class = "WARRIOR",
+		guid = "Player-4465-01338363",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Kicks players from raid mid pull at the smallest mistake or disagreement, saving them. Doubled down in the report.",
+		url = "https://discord.com/channels/610036506974748700/1157757813527937037",
+	},
+	[316] = {
+		name = "Justfrostydr",
+		class = "DRUID",
+		guid = "Player-4465-02538224",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Kicks players from raid mid pull at the smallest mistake or disagreement, saving them. Doubled down in the report.",
+		url = "https://discord.com/channels/610036506974748700/1157757813527937037",
+	},
+	[317] = {
 		name = "Gigadinn",
 		class = "PALADIN",
 		guid = "Player-4465-04393260",
@@ -3095,7 +3225,7 @@ t.case_table = {
 		description = "2 Reports - Gigadinn, recruits for raids and then passes leader onto different RL as part of a business to farm gold, those RL have ninja'd and scammed.",
 		url = "https://discord.com/channels/610036506974748700/1154907944647934042",
 	},
-	[305] = {
+	[318] = {
 		name = "Kalashko",
 		class = "HUNTER",
 		guid = "Player-4465-03293AC6",
@@ -3105,7 +3235,7 @@ t.case_table = {
 		description = "2 Reports - Tampered SR, made a second one and locked it fast not allowing everyone to put them up, allegedly ninja'd an item.",
 		url = "https://discord.com/channels/610036506974748700/1157444801688514681",
 	},
-	[306] = {
+	[319] = {
 		name = "Ludovicc",
 		class = "WARRIOR",
 		guid = "Player-4465-0417C6D1",
@@ -3115,7 +3245,7 @@ t.case_table = {
 		description = "2 Reports - Tampered SR, made a second one and locked it fast not allowing everyone to put them up, allegedly ninja'd an item.",
 		url = "https://discord.com/channels/610036506974748700/1157444801688514681",
 	},
-	[307] = {
+	[320] = {
 		name = "Bloodqueén",
 		class = "ROGUE",
 		guid = "Player-4465-03F61B91",
@@ -3128,7 +3258,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd Death's Choice tampering with the SR and denying it to the player who rolled higher. Admits he scams and will do so again.",
 		url = "https://discord.com/channels/610036506974748700/1158169027974283334",
 	},
-	[308] = {
+	[321] = {
 		name = "Rubice",
 		class = "DRUID",
 		guid = "Player-4465-044D6F99",
@@ -3138,27 +3268,7 @@ t.case_table = {
 		description = "1 Report - Maliciously kicking people from the group when his need rolls are questioned, ruining daily lockout for multiple people with his power trip.",
 		url = "https://discord.com/channels/610036506974748700/1153650912657686580",
 	},
-	[309] = {
-		name = "Szexgrof",
-		class = "PALADIN",
-		guid = "Player-4465-037C21DF",
-		faction = "Horde",
-		level = 3,
-		category = "harassment",
-		description = "4 Reports - Known griefer and harasser Szexgrof/Novahun/Ösckös joins raids to grief them willingly, laugh at them and insults.",
-		url = "https://discord.com/channels/610036506974748700/1157758451112476714",
-	},
-	[310] = {
-		name = "Novahun",
-		class = "PRIEST",
-		guid = "Player-4465-02693392",
-		faction = "Horde",
-		level = 3,
-		category = "harassment",
-		description = "4 Reports - Known griefer and harasser Szexgrof/Novahun/Ösckös joins raids to grief them willingly, laugh at them and insults.",
-		url = "https://discord.com/channels/610036506974748700/1157758451112476714",
-	},
-	[311] = {
+	[322] = {
 		name = "Öcskös",
 		class = "WARRIOR",
 		guid = "Player-4465-039ABC3A",
@@ -3168,7 +3278,27 @@ t.case_table = {
 		description = "4 Reports - Known griefer and harasser Szexgrof/Novahun/Ösckös joins raids to grief them willingly, laugh at them and insults.",
 		url = "https://discord.com/channels/610036506974748700/1157758451112476714",
 	},
-	[312] = {
+	[323] = {
+		name = "Novahun",
+		class = "PRIEST",
+		guid = "Player-4465-02693392",
+		faction = "Horde",
+		level = 3,
+		category = "harassment",
+		description = "4 Reports - Known griefer and harasser Szexgrof/Novahun/Ösckös joins raids to grief them willingly, laugh at them and insults.",
+		url = "https://discord.com/channels/610036506974748700/1157758451112476714",
+	},
+	[324] = {
+		name = "Szexgrof",
+		class = "PALADIN",
+		guid = "Player-4465-037C21DF",
+		faction = "Horde",
+		level = 3,
+		category = "harassment",
+		description = "4 Reports - Known griefer and harasser Szexgrof/Novahun/Ösckös joins raids to grief them willingly, laugh at them and insults.",
+		url = "https://discord.com/channels/610036506974748700/1157758451112476714",
+	},
+	[325] = {
 		name = "Manamesjeff",
 		class = "HUNTER",
 		guid = "Player-4465-044B997F",
@@ -3178,7 +3308,7 @@ t.case_table = {
 		description = "1 Report - Gets upset easily and kicks people over being criticised. ATM Guild runs have caused problems before ninjaing too, join at your own risk.",
 		url = "https://discord.com/channels/610036506974748700/1157406312464908319",
 	},
-	[313] = {
+	[326] = {
 		name = "Tpstv",
 		class = "WARRIOR",
 		guid = "Player-4465-03B73CCE",
@@ -3188,27 +3318,7 @@ t.case_table = {
 		description = "1 Report - Made a deal to purchase the Onyxia head from the RL behind the other raiders' backs, effectively doubling his number of rolls.",
 		url = "https://discord.com/channels/610036506974748700/1157623942920540211",
 	},
-	[314] = {
-		name = "Jouen",
-		class = "WARLOCK",
-		guid = "Player-4465-0226ECBF",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Rolling on and winning an item he already has as the RL with the intention to sell it, repeat offender of dishonest rolls.",
-		url = "https://discord.com/channels/610036506974748700/1157623942920540211",
-	},
-	[315] = {
-		name = "Dievocka",
-		class = "PALADIN",
-		guid = "Player-4465-043907C4",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Rolling on and winning an item he already has as the RL with the intention to sell it, repeat offender of dishonest rolls.",
-		url = "https://discord.com/channels/610036506974748700/1157623942920540211",
-	},
-	[316] = {
+	[327] = {
 		name = "Jouenix",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-036A6795",
@@ -3218,40 +3328,27 @@ t.case_table = {
 		description = "2 Reports - Rolling on and winning an item he already has as the RL with the intention to sell it, repeat offender of dishonest rolls.",
 		url = "https://discord.com/channels/610036506974748700/1157623942920540211",
 	},
-	[317] = {
-		name = "Itachiochiha",
+	[328] = {
+		name = "Jouen",
+		class = "WARLOCK",
+		guid = "Player-4465-0226ECBF",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Rolling on and winning an item he already has as the RL with the intention to sell it, repeat offender of dishonest rolls.",
+		url = "https://discord.com/channels/610036506974748700/1157623942920540211",
+	},
+	[329] = {
+		name = "Dievocka",
 		class = "PALADIN",
-		guid = "Player-4465-02FB834A",
+		guid = "Player-4465-043907C4",
 		faction = "Horde",
-		level = 2,
+		level = 3,
 		category = "raid",
-		description = "1 Report - Mishandles loot, several reports with problems due to this RL not caring about properly organising leading to raiders ninjaing items.",
-		url = "https://discord.com/channels/610036506974748700/1155088897861230592",
+		description = "2 Reports - Rolling on and winning an item he already has as the RL with the intention to sell it, repeat offender of dishonest rolls.",
+		url = "https://discord.com/channels/610036506974748700/1157623942920540211",
 	},
-	[318] = {
-		name = "Sigard",
-		class = "PALADIN",
-		guid = "Player-4465-043CEECC",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Mishandles loot, several reports with problems due to this RL not caring about properly organising leading to raiders ninjaing items.",
-		url = "https://discord.com/channels/610036506974748700/1155088897861230592",
-	},
-	[319] = {
-		name = "Sullkeeper",
-		class = "SHAMAN",
-		guid = "Player-4465-02FAA0C6",
-		aliases = {
-			"Whiteiwalker",
-		},
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Mishandles loot, several reports with problems due to this RL not caring about properly organising leading to raiders ninjaing items.",
-		url = "https://discord.com/channels/610036506974748700/1155088897861230592",
-	},
-	[320] = {
+	[330] = {
 		name = "Sàvge",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-043BBF53",
@@ -3265,7 +3362,40 @@ t.case_table = {
 		description = "1 Report - Mishandles loot, several reports with problems due to this RL not caring about properly organising leading to raiders ninjaing items.",
 		url = "https://discord.com/channels/610036506974748700/1155088897861230592",
 	},
-	[321] = {
+	[331] = {
+		name = "Sullkeeper",
+		class = "SHAMAN",
+		guid = "Player-4465-02FAA0C6",
+		aliases = {
+			"Whiteiwalker",
+		},
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Mishandles loot, several reports with problems due to this RL not caring about properly organising leading to raiders ninjaing items.",
+		url = "https://discord.com/channels/610036506974748700/1155088897861230592",
+	},
+	[332] = {
+		name = "Sigard",
+		class = "PALADIN",
+		guid = "Player-4465-043CEECC",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Mishandles loot, several reports with problems due to this RL not caring about properly organising leading to raiders ninjaing items.",
+		url = "https://discord.com/channels/610036506974748700/1155088897861230592",
+	},
+	[333] = {
+		name = "Itachiochiha",
+		class = "PALADIN",
+		guid = "Player-4465-02FB834A",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Mishandles loot, several reports with problems due to this RL not caring about properly organising leading to raiders ninjaing items.",
+		url = "https://discord.com/channels/610036506974748700/1155088897861230592",
+	},
+	[334] = {
 		name = "Mstornblad",
 		class = "HUNTER",
 		guid = "Player-4465-043A905F",
@@ -3275,7 +3405,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd Death's Choice when Rl gave it to him without rolling it, didn't give it back.",
 		url = "https://discord.com/channels/610036506974748700/1154907944647934042",
 	},
-	[322] = {
+	[335] = {
 		name = "Sacredblue",
 		class = "PRIEST",
 		guid = "Player-4465-04357306",
@@ -3285,17 +3415,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd Death's Choice giving it to a random player before rolling it, then claiming it was keeping it. Second report, continued negligence.",
 		url = "https://discord.com/channels/610036506974748700/1154907944647934042",
 	},
-	[323] = {
-		name = "Nocturnalww",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-04292CEC",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Ninja'd Death's Choice giving it to a random player before rolling it, then claiming it was keeping it. Second report, continued negligence.",
-		url = "https://discord.com/channels/610036506974748700/1154907944647934042",
-	},
-	[324] = {
+	[336] = {
 		name = "Sharlex",
 		class = "PALADIN",
 		guid = "Player-4465-02F99C44",
@@ -3305,17 +3425,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd Death's Choice giving it to a random player before rolling it, then claiming it was keeping it. Second report, continued negligence.",
 		url = "https://discord.com/channels/610036506974748700/1154907944647934042",
 	},
-	[325] = {
-		name = "Nocturnalw",
-		class = "SHAMAN",
-		guid = "Player-4465-042429CB",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "2 Reports - Ninja'd Death's Choice giving it to a random player before rolling it, then claiming it was keeping it. Second report, continued negligence.",
-		url = "https://discord.com/channels/610036506974748700/1154907944647934042",
-	},
-	[326] = {
+	[337] = {
 		name = "Rebleser",
 		class = "HUNTER",
 		guid = "Player-4465-02F99B1C",
@@ -3325,7 +3435,27 @@ t.case_table = {
 		description = "2 Reports - Ninja'd Death's Choice giving it to a random player before rolling it, then claiming it was keeping it. Second report, continued negligence.",
 		url = "https://discord.com/channels/610036506974748700/1154907944647934042",
 	},
-	[327] = {
+	[338] = {
+		name = "Nocturnalw",
+		class = "SHAMAN",
+		guid = "Player-4465-042429CB",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Ninja'd Death's Choice giving it to a random player before rolling it, then claiming it was keeping it. Second report, continued negligence.",
+		url = "https://discord.com/channels/610036506974748700/1154907944647934042",
+	},
+	[339] = {
+		name = "Nocturnalww",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-04292CEC",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "2 Reports - Ninja'd Death's Choice giving it to a random player before rolling it, then claiming it was keeping it. Second report, continued negligence.",
+		url = "https://discord.com/channels/610036506974748700/1154907944647934042",
+	},
+	[340] = {
 		name = "Swagone",
 		class = "MAGE",
 		guid = "Player-4465-02FA3CF3",
@@ -3338,27 +3468,7 @@ t.case_table = {
 		description = "1 Report - Constantly leaves raids after SR doesn't drop or AFKs mid boss.",
 		url = "https://discord.com/channels/610036506974748700/1149419476383694870",
 	},
-	[328] = {
-		name = "Adrasteiia",
-		class = "PRIEST",
-		guid = "Player-4465-043C9E0A",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Didn't give SR item to the winner of the roll and rerolled. Doubled down in the report and admitted having done it many more times before.",
-		url = "https://discord.com/channels/610036506974748700/1150165578527559730",
-	},
-	[329] = {
-		name = "Dorys",
-		class = "PALADIN",
-		guid = "Player-4465-04183D73",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Didn't give SR item to the winner of the roll and rerolled. Doubled down in the report and admitted having done it many more times before.",
-		url = "https://discord.com/channels/610036506974748700/1150165578527559730",
-	},
-	[330] = {
+	[341] = {
 		name = "Dorysiella",
 		class = "WARLOCK",
 		guid = "Player-4465-042190F8",
@@ -3368,7 +3478,27 @@ t.case_table = {
 		description = "1 Report - Didn't give SR item to the winner of the roll and rerolled. Doubled down in the report and admitted having done it many more times before.",
 		url = "https://discord.com/channels/610036506974748700/1150165578527559730",
 	},
-	[331] = {
+	[342] = {
+		name = "Dorys",
+		class = "PALADIN",
+		guid = "Player-4465-04183D73",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Didn't give SR item to the winner of the roll and rerolled. Doubled down in the report and admitted having done it many more times before.",
+		url = "https://discord.com/channels/610036506974748700/1150165578527559730",
+	},
+	[343] = {
+		name = "Adrasteiia",
+		class = "PRIEST",
+		guid = "Player-4465-043C9E0A",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Didn't give SR item to the winner of the roll and rerolled. Doubled down in the report and admitted having done it many more times before.",
+		url = "https://discord.com/channels/610036506974748700/1150165578527559730",
+	},
+	[344] = {
 		name = "Naaru",
 		class = "SHAMAN",
 		guid = "Player-4465-004CD5D9",
@@ -3378,7 +3508,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd loot when RL forgot to put ML on, didn't give it back.",
 		url = "https://discord.com/channels/610036506974748700/1147619975918522470",
 	},
-	[332] = {
+	[345] = {
 		name = "Tilaxe",
 		class = "HUNTER",
 		guid = "Player-4465-04369838",
@@ -3391,7 +3521,7 @@ t.case_table = {
 		description = "7 Reports - Stole the entire pot of a GDKP. At least 5 other reports in Golemagg, more in other servers.",
 		url = "https://discord.com/channels/610036506974748700/1147581808922337434",
 	},
-	[333] = {
+	[346] = {
 		name = "Goah",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-04042677",
@@ -3401,7 +3531,27 @@ t.case_table = {
 		description = "1 Report - Ninja'd all the items at the end of a dungeon and there was an agreement in the party to give them to DE by other player.",
 		url = "https://discord.com/channels/610036506974748700/1147447021209391194",
 	},
-	[334] = {
+	[347] = {
+		name = "Brusses",
+		class = "PALADIN",
+		guid = "Player-4465-02EFD369",
+		faction = "Unknown",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item taking it directly without rolling. Lied in the report saying it was HR and was proven it wasn't.",
+		url = "https://discord.com/channels/610036506974748700/1142259217596698694",
+	},
+	[348] = {
+		name = "Stopdps",
+		class = "WARLOCK",
+		guid = "Player-4465-0188FA76",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ninja'd an item taking it directly without rolling. Lied in the report saying it was HR and was proven it wasn't.",
+		url = "https://discord.com/channels/610036506974748700/1142259217596698694",
+	},
+	[349] = {
 		name = "Rankdruíd",
 		class = "DRUID",
 		guid = "Player-4465-02FF9A3F",
@@ -3414,27 +3564,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item taking it directly without rolling. Lied in the report saying it was HR and was proven it wasn't.",
 		url = "https://discord.com/channels/610036506974748700/1142259217596698694",
 	},
-	[335] = {
-		name = "Stopdps",
-		class = "WARLOCK",
-		guid = "Player-4465-0188FA76",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd an item taking it directly without rolling. Lied in the report saying it was HR and was proven it wasn't.",
-		url = "https://discord.com/channels/610036506974748700/1142259217596698694",
-	},
-	[336] = {
-		name = "Brusses",
-		class = "PALADIN",
-		guid = "Player-4465-02EFD369",
-		faction = "Unknown",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ninja'd an item taking it directly without rolling. Lied in the report saying it was HR and was proven it wasn't.",
-		url = "https://discord.com/channels/610036506974748700/1142259217596698694",
-	},
-	[337] = {
+	[350] = {
 		name = "Deathstone",
 		class = "WARLOCK",
 		guid = "Player-4465-024409F1",
@@ -3444,7 +3574,7 @@ t.case_table = {
 		description = "1 Report - Ninjalooting an item his class can't equip then  holding it ransom for gold after he won it",
 		url = "https://discord.com/channels/610036506974748700/1140683444855251074",
 	},
-	[338] = {
+	[351] = {
 		name = "Emírg",
 		class = "DRUID",
 		guid = "Player-4465-0439A34A",
@@ -3454,7 +3584,17 @@ t.case_table = {
 		description = "2 Reports - Kicked several players mid boss to not share loot.",
 		url = "https://discord.com/channels/610036506974748700/1139228108520706149",
 	},
-	[339] = {
+	[352] = {
+		name = "Shagungazob",
+		class = "SHAMAN",
+		guid = "Player-4465-02DC58AE",
+		faction = "Horde",
+		level = 2,
+		category = "raid",
+		description = "1 Report - Left the raid mid run, changed SR to the closest boss and had another raid after already planned.",
+		url = "https://discord.com/channels/610036506974748700/1136742002369777774",
+	},
+	[353] = {
 		name = "Iwannaloveya",
 		class = "MAGE",
 		guid = "Player-4465-03F3FCB8",
@@ -3468,17 +3608,7 @@ t.case_table = {
 		description = "1 Report - Left the raid mid run, changed SR to the closest boss and had another raid after already planned.",
 		url = "https://discord.com/channels/610036506974748700/1136742002369777774",
 	},
-	[340] = {
-		name = "Shagungazob",
-		class = "SHAMAN",
-		guid = "Player-4465-02DC58AE",
-		faction = "Horde",
-		level = 2,
-		category = "raid",
-		description = "1 Report - Left the raid mid run, changed SR to the closest boss and had another raid after already planned.",
-		url = "https://discord.com/channels/610036506974748700/1136742002369777774",
-	},
-	[341] = {
+	[354] = {
 		name = "Ciderqt",
 		class = "MAGE",
 		guid = "Player-4465-04270198",
@@ -3488,17 +3618,7 @@ t.case_table = {
 		description = "1 Report - Left the raid mid run, changed SR to the closest boss and had another raid after already planned.",
 		url = "https://discord.com/channels/610036506974748700/1136742002369777774",
 	},
-	[342] = {
-		name = "Teerion",
-		class = "SHAMAN",
-		guid = "Player-4465-0439AA9F",
-		faction = "Horde",
-		level = 3,
-		category = "harassment",
-		description = "1 Report - Ganging up on a person with a guildie to verbally abuse them, including inciting suicide",
-		url = "https://discord.com/channels/610036506974748700/1137544914897473566",
-	},
-	[343] = {
+	[355] = {
 		name = "Chinito",
 		class = "ROGUE",
 		guid = "Player-4465-037815AD",
@@ -3508,7 +3628,17 @@ t.case_table = {
 		description = "2 Reports - Ganging up on a person with a guildie to verbally abuse them, including inciting suicide",
 		url = "https://discord.com/channels/610036506974748700/1137544914897473566",
 	},
-	[344] = {
+	[356] = {
+		name = "Teerion",
+		class = "SHAMAN",
+		guid = "Player-4465-0439AA9F",
+		faction = "Horde",
+		level = 3,
+		category = "harassment",
+		description = "1 Report - Ganging up on a person with a guildie to verbally abuse them, including inciting suicide",
+		url = "https://discord.com/channels/610036506974748700/1137544914897473566",
+	},
+	[357] = {
 		name = "Namastet",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-037DC46D",
@@ -3521,7 +3651,7 @@ t.case_table = {
 		description = "1 Report - Ganging up on a person with a guildie to verbally abuse them, including inciting suicide",
 		url = "https://discord.com/channels/610036506974748700/1137544914897473566",
 	},
-	[345] = {
+	[358] = {
 		name = "Illiyah",
 		class = "HUNTER",
 		guid = "Player-4465-01398C16",
@@ -3534,37 +3664,7 @@ t.case_table = {
 		description = "1 Report - Rolled for a weapon that was a downgrade and asked for gold to the next roll, said would use but didn't use it.",
 		url = "https://discord.com/channels/610036506974748700/1136377088224546869",
 	},
-	[346] = {
-		name = "Phmrtwo",
-		class = "PRIEST",
-		guid = "Player-4465-02F41587",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
-		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
-	},
-	[347] = {
-		name = "Phmrthree",
-		class = "PRIEST",
-		guid = "Player-4465-03E1BA65",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
-		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
-	},
-	[348] = {
-		name = "Anknownlolz",
-		class = "WARLOCK",
-		guid = "Player-4465-0271BEB8",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
-		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
-	},
-	[349] = {
+	[359] = {
 		name = "Phmrp",
 		class = "PALADIN",
 		guid = "Player-4465-025013C7",
@@ -3574,17 +3674,27 @@ t.case_table = {
 		description = "1 Report - Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
 		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
 	},
-	[350] = {
-		name = "Phmr",
+	[360] = {
+		name = "Phmrthree",
 		class = "PRIEST",
-		guid = "Player-4465-010B8787",
+		guid = "Player-4465-03E1BA65",
 		faction = "Horde",
 		level = 3,
 		category = "gdkp",
 		description = "1 Report - Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
 		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
 	},
-	[351] = {
+	[361] = {
+		name = "Anknownlolz",
+		class = "WARLOCK",
+		guid = "Player-4465-0271BEB8",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
+		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
+	},
+	[362] = {
 		name = "Phmrsham",
 		class = "SHAMAN",
 		guid = "Player-4465-01C48059",
@@ -3594,17 +3704,7 @@ t.case_table = {
 		description = "1 Report - Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
 		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
 	},
-	[352] = {
-		name = "Nekroza",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-036B4C5E",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "2 Reports - Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
-		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
-	},
-	[353] = {
+	[363] = {
 		name = "Migrena",
 		class = "PRIEST",
 		guid = "Player-4465-007CB721",
@@ -3614,7 +3714,37 @@ t.case_table = {
 		description = "2 Reports - Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
 		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
 	},
-	[354] = {
+	[364] = {
+		name = "Phmrtwo",
+		class = "PRIEST",
+		guid = "Player-4465-02F41587",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
+		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
+	},
+	[365] = {
+		name = "Phmr",
+		class = "PRIEST",
+		guid = "Player-4465-010B8787",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
+		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
+	},
+	[366] = {
+		name = "Nekroza",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-036B4C5E",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "2 Reports - Metacomp GDKP: Pocketing the deductions for the org, adding a 26th char who gets cut without playing in the run, massive deductions.",
+		url = "https://discord.com/channels/610036506974748700/1137772539838480566",
+	},
+	[367] = {
 		name = "Maxuelo",
 		class = "PRIEST",
 		guid = "Player-4465-0328EE18",
@@ -3624,77 +3754,7 @@ t.case_table = {
 		description = "1 Report - Unfairly cutbanned players having no rules for it, doubled down in the report.",
 		url = "https://discord.com/channels/610036506974748700/1136430840834957372",
 	},
-	[355] = {
-		name = "Moltenknight",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-036A7394",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
-		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
-	},
-	[356] = {
-		name = "Moltentank",
-		class = "PALADIN",
-		guid = "Player-4465-02613166",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
-		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
-	},
-	[357] = {
-		name = "Sylvanâys",
-		class = "PALADIN",
-		guid = "Player-4465-03E6F146",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
-		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
-	},
-	[358] = {
-		name = "Moltenhunt",
-		class = "HUNTER",
-		guid = "Player-4465-02EB4C2E",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
-		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
-	},
-	[359] = {
-		name = "Moltenboom",
-		class = "DRUID",
-		guid = "Player-4465-02E969E0",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
-		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
-	},
-	[360] = {
-		name = "Firefly",
-		class = "PALADIN",
-		guid = "Player-4465-026176B9",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
-		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
-	},
-	[361] = {
-		name = "Moltenrogue",
-		class = "ROGUE",
-		guid = "Player-4465-02FB4B5F",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
-		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
-	},
-	[362] = {
+	[368] = {
 		name = "Mõltentank",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-037668B8",
@@ -3704,57 +3764,77 @@ t.case_table = {
 		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
 		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
 	},
-	[363] = {
-		name = "Monikæ",
-		class = "MAGE",
-		guid = "Player-4465-04399595",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
-		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
-	},
-	[364] = {
-		name = "Holyshild",
-		class = "PRIEST",
-		guid = "Player-4465-02E969C8",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
-		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
-	},
-	[365] = {
-		name = "Paradisê",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-036C6C73",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
-		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
-	},
-	[366] = {
-		name = "Monikå",
-		class = "PALADIN",
-		guid = "Player-4465-04149965",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
-		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
-	},
-	[367] = {
-		name = "Lastdps",
+	[369] = {
+		name = "Moltenhunt",
 		class = "HUNTER",
-		guid = "Player-4465-02E90E53",
+		guid = "Player-4465-02EB4C2E",
 		faction = "Horde",
 		level = 3,
 		category = "gdkp",
 		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
 		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
 	},
-	[368] = {
+	[370] = {
+		name = "Moltentank",
+		class = "PALADIN",
+		guid = "Player-4465-02613166",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
+		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
+	},
+	[371] = {
+		name = "Moltenknight",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-036A7394",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
+		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
+	},
+	[372] = {
+		name = "Firefly",
+		class = "PALADIN",
+		guid = "Player-4465-026176B9",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
+		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
+	},
+	[373] = {
+		name = "Sylvanâys",
+		class = "PALADIN",
+		guid = "Player-4465-03E6F146",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
+		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
+	},
+	[374] = {
+		name = "Moltenboom",
+		class = "DRUID",
+		guid = "Player-4465-02E969E0",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
+		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
+	},
+	[375] = {
+		name = "Moltenrogue",
+		class = "ROGUE",
+		guid = "Player-4465-02FB4B5F",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
+		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
+	},
+	[376] = {
 		name = "Monikà",
 		class = "PALADIN",
 		guid = "Player-4465-0261ECF3",
@@ -3764,7 +3844,17 @@ t.case_table = {
 		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
 		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
 	},
-	[369] = {
+	[377] = {
+		name = "Monikæ",
+		class = "MAGE",
+		guid = "Player-4465-04399595",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
+		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
+	},
+	[378] = {
 		name = "Pogomon",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-04158741",
@@ -3774,17 +3864,7 @@ t.case_table = {
 		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
 		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
 	},
-	[370] = {
-		name = "Monikã",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-04169C7D",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
-		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
-	},
-	[371] = {
+	[379] = {
 		name = "Ruxana",
 		class = "PALADIN",
 		guid = "Player-4465-03959692",
@@ -3794,7 +3874,37 @@ t.case_table = {
 		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
 		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
 	},
-	[372] = {
+	[380] = {
+		name = "Holyshild",
+		class = "PRIEST",
+		guid = "Player-4465-02E969C8",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
+		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
+	},
+	[381] = {
+		name = "Paradisê",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-036C6C73",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
+		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
+	},
+	[382] = {
+		name = "Lastdps",
+		class = "HUNTER",
+		guid = "Player-4465-02E90E53",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
+		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
+	},
+	[383] = {
 		name = "Höpé",
 		class = "PRIEST",
 		guid = "Player-4465-02FB7B24",
@@ -3804,7 +3914,27 @@ t.case_table = {
 		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
 		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
 	},
-	[373] = {
+	[384] = {
+		name = "Monikã",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-04169C7D",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
+		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
+	},
+	[385] = {
+		name = "Monikå",
+		class = "PALADIN",
+		guid = "Player-4465-04149965",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Three reports and several warnings. Light of Dawn GDKP scams min bid and unfair cutbans.",
+		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
+	},
+	[386] = {
 		name = "Rêt",
 		class = "PALADIN",
 		guid = "Player-4465-0417D181",
@@ -3817,7 +3947,7 @@ t.case_table = {
 		description = "2 Reports - Ninja'd [Death's Choice] with his RL friend Jonjack when losing the roll, disconnected and gave excuses. Didn't give item back.",
 		url = "https://discord.com/channels/610036506974748700/1134967348391067741",
 	},
-	[374] = {
+	[387] = {
 		name = "Jonjåck",
 		class = "PRIEST",
 		guid = "Player-4465-03EC1767",
@@ -3830,7 +3960,7 @@ t.case_table = {
 		description = "2 Reports - Ninja'd [Death's Choice] disconnecting without awarding it to the winner, gave excuses when asked. Item wasn't returned.",
 		url = "https://discord.com/channels/610036506974748700/1134967348391067741",
 	},
-	[375] = {
+	[388] = {
 		name = "Jonjack",
 		class = "SHAMAN",
 		guid = "Player-4465-04163896",
@@ -3843,7 +3973,7 @@ t.case_table = {
 		description = "2 Reports - Ninja'd [Death's Choice] disconnecting without awarding it to the winner, gave excuses when asked. Item wasn't returned.",
 		url = "https://discord.com/channels/610036506974748700/1134967348391067741",
 	},
-	[376] = {
+	[389] = {
 		name = "Jønjack",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-042D43D3",
@@ -3856,7 +3986,7 @@ t.case_table = {
 		description = "2 Reports - Ninja'd [Death's Choice] disconnecting without awarding it to the winner, gave excuses when asked. Item wasn't returned.",
 		url = "https://discord.com/channels/610036506974748700/1134967348391067741",
 	},
-	[377] = {
+	[390] = {
 		name = "Flosiorja",
 		class = "SHAMAN",
 		guid = "Player-4465-02BCDB01",
@@ -3866,7 +3996,7 @@ t.case_table = {
 		description = "1 Report - Insults with slurs and incites suicide randomly to people.",
 		url = "https://discord.com/channels/610036506974748700/1134246230424293508",
 	},
-	[378] = {
+	[391] = {
 		name = "Materiani",
 		class = "PALADIN",
 		guid = "Player-4465-043FC635",
@@ -3876,7 +4006,7 @@ t.case_table = {
 		description = "1 Report - Stole an entire GDKP pot and disconnected. Part of a gold selling scam group.",
 		url = "https://discord.com/channels/610036506974748700/1133502729428414565",
 	},
-	[379] = {
+	[392] = {
 		name = "Piccanto",
 		class = "PALADIN",
 		guid = "Player-4465-043F2CBB",
@@ -3886,7 +4016,7 @@ t.case_table = {
 		description = "1 Report - Stole entire GDKP pot and logged off, deleting the character.",
 		url = "https://discord.com/channels/610036506974748700/1132800538493325342",
 	},
-	[380] = {
+	[393] = {
 		name = "Traumadoc",
 		class = "DRUID",
 		guid = "Player-4465-038DB34E",
@@ -3900,27 +4030,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd a Trophy when leader forgot to put ML on, refused to give it back and asked for 5k to give it back.",
 		url = "https://discord.com/channels/610036506974748700/1132367675968991333",
 	},
-	[381] = {
-		name = "Jikø",
-		class = "PRIEST",
-		guid = "Player-4465-037C83E3",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "2 Reports - Stole the whole 200k pot from a GDKP and disconnected. Threatened to do it right before in discord.",
-		url = "https://discord.com/channels/610036506974748700/1132000959367741512",
-	},
-	[382] = {
-		name = "Rikaya",
-		class = "PALADIN",
-		guid = "Player-4465-03889E32",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "2 Reports - Stole the whole 200k pot from a GDKP and disconnected. Threatened to do it right before in discord.",
-		url = "https://discord.com/channels/610036506974748700/1132000959367741512",
-	},
-	[383] = {
+	[394] = {
 		name = "Megabear",
 		class = "DRUID",
 		guid = "Player-4465-02FB6DD6",
@@ -3930,7 +4040,27 @@ t.case_table = {
 		description = "2 Reports - Stole the whole 200k pot from a GDKP and disconnected. Threatened to do it right before in discord.",
 		url = "https://discord.com/channels/610036506974748700/1132000959367741512",
 	},
-	[384] = {
+	[395] = {
+		name = "Rikaya",
+		class = "PALADIN",
+		guid = "Player-4465-03889E32",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "2 Reports - Stole the whole 200k pot from a GDKP and disconnected. Threatened to do it right before in discord.",
+		url = "https://discord.com/channels/610036506974748700/1132000959367741512",
+	},
+	[396] = {
+		name = "Jikø",
+		class = "PRIEST",
+		guid = "Player-4465-037C83E3",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "2 Reports - Stole the whole 200k pot from a GDKP and disconnected. Threatened to do it right before in discord.",
+		url = "https://discord.com/channels/610036506974748700/1132000959367741512",
+	},
+	[397] = {
 		name = "Borixa",
 		class = "ROGUE",
 		guid = "Player-4465-043F001E",
@@ -3940,7 +4070,7 @@ t.case_table = {
 		description = "1 Report - Stole the pot of a GDKP and left the raid without paying anyone.",
 		url = "https://discord.com/channels/610036506974748700/1131994639092691065",
 	},
-	[385] = {
+	[398] = {
 		name = "Anathemá",
 		class = "PRIEST",
 		guid = "Player-4465-0305988C",
@@ -3950,7 +4080,7 @@ t.case_table = {
 		description = "1 Report - Threatened a player and forced them to trade an item when they lost the roll, used the discord report system to get their way.",
 		url = "https://discord.com/channels/610036506974748700/1130882012371234866",
 	},
-	[386] = {
+	[399] = {
 		name = "Erìk",
 		class = "PALADIN",
 		guid = "Player-4465-043EAF80",
@@ -3960,7 +4090,7 @@ t.case_table = {
 		description = "1 Report - Ran away with the pot of a GDKP and deleted the character right after.",
 		url = "https://discord.com/channels/610036506974748700/1130915015923355658",
 	},
-	[387] = {
+	[400] = {
 		name = "Homicides",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-036D13BB",
@@ -3970,7 +4100,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item when Rl gave it without rolling on a mistake and player refused to give it back, mocked the person asking.",
 		url = "https://discord.com/channels/610036506974748700/1130181607341441054",
 	},
-	[388] = {
+	[401] = {
 		name = "Hollywoman",
 		class = "PALADIN",
 		guid = "Player-4465-02E87711",
@@ -3983,7 +4113,7 @@ t.case_table = {
 		description = "2 Reports - Changed SR mid raid after losing Cloak from 50 attempts and didn't allow anyone else to change their cloak SRs.",
 		url = "https://discord.com/channels/610036506974748700/1129433536303214653",
 	},
-	[389] = {
+	[402] = {
 		name = "Storkage",
 		class = "WARLOCK",
 		guid = "Player-4465-04317C94",
@@ -3993,7 +4123,7 @@ t.case_table = {
 		description = "1 Report - Kicked a player for no reason, bricking their save and chance at loot.",
 		url = "https://discord.com/channels/610036506974748700/1128082787111534753",
 	},
-	[390] = {
+	[403] = {
 		name = "Gnistoriuzz",
 		class = "PALADIN",
 		guid = "Player-4465-042EDEEC",
@@ -4003,7 +4133,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd all items at the end of the dungeon, admitted that it was for enchanting, refused to share the crystals.",
 		url = "https://discord.com/channels/610036506974748700/1127598485840081037",
 	},
-	[391] = {
+	[404] = {
 		name = "Saintdiler",
 		class = "PRIEST",
 		guid = "Player-4465-03A72A20",
@@ -4013,7 +4143,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd all the items at the end of the run, admitted in chat it was to get gold.",
 		url = "https://discord.com/channels/610036506974748700/1125146260559638649",
 	},
-	[392] = {
+	[405] = {
 		name = "Dilerxd",
 		class = "DRUID",
 		guid = "Player-4465-02E57F06",
@@ -4022,139 +4152,6 @@ t.case_table = {
 		category = "dungeon",
 		description = "1 Report - Ninja'd all the items at the end of the run, admitted in chat it was to get gold.",
 		url = "https://discord.com/channels/610036506974748700/1125146260559638649",
-	},
-	[393] = {
-		name = "Destinypala",
-		class = "PALADIN",
-		guid = "Player-4465-038D1055",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
-		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
-	},
-	[394] = {
-		name = "Destinydktwo",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-036ACAC1",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
-		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
-	},
-	[395] = {
-		name = "Destinyblast",
-		class = "MAGE",
-		guid = "Player-4465-0437AC4F",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
-		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
-	},
-	[396] = {
-		name = "Nosunderbot",
-		class = "WARRIOR",
-		guid = "Player-4465-036BE565",
-		aliases = {
-			"Destinywar",
-		},
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
-		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
-	},
-	[397] = {
-		name = "Destinypalas",
-		class = "PALADIN",
-		guid = "Player-4465-04371823",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
-		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
-	},
-	[398] = {
-		name = "Destinyrog",
-		class = "ROGUE",
-		guid = "Player-4465-038D1044",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
-		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
-	},
-	[399] = {
-		name = "Destinysham",
-		class = "SHAMAN",
-		guid = "Player-4465-036BC0FF",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
-		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
-	},
-	[400] = {
-		name = "Destinypwn",
-		class = "ROGUE",
-		guid = "Player-4465-0414B1B6",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
-		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
-	},
-	[401] = {
-		name = "Destinyhunt",
-		class = "HUNTER",
-		guid = "Player-4465-02E18C78",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
-		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
-	},
-	[402] = {
-		name = "Destinygdkp",
-		class = "PRIEST",
-		guid = "Player-4465-03B88795",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
-		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
-	},
-	[403] = {
-		name = "Destinypalax",
-		class = "PALADIN",
-		guid = "Player-4465-0439674A",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
-		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
-	},
-	[404] = {
-		name = "Destinywl",
-		class = "WARLOCK",
-		guid = "Player-4465-038E1212",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
-		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
-	},
-	[405] = {
-		name = "Destinymagus",
-		class = "MAGE",
-		guid = "Player-4465-02F1F37F",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
-		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
 	},
 	[406] = {
 		name = "Destinydk",
@@ -4167,9 +4164,9 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
 	},
 	[407] = {
-		name = "Destinydruid",
-		class = "DRUID",
-		guid = "Player-4465-02FA9051",
+		name = "Destinywl",
+		class = "WARLOCK",
+		guid = "Player-4465-038E1212",
 		faction = "Horde",
 		level = 3,
 		category = "gdkp",
@@ -4177,6 +4174,119 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
 	},
 	[408] = {
+		name = "Destinypalax",
+		class = "PALADIN",
+		guid = "Player-4465-0439674A",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
+		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
+	},
+	[409] = {
+		name = "Destinyhunt",
+		class = "HUNTER",
+		guid = "Player-4465-02E18C78",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
+		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
+	},
+	[410] = {
+		name = "Destinyrog",
+		class = "ROGUE",
+		guid = "Player-4465-038D1044",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
+		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
+	},
+	[411] = {
+		name = "Destinypalas",
+		class = "PALADIN",
+		guid = "Player-4465-04371823",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
+		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
+	},
+	[412] = {
+		name = "Destinypwn",
+		class = "ROGUE",
+		guid = "Player-4465-0414B1B6",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
+		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
+	},
+	[413] = {
+		name = "Destinysham",
+		class = "SHAMAN",
+		guid = "Player-4465-036BC0FF",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
+		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
+	},
+	[414] = {
+		name = "Nosunderbot",
+		class = "WARRIOR",
+		guid = "Player-4465-036BE565",
+		aliases = {
+			"Destinywar",
+		},
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
+		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
+	},
+	[415] = {
+		name = "Destinymagus",
+		class = "MAGE",
+		guid = "Player-4465-02F1F37F",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
+		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
+	},
+	[416] = {
+		name = "Destinyblast",
+		class = "MAGE",
+		guid = "Player-4465-0437AC4F",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
+		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
+	},
+	[417] = {
+		name = "Destinydktwo",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-036ACAC1",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
+		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
+	},
+	[418] = {
+		name = "Destinygdkp",
+		class = "PRIEST",
+		guid = "Player-4465-03B88795",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
+		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
+	},
+	[419] = {
 		name = "Destinymagex",
 		class = "MAGE",
 		guid = "Player-4465-043B49D1",
@@ -4186,7 +4296,27 @@ t.case_table = {
 		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
 		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
 	},
-	[409] = {
+	[420] = {
+		name = "Destinypala",
+		class = "PALADIN",
+		guid = "Player-4465-038D1055",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
+		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
+	},
+	[421] = {
+		name = "Destinydruid",
+		class = "DRUID",
+		guid = "Player-4465-02FA9051",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - Random cutbans but doesn't cutban himself or others when failing the same or worse. Insults when upset, kicks mid boss.",
+		url = "https://discord.com/channels/610036506974748700/1123740528782090281",
+	},
+	[422] = {
 		name = "Vahidmoradi",
 		class = "PALADIN",
 		guid = "Player-4465-02F96401",
@@ -4196,17 +4326,7 @@ t.case_table = {
 		description = "1 Report - Stole OS25 mount, didnt roll it and learned it then claimed it was a mistake. Discord verified that he is a gold seller.",
 		url = "https://discord.com/channels/610036506974748700/1120686926102528040",
 	},
-	[410] = {
-		name = "Jetithehunt",
-		class = "HUNTER",
-		guid = "Player-4465-04363D76",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Refused to give an item to the winner of the roll as RL even when the player insisted.",
-		url = "https://discord.com/channels/610036506974748700/1117914648625299537",
-	},
-	[411] = {
+	[423] = {
 		name = "Jetithetroll",
 		class = "SHAMAN",
 		guid = "Player-4465-02B800B6",
@@ -4216,7 +4336,17 @@ t.case_table = {
 		description = "1 Report - Refused to give an item to the winner of the roll as RL even when the player insisted.",
 		url = "https://discord.com/channels/610036506974748700/1117914648625299537",
 	},
-	[412] = {
+	[424] = {
+		name = "Jetithehunt",
+		class = "HUNTER",
+		guid = "Player-4465-04363D76",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Refused to give an item to the winner of the roll as RL even when the player insisted.",
+		url = "https://discord.com/channels/610036506974748700/1117914648625299537",
+	},
+	[425] = {
 		name = "Abattor",
 		class = "HUNTER",
 		guid = "Player-4465-03DB7A04",
@@ -4229,7 +4359,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item by not rolling it with the other SR player and insta-equipping it.",
 		url = "https://discord.com/channels/610036506974748700/1117857770977370145",
 	},
-	[413] = {
+	[426] = {
 		name = "Sunspot",
 		class = "PRIEST",
 		guid = "Player-4465-043187D3",
@@ -4239,7 +4369,7 @@ t.case_table = {
 		description = "1 Report - Changed rules mid-raid to HR all BoEs without people knowing, denied the item to someone rolling.",
 		url = "https://discord.com/channels/610036506974748700/1117857841051598888",
 	},
-	[414] = {
+	[427] = {
 		name = "Shadöwpriest",
 		class = "PRIEST",
 		guid = "Player-4465-02FB8229",
@@ -4249,27 +4379,7 @@ t.case_table = {
 		description = "1 Report - GDKP: Scams with min bids, inflates prices and forces bids. Kicks and cutbans without reason. Several reports, different characters.",
 		url = "https://discord.com/channels/610036506974748700/1115423225313235004",
 	},
-	[415] = {
-		name = "Angrywarrior",
-		class = "WARRIOR",
-		guid = "Player-4465-02F2143C",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Scams with min bids, inflates prices and forces bids. Kicks and cutbans without reason. Several reports, different characters.",
-		url = "https://discord.com/channels/610036506974748700/1115423225313235004",
-	},
-	[416] = {
-		name = "Megawizard",
-		class = "MAGE",
-		guid = "Player-4465-02F15F4F",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - GDKP: Scams with min bids, inflates prices and forces bids. Kicks and cutbans without reason. Several reports, different characters.",
-		url = "https://discord.com/channels/610036506974748700/1115423225313235004",
-	},
-	[417] = {
+	[428] = {
 		name = "Megawizzard",
 		class = "MAGE",
 		guid = "Player-4465-02F13742",
@@ -4279,7 +4389,27 @@ t.case_table = {
 		description = "1 Report - GDKP: Scams with min bids, inflates prices and forces bids. Kicks and cutbans without reason. Several reports, different characters.",
 		url = "https://discord.com/channels/610036506974748700/1115423225313235004",
 	},
-	[418] = {
+	[429] = {
+		name = "Angrywarrior",
+		class = "WARRIOR",
+		guid = "Player-4465-02F2143C",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Scams with min bids, inflates prices and forces bids. Kicks and cutbans without reason. Several reports, different characters.",
+		url = "https://discord.com/channels/610036506974748700/1115423225313235004",
+	},
+	[430] = {
+		name = "Megawizard",
+		class = "MAGE",
+		guid = "Player-4465-02F15F4F",
+		faction = "Horde",
+		level = 3,
+		category = "gdkp",
+		description = "1 Report - GDKP: Scams with min bids, inflates prices and forces bids. Kicks and cutbans without reason. Several reports, different characters.",
+		url = "https://discord.com/channels/610036506974748700/1115423225313235004",
+	},
+	[431] = {
 		name = "Irly",
 		class = "PRIEST",
 		guid = "Player-4465-042D4F12",
@@ -4289,7 +4419,17 @@ t.case_table = {
 		description = "2 Reports - Ninjaing multiple items in a SR pug his guild hosted despite them being clear downgrades.",
 		url = "https://discord.com/channels/610036506974748700/1114707180713693255",
 	},
-	[419] = {
+	[432] = {
+		name = "Sombrine",
+		class = "PALADIN",
+		guid = "Player-4465-03A566CF",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Ignoring player in SR PUG not giving him items he won, also assisting guildie ninja items that are downgrades for him.",
+		url = "https://discord.com/channels/610036506974748700/1114707180713693255",
+	},
+	[433] = {
 		name = "Unholydonütz",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-0379B649",
@@ -4302,17 +4442,7 @@ t.case_table = {
 		description = "1 Report - Ignoring player in SR PUG not giving him items he won, also assisting guildie ninja items that are downgrades for him.",
 		url = "https://discord.com/channels/610036506974748700/1114707180713693255",
 	},
-	[420] = {
-		name = "Sombrine",
-		class = "PALADIN",
-		guid = "Player-4465-03A566CF",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Ignoring player in SR PUG not giving him items he won, also assisting guildie ninja items that are downgrades for him.",
-		url = "https://discord.com/channels/610036506974748700/1114707180713693255",
-	},
-	[421] = {
+	[434] = {
 		name = "Pillich",
 		class = "HUNTER",
 		guid = "Player-4465-0319A0B3",
@@ -4322,7 +4452,7 @@ t.case_table = {
 		description = "1 Report - Ignoring player in SR PUG not giving him items he won, also assisting guildie ninja items that are downgrades for him.",
 		url = "https://discord.com/channels/610036506974748700/1114707180713693255",
 	},
-	[422] = {
+	[435] = {
 		name = "Lichipedia",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-036FB5C0",
@@ -4332,17 +4462,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd an item that DKs cannot use or equip, needed on another and lost it. AFKed through the dungeon and mocked the party about it.",
 		url = "https://discord.com/channels/610036506974748700/1114308922728272064",
 	},
-	[423] = {
-		name = "Cräbby",
-		class = "DEATHKNIGHT",
-		guid = "Player-4465-03701DC4",
-		faction = "Horde",
-		level = 3,
-		category = "gdkp",
-		description = "1 Report - Stole gold from player's cut, kicked and refused to pay it. Insulted in the report, refused to solve it. Doesn't track pot in gargul.",
-		url = "https://discord.com/channels/610036506974748700/1113450521123094538",
-	},
-	[424] = {
+	[436] = {
 		name = "Crãbby",
 		class = "PALADIN",
 		guid = "Player-4465-041BD6B1",
@@ -4352,17 +4472,17 @@ t.case_table = {
 		description = "1 Report - Stole gold from player's cut, kicked and refused to pay it. Insulted in the report, refused to solve it. Doesn't track pot in gargul.",
 		url = "https://discord.com/channels/610036506974748700/1113450521123094538",
 	},
-	[425] = {
-		name = "Shotorhunt",
-		class = "HUNTER",
-		guid = "Player-4465-02FC480F",
+	[437] = {
+		name = "Cräbby",
+		class = "DEATHKNIGHT",
+		guid = "Player-4465-03701DC4",
 		faction = "Horde",
 		level = 3,
-		category = "raid",
-		description = "1 Report - Tampered SR several times in different raids, doesn't see any problem with doing it, doubled down in the report.",
-		url = "https://discord.com/channels/610036506974748700/1111296616796799046",
+		category = "gdkp",
+		description = "1 Report - Stole gold from player's cut, kicked and refused to pay it. Insulted in the report, refused to solve it. Doesn't track pot in gargul.",
+		url = "https://discord.com/channels/610036506974748700/1113450521123094538",
 	},
-	[426] = {
+	[438] = {
 		name = "Shotormage",
 		class = "MAGE",
 		guid = "Player-4465-02FC43BA",
@@ -4372,17 +4492,7 @@ t.case_table = {
 		description = "1 Report - Tampered SR several times in different raids, doesn't see any problem with doing it, doubled down in the report.",
 		url = "https://discord.com/channels/610036506974748700/1111296616796799046",
 	},
-	[427] = {
-		name = "Shotorpa",
-		class = "PALADIN",
-		guid = "Player-4465-02FC43B1",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Tampered SR several times in different raids, doesn't see any problem with doing it, doubled down in the report.",
-		url = "https://discord.com/channels/610036506974748700/1111296616796799046",
-	},
-	[428] = {
+	[439] = {
 		name = "Shotorduck",
 		class = "WARLOCK",
 		guid = "Player-4465-02FC4816",
@@ -4392,7 +4502,7 @@ t.case_table = {
 		description = "1 Report - Tampered SR several times in different raids, doesn't see any problem with doing it, doubled down in the report.",
 		url = "https://discord.com/channels/610036506974748700/1111296616796799046",
 	},
-	[429] = {
+	[440] = {
 		name = "Shotordruid",
 		class = "DRUID",
 		guid = "Player-4465-02FC4866",
@@ -4402,17 +4512,27 @@ t.case_table = {
 		description = "1 Report - Tampered SR several times in different raids, doesn't see any problem with doing it, doubled down in the report.",
 		url = "https://discord.com/channels/610036506974748700/1111296616796799046",
 	},
-	[430] = {
-		name = "Juicetime",
-		class = "ROGUE",
-		guid = "Player-4465-042F50C2",
+	[441] = {
+		name = "Shotorhunt",
+		class = "HUNTER",
+		guid = "Player-4465-02FC480F",
 		faction = "Horde",
 		level = 3,
-		category = "dungeon",
-		description = "2 Reports - Ninja'd a caster item being a melee only class and kicked the other player that needed it to try to prevent the rolling.",
-		url = "https://discord.com/channels/610036506974748700/1110292622431494224",
+		category = "raid",
+		description = "1 Report - Tampered SR several times in different raids, doesn't see any problem with doing it, doubled down in the report.",
+		url = "https://discord.com/channels/610036506974748700/1111296616796799046",
 	},
-	[431] = {
+	[442] = {
+		name = "Shotorpa",
+		class = "PALADIN",
+		guid = "Player-4465-02FC43B1",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Tampered SR several times in different raids, doesn't see any problem with doing it, doubled down in the report.",
+		url = "https://discord.com/channels/610036506974748700/1111296616796799046",
+	},
+	[443] = {
 		name = "Juicykorneto",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-0432B47D",
@@ -4422,7 +4542,17 @@ t.case_table = {
 		description = "2 Reports - Ninja'd a caster item being a melee only class and kicked the other player that needed it to try to prevent the rolling.",
 		url = "https://discord.com/channels/610036506974748700/1110292622431494224",
 	},
-	[432] = {
+	[444] = {
+		name = "Juicetime",
+		class = "ROGUE",
+		guid = "Player-4465-042F50C2",
+		faction = "Horde",
+		level = 3,
+		category = "dungeon",
+		description = "2 Reports - Ninja'd a caster item being a melee only class and kicked the other player that needed it to try to prevent the rolling.",
+		url = "https://discord.com/channels/610036506974748700/1110292622431494224",
+	},
+	[445] = {
 		name = "Hiilu",
 		class = "PALADIN",
 		guid = "Player-4465-02C1C4A7",
@@ -4435,17 +4565,7 @@ t.case_table = {
 		description = "1 Report - Kicked a player from a raid, fucking up their ID and the SR he had because \"he was annoying and disagreed\". Doubled down in the report.",
 		url = "https://discord.com/channels/610036506974748700/1109862701062168656",
 	},
-	[433] = {
-		name = "Fianso",
-		class = "HUNTER",
-		guid = "Player-4465-041086C2",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Kicks players for no reason when getting angry, saves them to the ID, replies with insults and ignores.",
-		url = "https://discord.com/channels/610036506974748700/1109245418560299020",
-	},
-	[434] = {
+	[446] = {
 		name = "Babygang",
 		class = "PALADIN",
 		guid = "Player-4465-04305578",
@@ -4455,7 +4575,17 @@ t.case_table = {
 		description = "1 Report - Kicks players for no reason when getting angry, saves them to the ID, replies with insults and ignores.",
 		url = "https://discord.com/channels/610036506974748700/1109245418560299020",
 	},
-	[435] = {
+	[447] = {
+		name = "Fianso",
+		class = "HUNTER",
+		guid = "Player-4465-041086C2",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Kicks players for no reason when getting angry, saves them to the ID, replies with insults and ignores.",
+		url = "https://discord.com/channels/610036506974748700/1109245418560299020",
+	},
+	[448] = {
 		name = "Luciv",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-042FE489",
@@ -4465,7 +4595,7 @@ t.case_table = {
 		description = "1 Report - Disconnected from a GDKP with the pot, didn't come back.",
 		url = "https://discord.com/channels/610036506974748700/1108887233047580682",
 	},
-	[436] = {
+	[449] = {
 		name = "The Finalboss",
 		faction = "Horde",
 		level = 3,
@@ -4473,7 +4603,7 @@ t.case_table = {
 		description = "1 Report - <The Finalboss> 5 blocklists for ninja and kicking players for no reason. Normally led by Easydps/Easyhps/Fildaone/Fildik.",
 		url = "https://discord.com/channels/610036506974748700/1108789529030172763",
 	},
-	[437] = {
+	[450] = {
 		name = "Antaios",
 		class = "DRUID",
 		guid = "Player-4465-000F7F98",
@@ -4483,7 +4613,7 @@ t.case_table = {
 		description = "1 Report - Member of <The Finalboss> guild with 5 blocklists for ninja and kicking players without a reason. Participated in kick.",
 		url = "https://discord.com/channels/610036506974748700/1102360219553648731",
 	},
-	[438] = {
+	[451] = {
 		name = "Xunis",
 		class = "WARRIOR",
 		guid = "Player-4465-02894F8E",
@@ -4493,7 +4623,7 @@ t.case_table = {
 		description = "1 Report - Member of <The Finalboss> guild with 5 blocklists for ninja and kicking players without a reason. Participated in kick.",
 		url = "https://discord.com/channels/610036506974748700/1102360219553648731",
 	},
-	[439] = {
+	[452] = {
 		name = "Dgatekeeper",
 		class = "WARRIOR",
 		guid = "Player-4465-038D39BD",
@@ -4503,7 +4633,7 @@ t.case_table = {
 		description = "1 Report - Member of <The Finalboss> guild with 5 blocklists for ninja and kicking players without a reason. Participated in kick.",
 		url = "https://discord.com/channels/610036506974748700/1102360219553648731",
 	},
-	[440] = {
+	[453] = {
 		name = "Marmeladke",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-038A200C",
@@ -4513,7 +4643,7 @@ t.case_table = {
 		description = "1 Report - Member of <The Finalboss> guild with 5 blocklists for ninja and kicking players without a reason. Participated in kick and deleted logs.",
 		url = "https://discord.com/channels/610036506974748700/1102360219553648731",
 	},
-	[441] = {
+	[454] = {
 		name = "Scootty",
 		class = "SHAMAN",
 		guid = "Player-4465-0300A6CE",
@@ -4523,7 +4653,7 @@ t.case_table = {
 		description = "1 Report - Member of <The Finalboss> guild with 5 blocklists for various ninja and kicking players without a reason. Participated in a kick.",
 		url = "https://discord.com/channels/610036506974748700/1102360219553648731",
 	},
-	[442] = {
+	[455] = {
 		name = "Greyferd",
 		class = "WARRIOR",
 		guid = "Player-4465-02E070DE",
@@ -4533,7 +4663,7 @@ t.case_table = {
 		description = "1 Report - Member of <The Finalboss> guild with 5 blocklists for various ninja and kicking players without a reason. Participated in a kick.",
 		url = "https://discord.com/channels/610036506974748700/1102360219553648731",
 	},
-	[443] = {
+	[456] = {
 		name = "Rakah",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-039C5A58",
@@ -4543,7 +4673,7 @@ t.case_table = {
 		description = "1 Report - Member of <The Finalboss> guild with 5 blocklists for various ninja and kicking from raids without a reason. Participated in a kick.",
 		url = "https://discord.com/channels/610036506974748700/1108789529030172763",
 	},
-	[444] = {
+	[457] = {
 		name = "Nejsemtu",
 		class = "WARRIOR",
 		guid = "Player-4465-040D5D0C",
@@ -4553,7 +4683,17 @@ t.case_table = {
 		description = "1 Report - Member of <The Finalboss> guild with 5 blocklists on various ninja and kicking for no reason. Participated in a kick.",
 		url = "https://discord.com/channels/610036506974748700/1108789529030172763",
 	},
-	[445] = {
+	[458] = {
+		name = "Easydps",
+		class = "MAGE",
+		guid = "Player-4465-02EE366E",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "4 Reports - Kicked a player for no reason, saving him in the first boss. Part of <The Finallboss> guild that kicks people regularly in their runs.",
+		url = "https://discord.com/channels/610036506974748700/1108789529030172763",
+	},
+	[459] = {
 		name = "Easyhps",
 		class = "DRUID",
 		guid = "Player-4465-0245343A",
@@ -4566,7 +4706,7 @@ t.case_table = {
 		description = "5 Reports - Kicked a player for no reason, saving him in the first boss. Part of <The Finallboss> guild that kicks people regularly in their runs.",
 		url = "https://discord.com/channels/610036506974748700/1108789529030172763",
 	},
-	[446] = {
+	[460] = {
 		name = "Fildaone",
 		class = "WARLOCK",
 		guid = "Player-4465-02E24324",
@@ -4576,17 +4716,7 @@ t.case_table = {
 		description = "5 Reports - Kicked a player for no reason, saving him in the first boss. Part of <The Finallboss> guild that kicks people regularly in their runs.",
 		url = "https://discord.com/channels/610036506974748700/1108789529030172763",
 	},
-	[447] = {
-		name = "Easydps",
-		class = "MAGE",
-		guid = "Player-4465-02EE366E",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "4 Reports - Kicked a player for no reason, saving him in the first boss. Part of <The Finallboss> guild that kicks people regularly in their runs.",
-		url = "https://discord.com/channels/610036506974748700/1108789529030172763",
-	},
-	[448] = {
+	[461] = {
 		name = "Tallven",
 		class = "PALADIN",
 		guid = "Player-4465-043036FF",
@@ -4596,7 +4726,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd several items with the guild <The Legacy> in a Naxx run, hiding SR and giving items to second rolls.",
 		url = "https://discord.com/channels/610036506974748700/1107079247371178064",
 	},
-	[449] = {
+	[462] = {
 		name = "Brzytwiak",
 		class = "ROGUE",
 		guid = "Player-4465-04330E91",
@@ -4606,7 +4736,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd several items with the guild <The Legacy> in a Naxx run, hiding SR and giving items to second rolls.",
 		url = "https://discord.com/channels/610036506974748700/1107079247371178064",
 	},
-	[450] = {
+	[463] = {
 		name = "Artusk",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-0377E797",
@@ -4616,7 +4746,7 @@ t.case_table = {
 		description = "1 Report - Supported a friend stealing enchanting mats in a dungeon and then used racist slur against the player that won the roll.",
 		url = "https://discord.com/channels/610036506974748700/1105584678427168839",
 	},
-	[451] = {
+	[464] = {
 		name = "Bananameloun",
 		class = "PRIEST",
 		guid = "Player-4465-042CCC0E",
@@ -4626,7 +4756,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd items to disenchant and then refused to roll out the shards and admitted it was for the profession.",
 		url = "https://discord.com/channels/610036506974748700/1105584678427168839",
 	},
-	[452] = {
+	[465] = {
 		name = "Rogkan",
 		class = "ROGUE",
 		guid = "Player-4465-042A227B",
@@ -4636,7 +4766,7 @@ t.case_table = {
 		description = "1 Report - Stole the full pot of a GDKP and left the raid. Put on ignore the players asking for the cuts.",
 		url = "https://discord.com/channels/610036506974748700/1104557502651191428",
 	},
-	[453] = {
+	[466] = {
 		name = "Stácysmom",
 		class = "PALADIN",
 		guid = "Player-4465-04295022",
@@ -4649,7 +4779,7 @@ t.case_table = {
 		description = "2 Reports - Ninja'd VoA mount after rolling it and not being the winner of it.",
 		url = "https://discord.com/channels/610036506974748700/1102599446115663912",
 	},
-	[454] = {
+	[467] = {
 		name = "Xcvxc",
 		class = "PALADIN",
 		guid = "Player-4465-039B12D7",
@@ -4659,7 +4789,7 @@ t.case_table = {
 		description = "1 Report - Kicked a player mid-run from a guild raid run for no reason.",
 		url = "https://discord.com/channels/610036506974748700/1102360219553648731",
 	},
-	[455] = {
+	[468] = {
 		name = "Qaren",
 		class = "PRIEST",
 		guid = "Player-4465-04234970",
@@ -4672,17 +4802,7 @@ t.case_table = {
 		description = "2 Reports - Stole the pot and went offline in a GDKP.",
 		url = "https://discord.com/channels/610036506974748700/1100894862645149787",
 	},
-	[456] = {
-		name = "Yespapi",
-		class = "MAGE",
-		guid = "Player-4465-00C59280",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Player constantly leaves raids in a specific boss (Freya or Thorim) and calls people slurs.",
-		url = "https://discord.com/channels/610036506974748700/1100534790823882842",
-	},
-	[457] = {
+	[469] = {
 		name = "Itspapi",
 		class = "SHAMAN",
 		guid = "Player-4465-0425B39A",
@@ -4692,17 +4812,17 @@ t.case_table = {
 		description = "1 Report - Player constantly leaves raids in a specific boss (Freya or Thorim) and calls people slurs.",
 		url = "https://discord.com/channels/610036506974748700/1100534790823882842",
 	},
-	[458] = {
-		name = "Biger",
-		class = "PALADIN",
-		guid = "Player-4465-030326E4",
+	[470] = {
+		name = "Yespapi",
+		class = "MAGE",
+		guid = "Player-4465-00C59280",
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "1 Report - Kicked 2 players from the raid for no reason and then changed the SR mid-run with only the last boss left.",
-		url = "https://discord.com/channels/610036506974748700/1100466416148283392",
+		description = "1 Report - Player constantly leaves raids in a specific boss (Freya or Thorim) and calls people slurs.",
+		url = "https://discord.com/channels/610036506974748700/1100534790823882842",
 	},
-	[459] = {
+	[471] = {
 		name = "Fasts",
 		class = "WARLOCK",
 		guid = "Player-4465-03032613",
@@ -4712,7 +4832,17 @@ t.case_table = {
 		description = "1 Report - Kicked 2 players from the raid for no reason and then changed the SR mid-run with only the last boss left.",
 		url = "https://discord.com/channels/610036506974748700/1100466416148283392",
 	},
-	[460] = {
+	[472] = {
+		name = "Biger",
+		class = "PALADIN",
+		guid = "Player-4465-030326E4",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Kicked 2 players from the raid for no reason and then changed the SR mid-run with only the last boss left.",
+		url = "https://discord.com/channels/610036506974748700/1100466416148283392",
+	},
+	[473] = {
 		name = "Kennyrogerz",
 		class = "SHAMAN",
 		guid = "Player-4465-042A1040",
@@ -4722,7 +4852,7 @@ t.case_table = {
 		description = "1 Report - Left raid after their SR didn't drop, stayed online and didn't reply.",
 		url = "https://discord.com/channels/610036506974748700/1099054728077377666",
 	},
-	[461] = {
+	[474] = {
 		name = "Snöret",
 		class = "SHAMAN",
 		guid = "Player-4465-0429A25E",
@@ -4732,7 +4862,7 @@ t.case_table = {
 		description = "1 Report - Left the raid after not winning the roll for SR and rolling more times than SR amount, stayed online and didn't reply.",
 		url = "https://discord.com/channels/610036506974748700/1099054728077377666",
 	},
-	[462] = {
+	[475] = {
 		name = "Maybetoofast",
 		class = "DRUID",
 		guid = "Player-4465-030BE8C6",
@@ -4742,7 +4872,7 @@ t.case_table = {
 		description = "1 Report - Needed and won an item that was agreed upon before starting the run that they would not need on.",
 		url = "https://discord.com/channels/610036506974748700/1097177383339049050",
 	},
-	[463] = {
+	[476] = {
 		name = "Prcëk",
 		class = "HUNTER",
 		guid = "Player-4465-015F35B3",
@@ -4756,7 +4886,7 @@ t.case_table = {
 		description = "1 Report - Lootpooling Mjolnir Runestone between guildies in a pug. Tried to pass it off as them trading gold for it.",
 		url = "https://discord.com/channels/610036506974748700/1095483053616418846",
 	},
-	[464] = {
+	[477] = {
 		name = "Gormi",
 		class = "WARRIOR",
 		guid = "Player-4465-029AD120",
@@ -4766,7 +4896,7 @@ t.case_table = {
 		description = "1 Report - Lootpooling Mjolnir Runestone between guildies in a pug. Tried to pass it off as them trading gold for it.",
 		url = "https://discord.com/channels/610036506974748700/1095483053616418846",
 	},
-	[465] = {
+	[478] = {
 		name = "Qetak",
 		class = "SHAMAN",
 		guid = "Player-4465-027F0DB3",
@@ -4776,7 +4906,7 @@ t.case_table = {
 		description = "1 Report - Lootpooling Mjolnir Runestone between guildies in a pug. Tried to pass it off as them trading gold for it.",
 		url = "https://discord.com/channels/610036506974748700/1095483053616418846",
 	},
-	[466] = {
+	[479] = {
 		name = "Kabelm",
 		class = "MAGE",
 		guid = "Player-4465-0370393C",
@@ -4789,7 +4919,7 @@ t.case_table = {
 		description = "1 Report - Loot pooled a ring with 2 other guildmates rolling while they already had it equipped, to avoid a pugger getting it.",
 		url = "https://discord.com/channels/610036506974748700/1092094912880705606",
 	},
-	[467] = {
+	[480] = {
 		name = "Maggibujon",
 		class = "MAGE",
 		guid = "Player-4465-03764C5E",
@@ -4799,7 +4929,7 @@ t.case_table = {
 		description = "1 Report - Loot pooled an item for their guildie while having it equipped themselves in the boss before it dropped.",
 		url = "https://discord.com/channels/610036506974748700/1092094912880705606",
 	},
-	[468] = {
+	[481] = {
 		name = "Lhootik",
 		class = "PRIEST",
 		guid = "Player-4465-024547AD",
@@ -4809,7 +4939,7 @@ t.case_table = {
 		description = "1 Report - Loot pooled an item for their guildie while having it equipped themselves in the boss before it dropped.",
 		url = "https://discord.com/channels/610036506974748700/1092094912880705606",
 	},
-	[469] = {
+	[482] = {
 		name = "Niramage",
 		class = "MAGE",
 		guid = "Player-4465-02EAF7A4",
@@ -4819,7 +4949,7 @@ t.case_table = {
 		description = "1 Report - Didn't care about checking SR and gave an item to one of the 3 people on it, then didn't want to take any responsibility for the mistake.",
 		url = "https://discord.com/channels/610036506974748700/1091069340117372958",
 	},
-	[470] = {
+	[483] = {
 		name = "Nirarouge",
 		class = "ROGUE",
 		guid = "Player-4465-03FB12A0",
@@ -4829,7 +4959,7 @@ t.case_table = {
 		description = "1 Report - Didn't care about checking SR and gave an item to one of the 3 people on it, then didn't want to take any responsibility for the mistake.",
 		url = "https://discord.com/channels/610036506974748700/1091069340117372958",
 	},
-	[471] = {
+	[484] = {
 		name = "Mikellitoris",
 		class = "WARLOCK",
 		guid = "Player-4465-03F47B1E",
@@ -4839,7 +4969,7 @@ t.case_table = {
 		description = "1 Report - Didn't roll item that wasn't SR out of spite for a player, lied and left the raid with more items without rolling. Lied in report too.",
 		url = "https://discord.com/channels/610036506974748700/1091073066408345631",
 	},
-	[472] = {
+	[485] = {
 		name = "Mikofloso",
 		class = "PALADIN",
 		guid = "Player-4465-041AAE4F",
@@ -4849,7 +4979,7 @@ t.case_table = {
 		description = "1 Report - Didn't roll item that wasn't SR out of spite for a player, lied and left the raid with more items without rolling. Lied in report too.",
 		url = "https://discord.com/channels/610036506974748700/1091073066408345631",
 	},
-	[473] = {
+	[486] = {
 		name = "Roguetemp",
 		class = "ROGUE",
 		guid = "Player-4465-04285E60",
@@ -4859,7 +4989,7 @@ t.case_table = {
 		description = "1 Report - Kicked players out of the daily HC+ lockout and stayed blocking anyone from completing the ID.",
 		url = "https://discord.com/channels/610036506974748700/1087169842869710970",
 	},
-	[474] = {
+	[487] = {
 		name = "Sountemp",
 		class = "PALADIN",
 		guid = "Player-4465-04285C90",
@@ -4869,7 +4999,7 @@ t.case_table = {
 		description = "1 Report - Kicked players out of the daily HC+ lockout and stayed blocking anyone from completing the ID.",
 		url = "https://discord.com/channels/610036506974748700/1087169842869710970",
 	},
-	[475] = {
+	[488] = {
 		name = "Valkyrîa",
 		class = "PALADIN",
 		guid = "Player-4465-04285FEF",
@@ -4879,7 +5009,7 @@ t.case_table = {
 		description = "1 Report - Kicked players from the party griefing their daily HC+ lockout and stayed in the ID preventing anyone to finish it.",
 		url = "https://discord.com/channels/610036506974748700/1087169842869710970",
 	},
-	[476] = {
+	[489] = {
 		name = "Fakingg",
 		class = "MAGE",
 		guid = "Player-4465-040D6B79",
@@ -4889,7 +5019,7 @@ t.case_table = {
 		description = "1 Report - Harassment individually and as a group (current guild)",
 		url = "https://discord.com/channels/610036506974748700/1085919550937235566",
 	},
-	[477] = {
+	[490] = {
 		name = "Jinsei",
 		class = "PRIEST",
 		guid = "Player-4465-03086C0A",
@@ -4899,7 +5029,7 @@ t.case_table = {
 		description = "1 Report - Racist slurs and toxic behaviour, in game and on discord",
 		url = "https://discord.com/channels/610036506974748700/1086321410948993044",
 	},
-	[478] = {
+	[491] = {
 		name = "Bombownik",
 		class = "MAGE",
 		guid = "Player-4465-02313F25",
@@ -4909,7 +5039,7 @@ t.case_table = {
 		description = "2 Reports - Tampered SR changing it from dead bosses to new ones mid run.",
 		url = "https://discord.com/channels/610036506974748700/1084952689131139092",
 	},
-	[479] = {
+	[492] = {
 		name = "Bombardownik",
 		class = "MAGE",
 		guid = "Player-4465-0424137A",
@@ -4919,7 +5049,7 @@ t.case_table = {
 		description = "1 Report - Tampered SR changing items from dead bosses to new ones mid run.",
 		url = "https://discord.com/channels/610036506974748700/1084952689131139092",
 	},
-	[480] = {
+	[493] = {
 		name = "Klawy",
 		class = "HUNTER",
 		guid = "Player-4465-03FA7F90",
@@ -4929,7 +5059,7 @@ t.case_table = {
 		description = "1 Report - Tampered SR changing it from dead bosses to new ones mid run.",
 		url = "https://discord.com/channels/610036506974748700/1084952689131139092",
 	},
-	[481] = {
+	[494] = {
 		name = "Woolgodx",
 		class = "MAGE",
 		guid = "Player-4465-04247605",
@@ -4939,7 +5069,7 @@ t.case_table = {
 		description = "1 Report - Received [Unsullied Cuffs] by mistake of the RL and refused to trade them to the winner",
 		url = "https://discord.com/channels/610036506974748700/1084067540596174879",
 	},
-	[482] = {
+	[495] = {
 		name = "Yl",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-036B52EE",
@@ -4949,7 +5079,7 @@ t.case_table = {
 		description = "1 Report - Harassed a player because of a ninja report in which their friends appeared.",
 		url = "https://discord.com/channels/610036506974748700/1082700886540832828",
 	},
-	[483] = {
+	[496] = {
 		name = "Prozzak",
 		class = "ROGUE",
 		guid = "Player-4465-02FAD438",
@@ -4959,7 +5089,7 @@ t.case_table = {
 		description = "1 Report - Player had toxic attitude against raiders and used slurs.",
 		url = "https://discord.com/channels/610036506974748700/1081224409387368548",
 	},
-	[484] = {
+	[497] = {
 		name = "Krampes",
 		class = "DRUID",
 		guid = "Player-4465-0267858E",
@@ -4969,7 +5099,7 @@ t.case_table = {
 		description = "1 Report - Went offline without rolling out loot, DE'd the item not rolled and sent to the raid member who needed the item.",
 		url = "https://discord.com/channels/610036506974748700/1079928262781849651",
 	},
-	[485] = {
+	[498] = {
 		name = "Crackanibba",
 		class = "WARRIOR",
 		guid = "Player-4465-03043E88",
@@ -4979,7 +5109,7 @@ t.case_table = {
 		description = "1 Report - Harassed another player using racist slurs.",
 		url = "https://discord.com/channels/610036506974748700/1080863862150135889",
 	},
-	[486] = {
+	[499] = {
 		name = "Kpoprules",
 		class = "PALADIN",
 		guid = "Player-4465-02E1CC44",
@@ -4989,7 +5119,7 @@ t.case_table = {
 		description = "1 Report - Allowed SR tampering from a friend in raid and then disconnected with 4 other people.",
 		url = "https://discord.com/channels/610036506974748700/1079440016654217238",
 	},
-	[487] = {
+	[500] = {
 		name = "Tellem",
 		class = "WARLOCK",
 		guid = "Player-4465-02EEF4F8",
@@ -4999,7 +5129,7 @@ t.case_table = {
 		description = "1 Report - Tampered the SR changing it from a dead boss to a new one and after being called out disconnected from the raid.",
 		url = "https://discord.com/channels/610036506974748700/1079440016654217238",
 	},
-	[488] = {
+	[501] = {
 		name = "Tycette",
 		class = "ROGUE",
 		guid = "Player-4465-041B972D",
@@ -5009,7 +5139,7 @@ t.case_table = {
 		description = "1 Report - Did antisemitic and nazi stuff in Dalaran and then tried to frame other player for it.",
 		url = "https://discord.com/channels/610036506974748700/1077957410024591412",
 	},
-	[489] = {
+	[502] = {
 		name = "Brodermike",
 		class = "MAGE",
 		guid = "Player-4465-041BC81A",
@@ -5019,7 +5149,7 @@ t.case_table = {
 		description = "1 Report - Did antisemitic and nazi stuff in Dalaran and then tried to frame other player for it.",
 		url = "https://discord.com/channels/610036506974748700/1077957410024591412",
 	},
-	[490] = {
+	[503] = {
 		name = "Blindful",
 		class = "ROGUE",
 		guid = "Player-4465-00995EC2",
@@ -5029,7 +5159,7 @@ t.case_table = {
 		description = "1 Report - Lootpooling/rolled MS on an item that is not their MS to sell the item for 10k to the RL.",
 		url = "https://discord.com/channels/610036506974748700/1076662693093703780",
 	},
-	[491] = {
+	[504] = {
 		name = "Bîq",
 		class = "WARRIOR",
 		guid = "Player-4465-04202507",
@@ -5039,7 +5169,7 @@ t.case_table = {
 		description = "1 Report - Loot pooled/bought item as RL on a MS roll in a SR > MS > OS roll",
 		url = "https://discord.com/channels/610036506974748700/1076662693093703780",
 	},
-	[492] = {
+	[505] = {
 		name = "Bobbym",
 		class = "MAGE",
 		guid = "Player-4465-02FA1B4B",
@@ -5049,17 +5179,7 @@ t.case_table = {
 		description = "1 Report - Kicked a player out of the raid when SR changes from RL's friend were being pointed out to the RL as suspicious.",
 		url = "https://discord.com/channels/610036506974748700/1074388458082148444",
 	},
-	[493] = {
-		name = "Flakker",
-		class = "SHAMAN",
-		guid = "Player-4465-0307F414",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - During OS10 2D player as RL set their SR when fight started twice with intention to deceive players that they have only HR as organiser.",
-		url = "https://discord.com/channels/610036506974748700/1073195846121816116",
-	},
-	[494] = {
+	[506] = {
 		name = "Plagueknight",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-036A7B16",
@@ -5069,7 +5189,17 @@ t.case_table = {
 		description = "1 Report - During OS10 2D player as RL set their SR when fight started twice with intention to deceive players that they have only HR as organiser.",
 		url = "https://discord.com/channels/610036506974748700/1073195846121816116",
 	},
-	[495] = {
+	[507] = {
+		name = "Flakker",
+		class = "SHAMAN",
+		guid = "Player-4465-0307F414",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - During OS10 2D player as RL set their SR when fight started twice with intention to deceive players that they have only HR as organiser.",
+		url = "https://discord.com/channels/610036506974748700/1073195846121816116",
+	},
+	[508] = {
 		name = "Rohlikos",
 		class = "WARLOCK",
 		guid = "Player-4465-024C9B4E",
@@ -5079,7 +5209,7 @@ t.case_table = {
 		description = "1 Report - Changed SR several times mid run from dead bosses to new items",
 		url = "https://discord.com/channels/610036506974748700/1072262086438170674",
 	},
-	[496] = {
+	[509] = {
 		name = "Jayqb",
 		class = "HUNTER",
 		guid = "Player-4465-02E8C9C9",
@@ -5089,17 +5219,7 @@ t.case_table = {
 		description = "1 Report - Changed SR mid run to an item that had already dropped but wasn't rolled yet",
 		url = "https://discord.com/channels/610036506974748700/1072247553166418050",
 	},
-	[497] = {
-		name = "Jayqz",
-		class = "SHAMAN",
-		guid = "Player-4465-0423DA40",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "1 Report - Changed SR mid run to an item that had already dropped but wasn't rolled yet",
-		url = "https://discord.com/channels/610036506974748700/1072247553166418050",
-	},
-	[498] = {
+	[510] = {
 		name = "Shammzilla",
 		class = "SHAMAN",
 		guid = "Player-4465-03B3002D",
@@ -5112,7 +5232,17 @@ t.case_table = {
 		description = "1 Report - Changed SR mid run to an item that had already dropped but wasn't rolled yet",
 		url = "https://discord.com/channels/610036506974748700/1072247553166418050",
 	},
-	[499] = {
+	[511] = {
+		name = "Jayqz",
+		class = "SHAMAN",
+		guid = "Player-4465-0423DA40",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "1 Report - Changed SR mid run to an item that had already dropped but wasn't rolled yet",
+		url = "https://discord.com/channels/610036506974748700/1072247553166418050",
+	},
+	[512] = {
 		name = "Stalar",
 		class = "PALADIN",
 		guid = "Player-4465-0385D7BC",
@@ -5125,37 +5255,7 @@ t.case_table = {
 		description = "3 Reports - Kicked player(s) for dying, locking them to the ID and preventing them from receiving SR's that dropped.",
 		url = "https://discord.com/channels/610036506974748700/1069049520182276178",
 	},
-	[500] = {
-		name = "Casmaron",
-		class = "DRUID",
-		guid = "Player-4465-0485A551",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "3 Reports - Kicked player(s) for dying, locking them to the ID and preventing them from receiving SR's that dropped.",
-		url = "https://discord.com/channels/610036506974748700/1069049520182276178",
-	},
-	[501] = {
-		name = "Canturano",
-		class = "MAGE",
-		guid = "Player-4465-043400DE",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "3 Reports - Kicked player(s) for dying, locking them to the ID and preventing them from receiving SR's that dropped.",
-		url = "https://discord.com/channels/610036506974748700/1069049520182276178",
-	},
-	[502] = {
-		name = "Cansmaron",
-		class = "PALADIN",
-		guid = "Player-4465-04967D5F",
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "3 Reports - Kicked player(s) for dying, locking them to the ID and preventing them from receiving SR's that dropped.",
-		url = "https://discord.com/channels/610036506974748700/1069049520182276178",
-	},
-	[503] = {
+	[513] = {
 		name = "Canturo",
 		class = "SHAMAN",
 		guid = "Player-4465-02FF151D",
@@ -5168,17 +5268,50 @@ t.case_table = {
 		description = "3 Reports - Kicked player(s) for dying, locking them to the ID and preventing them from receiving SR's that dropped.",
 		url = "https://discord.com/channels/610036506974748700/1069049520182276178",
 	},
-	[504] = {
-		name = "Imasylzara",
+	[514] = {
+		name = "Canturano",
 		class = "MAGE",
-		guid = "Player-4465-0300489D",
+		guid = "Player-4465-043400DE",
 		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "3 Reports - Kicked player(s) for dying, locking them to the ID and preventing them from receiving SR's that dropped.",
+		url = "https://discord.com/channels/610036506974748700/1069049520182276178",
+	},
+	[515] = {
+		name = "Cansmaron",
+		class = "PALADIN",
+		guid = "Player-4465-04967D5F",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "3 Reports - Kicked player(s) for dying, locking them to the ID and preventing them from receiving SR's that dropped.",
+		url = "https://discord.com/channels/610036506974748700/1069049520182276178",
+	},
+	[516] = {
+		name = "Casmaron",
+		class = "DRUID",
+		guid = "Player-4465-0485A551",
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "3 Reports - Kicked player(s) for dying, locking them to the ID and preventing them from receiving SR's that dropped.",
+		url = "https://discord.com/channels/610036506974748700/1069049520182276178",
+	},
+	[517] = {
+		name = "Sylzarariki",
+		class = "ROGUE",
+		guid = "Player-4465-03B7F014",
+		aliases = {
+			"Shdwstxrm",
+		},
+		faction = "Unknown",
 		level = 3,
 		category = "harassment",
 		description = "2 Reports - Player verbaly attacked players, called them slurs and harassed them in discord DMs.",
 		url = "https://discord.com/channels/610036506974748700/1070668719308689448",
 	},
-	[505] = {
+	[518] = {
 		name = "Sylzaraember",
 		class = "SHAMAN",
 		guid = "Player-4465-02CE5C91",
@@ -5192,20 +5325,17 @@ t.case_table = {
 		description = "2 Reports - Player verbaly attacked players, called them slurs and harassed them in discord DMs.",
 		url = "https://discord.com/channels/610036506974748700/1070668719308689448",
 	},
-	[506] = {
-		name = "Sylzarariki",
-		class = "ROGUE",
-		guid = "Player-4465-03B7F014",
-		aliases = {
-			"Shdwstxrm",
-		},
-		faction = "Unknown",
+	[519] = {
+		name = "Imasylzara",
+		class = "MAGE",
+		guid = "Player-4465-0300489D",
+		faction = "Horde",
 		level = 3,
 		category = "harassment",
 		description = "2 Reports - Player verbaly attacked players, called them slurs and harassed them in discord DMs.",
 		url = "https://discord.com/channels/610036506974748700/1070668719308689448",
 	},
-	[507] = {
+	[520] = {
 		name = "Oemnis",
 		class = "PRIEST",
 		guid = "Player-4465-03766C75",
@@ -5215,7 +5345,7 @@ t.case_table = {
 		description = "1 Report - As RL player broke MS  > OS rules and gave [Pennant Cloak] to guildie lying that it was HR.",
 		url = "https://discord.com/channels/610036506974748700/1068928489111167076",
 	},
-	[508] = {
+	[521] = {
 		name = "Pajoskral",
 		class = "HUNTER",
 		guid = "Player-4465-0305C96E",
@@ -5225,7 +5355,7 @@ t.case_table = {
 		description = "1 Report - Kicked other player before last boss in HC+ out of spite and called him racial slurs.",
 		url = "https://discord.com/channels/610036506974748700/1068810923235606618",
 	},
-	[509] = {
+	[522] = {
 		name = "Michaél",
 		class = "DRUID",
 		guid = "Player-4465-040D72C1",
@@ -5238,7 +5368,7 @@ t.case_table = {
 		description = "2 Reports - GDKP: Player stole the full GDKP pot as the organiser, this is the second report.",
 		url = "https://discord.com/channels/610036506974748700/1064660405466710146",
 	},
-	[510] = {
+	[523] = {
 		name = "Tacticalheal",
 		class = "PRIEST",
 		guid = "Player-4465-03E83DE4",
@@ -5251,7 +5381,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd [Torch of Holy Fire] by rolling a second time before quickly trading the ML who traded it over then they immediately left the raid.",
 		url = "https://discord.com/channels/610036506974748700/1063939996312154112",
 	},
-	[511] = {
+	[524] = {
 		name = "Lastdk",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-036D80BC",
@@ -5261,7 +5391,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd [Red Sword of Courage] which is unique-equip and already had it, later said \"I can need anything as tank\", presumed disenchant.",
 		url = "https://discord.com/channels/610036506974748700/1037426733684629605",
 	},
-	[512] = {
+	[525] = {
 		name = "Spwrutbice",
 		class = "WARLOCK",
 		guid = "Player-4465-0303D2A4",
@@ -5271,7 +5401,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd [Flamebeard's Bracers] for discenchant followed by toxic behaviour when confronted about it.",
 		url = "https://discord.com/channels/610036506974748700/1029320150958223370",
 	},
-	[513] = {
+	[526] = {
 		name = "Empaines",
 		class = "MAGE",
 		guid = "Player-4465-011A5F24",
@@ -5281,7 +5411,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd [Mail Girdle of the Audient Earth] to disenchant then leaving without rolling it out to the group.",
 		url = "https://discord.com/channels/610036506974748700/1043854693358645388",
 	},
-	[514] = {
+	[527] = {
 		name = "Syrrius",
 		guid = "Player-4465-02C59C9D",
 		aliases = {
@@ -5293,7 +5423,7 @@ t.case_table = {
 		description = "1 Report - Gave [Surge Needle Ring] to low roller despite allowing players to soft reserve it then stating 'not your MS' as reason not to give it.",
 		url = "https://discord.com/channels/610036506974748700/1055126372344922142",
 	},
-	[515] = {
+	[528] = {
 		name = "Farbajsz",
 		class = "WARRIOR",
 		guid = "Player-4465-03AFF9F7",
@@ -5303,7 +5433,7 @@ t.case_table = {
 		description = "1 Report - Rolled out [Reins of the Grand Black War Mammoth] from VoA but went offline without giving it to the winner. Later admitted to learning it.",
 		url = "https://discord.com/channels/610036506974748700/1044945454670032906",
 	},
-	[516] = {
+	[529] = {
 		name = "Klacki",
 		class = "SHAMAN",
 		guid = "Player-4465-045725D2",
@@ -5317,7 +5447,7 @@ t.case_table = {
 		description = "5 Reports - Part of a guild called <Sons of Hey> who organised a Nax25 pug that was SR x1 > MS > OS who ninja'd [Betrayer of Humanity].",
 		url = "https://discord.com/channels/610036506974748700/1037492155557625867",
 	},
-	[517] = {
+	[530] = {
 		name = "Kallemandu",
 		class = "WARRIOR",
 		guid = "Player-4465-0400DAEB",
@@ -5330,7 +5460,7 @@ t.case_table = {
 		description = "5 Reports - Part of a guild called <Sons of Hey> who organised a Nax25 pug that was SR x1 > MS > OS who ninja'd [Betrayer of Humanity].",
 		url = "https://discord.com/channels/610036506974748700/1037492155557625867",
 	},
-	[518] = {
+	[531] = {
 		name = "Gamiseta",
 		class = "PRIEST",
 		guid = "Player-4465-036E988D",
@@ -5340,7 +5470,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd [Illustration of the Dragon Soul] on behalf of a guildie (Deomass) who lost the roll, then full cap laughed about it in raid chat.",
 		url = "https://discord.com/channels/610036506974748700/1037375254600876113",
 	},
-	[519] = {
+	[532] = {
 		name = "Nathanós",
 		class = "ROGUE",
 		guid = "Player-4465-00B5557D",
@@ -5350,7 +5480,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd [Key to the Focusing Iris] giving it to themselves in a MS > OS Nax raid.",
 		url = "https://discord.com/channels/610036506974748700/1031614505240764416",
 	},
-	[520] = {
+	[533] = {
 		name = "Tearofsisaur",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-0376B0D4",
@@ -5360,7 +5490,7 @@ t.case_table = {
 		description = "1 Report - Ninja'd [Key to the Focusing Iris] which was not hard reserved in a MS > OS Nax as Raidleader.",
 		url = "https://discord.com/channels/610036506974748700/1031241424122953868",
 	},
-	[521] = {
+	[534] = {
 		name = "Burstt",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-036D63AE",
@@ -5370,7 +5500,7 @@ t.case_table = {
 		description = "3 Reports - Third report after changing names again they ninja'd Fury of the Five Flights trinket.",
 		url = "https://discord.com/channels/610036506974748700/1053759993473667193",
 	},
-	[522] = {
+	[535] = {
 		name = "Spectrucuz",
 		class = "HUNTER",
 		guid = "Player-4465-001EC0F8",
@@ -5380,7 +5510,7 @@ t.case_table = {
 		description = "1 Report - Ninja looted 2H axe from prepatch Karazhan boss.",
 		url = "https://discord.com/channels/610036506974748700/1020412610706948146",
 	},
-	[523] = {
+	[536] = {
 		name = "Lorenzô",
 		class = "PRIEST",
 		guid = "Player-4465-040DFDFD",
@@ -5390,7 +5520,7 @@ t.case_table = {
 		description = "2 Reports - Organised a GDKP and kept the 80k gold pot. Not the first time.",
 		url = "https://discord.com/channels/610036506974748700/1055995304681426944",
 	},
-	[524] = {
+	[537] = {
 		name = "Lightscatter",
 		class = "PALADIN",
 		guid = "Player-4465-02F69219",
@@ -5400,7 +5530,7 @@ t.case_table = {
 		description = "1 Report - Organised a GDKP run then logged out at the end without distributing cuts.",
 		url = "https://discord.com/channels/610036506974748700/1020447270744899594",
 	},
-	[525] = {
+	[538] = {
 		name = "Imekxus",
 		class = "PALADIN",
 		guid = "Player-4465-02FB0F7B",
@@ -5410,7 +5540,7 @@ t.case_table = {
 		description = "1 Report - Called people slurs (including hard r) in-game and on discord.",
 		url = "https://discord.com/channels/610036506974748700/1056483735819796501",
 	},
-	[526] = {
+	[539] = {
 		name = "Elemeleek",
 		class = "SHAMAN",
 		guid = "Player-4465-02FB3C4D",
@@ -5420,7 +5550,7 @@ t.case_table = {
 		description = "1 Report - Called people slurs (hard r) in-game and on discord.",
 		url = "https://discord.com/channels/610036506974748700/1056483735819796501",
 	},
-	[527] = {
+	[540] = {
 		name = "Dcajuw",
 		class = "HUNTER",
 		guid = "Player-4465-040B018A",
@@ -5430,20 +5560,7 @@ t.case_table = {
 		description = "1 Report - Using homophobic slurs in-game.",
 		url = "https://discord.com/channels/610036506974748700/1057732225992499210",
 	},
-	[528] = {
-		name = "Jogge",
-		class = "DRUID",
-		guid = "Player-4465-041AF06B",
-		aliases = {
-			"Joggeg",
-		},
-		faction = "Horde",
-		level = 3,
-		category = "raid",
-		description = "3 Reports - Third time reported, ninja'd loot from naxxramas 25 man.",
-		url = "https://discord.com/channels/610036506974748700/1037492155557625867",
-	},
-	[529] = {
+	[541] = {
 		name = "Momis",
 		class = "HUNTER",
 		guid = "Player-4465-036D2FE7",
@@ -5457,7 +5574,20 @@ t.case_table = {
 		description = "3 Reports - Third time reported, ninja'd loot from naxxramas 25 man.",
 		url = "https://discord.com/channels/610036506974748700/1037492155557625867",
 	},
-	[530] = {
+	[542] = {
+		name = "Jogge",
+		class = "DRUID",
+		guid = "Player-4465-041AF06B",
+		aliases = {
+			"Joggeg",
+		},
+		faction = "Horde",
+		level = 3,
+		category = "raid",
+		description = "3 Reports - Third time reported, ninja'd loot from naxxramas 25 man.",
+		url = "https://discord.com/channels/610036506974748700/1037492155557625867",
+	},
+	[543] = {
 		name = "Roozbehhd",
 		class = "WARRIOR",
 		guid = "Player-4465-0300A24D",
