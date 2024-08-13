@@ -2058,9 +2058,12 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1189348027689861160",
 	},
 	[204] = {
-		name = "Supernene",
+		name = "Skyguardd",
 		class = "PALADIN",
 		guid = "Player-4465-045618C7",
+		aliases = {
+			"Supernene",
+		},
 		faction = "Horde",
 		level = 3,
 		category = "raid",
@@ -2088,9 +2091,12 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1189913782852526080",
 	},
 	[207] = {
-		name = "Lifestealerx",
+		name = "Skyguarrd",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-037001FF",
+		aliases = {
+			"Lifestealerx",
+		},
 		faction = "Horde",
 		level = 3,
 		category = "raid",
