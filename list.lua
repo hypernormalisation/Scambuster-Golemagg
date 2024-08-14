@@ -2561,9 +2561,12 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1175004431977300008",
 	},
 	[252] = {
-		name = "Yöinker",
+		name = "Frugasm",
 		class = "MAGE",
 		guid = "Player-4465-02F19912",
+		aliases = {
+			"Yöinker",
+		},
 		faction = "Horde",
 		level = 2,
 		category = "raid",
