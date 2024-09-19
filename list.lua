@@ -744,9 +744,12 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1257115885093785610",
 	},
 	[74] = {
-		name = "Soliks",
+		name = "Wieldersn",
 		class = "DEATHKNIGHT",
 		guid = "Player-4465-0495C117",
+		aliases = {
+			"Soliks",
+		},
 		faction = "Horde",
 		level = 2,
 		category = "raid",
@@ -4154,11 +4157,11 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1135944976342200402",
 	},
 	[407] = {
-		name = "Talixx",
+		name = "Rêt",
 		class = "PALADIN",
 		guid = "Player-4465-0417D181",
 		aliases = {
-			"Rêt",
+			"Talixx",
 		},
 		faction = "Horde",
 		level = 3,
