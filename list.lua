@@ -5342,9 +5342,12 @@ t.case_table = {
 		url = "https://discord.com/channels/610036506974748700/1080863862150135889",
 	},
 	[521] = {
-		name = "Kpoprules",
+		name = "Shawnmbadiwe",
 		class = "PALADIN",
 		guid = "Player-4465-02E1CC44",
+		aliases = {
+			"Kpoprules",
+		},
 		faction = "Horde",
 		level = 3,
 		category = "raid",
