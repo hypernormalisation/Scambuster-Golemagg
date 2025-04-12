@@ -54,7 +54,7 @@ t.case_table = {
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "3 Reports - Multiple reports for council ninja loot, abusive rules and a tendency to do rules he has not mentioned.",
+		description = "3 Reports - Multiple reports for shady rules with raid loot and ninja. Abusive rules and a tendency to invent new rules on the spot.",
 		url = "https://discord.com/channels/610036506974748700/1354197194579902627",
 	},
 	[6] = {
@@ -64,7 +64,7 @@ t.case_table = {
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "2 Reports - Multiple reports for council ninja loot, abusive rules and a tendency to do rules he has not mentioned.",
+		description = "2 Reports - Multiple reports for shady rules with raid loot and ninja. Abusive rules and a tendency to invent new rules on the spot.",
 		url = "https://discord.com/channels/610036506974748700/1354197194579902627",
 	},
 	[7] = {
@@ -77,7 +77,7 @@ t.case_table = {
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "2 Reports - Multiple reports for council ninja loot, abusive rules and a tendency to do rules he has not mentioned.",
+		description = "2 Reports - Multiple reports for shady rules with raid loot and ninja. Abusive rules and a tendency to invent new rules on the spot.",
 		url = "https://discord.com/channels/610036506974748700/1354197194579902627",
 	},
 	[8] = {
@@ -87,7 +87,7 @@ t.case_table = {
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "2 Reports - Multiple reports for council ninja loot, abusive rules and a tendency to do rules he has not mentioned.",
+		description = "2 Reports - Multiple reports for shady rules with raid loot and ninja. Abusive rules and a tendency to invent new rules on the spot.",
 		url = "https://discord.com/channels/610036506974748700/1354197194579902627",
 	},
 	[9] = {
@@ -97,7 +97,7 @@ t.case_table = {
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "2 Reports - Multiple reports for council ninja loot, abusive rules and a tendency to do rules he has not mentioned.",
+		description = "2 Reports - Multiple reports for shady rules with raid loot and ninja. Abusive rules and a tendency to invent new rules on the spot.",
 		url = "https://discord.com/channels/610036506974748700/1354197194579902627",
 	},
 	[10] = {
@@ -110,7 +110,7 @@ t.case_table = {
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "2 Reports - Multiple reports for council ninja loot, abusive rules and a tendency to do rules he has not mentioned.",
+		description = "2 Reports - Multiple reports for shady rules with raid loot and ninja. Abusive rules and a tendency to invent new rules on the spot.",
 		url = "https://discord.com/channels/610036506974748700/1354197194579902627",
 	},
 	[11] = {
@@ -120,7 +120,7 @@ t.case_table = {
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "3 Reports - Multiple reports for council ninja loot, abusive rules and a tendency to do rules he has not mentioned.",
+		description = "3 Reports - Multiple reports for shady rules with raid loot and ninja. Abusive rules and a tendency to invent new rules on the spot.",
 		url = "https://discord.com/channels/610036506974748700/1354197194579902627",
 	},
 	[12] = {
@@ -130,7 +130,7 @@ t.case_table = {
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "3 Reports - Multiple reports for council ninja loot, abusive rules and a tendency to do rules he has not mentioned.",
+		description = "3 Reports - Multiple reports for shady rules with raid loot and ninja. Abusive rules and a tendency to invent new rules on the spot.",
 		url = "https://discord.com/channels/610036506974748700/1354197194579902627",
 	},
 	[13] = {
@@ -140,7 +140,7 @@ t.case_table = {
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "3 Reports - Multiple reports for council ninja loot, abusive rules and a tendency to do rules he has not mentioned.",
+		description = "3 Reports - Multiple reports for shady rules with raid loot and ninja. Abusive rules and a tendency to invent new rules on the spot.",
 		url = "https://discord.com/channels/610036506974748700/1354197194579902627",
 	},
 	[14] = {
@@ -150,7 +150,7 @@ t.case_table = {
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "3 Reports - Multiple reports for council ninja loot, abusive rules and a tendency to do rules he has not mentioned.",
+		description = "3 Reports - Multiple reports for shady rules with raid loot and ninja. Abusive rules and a tendency to invent new rules on the spot.",
 		url = "https://discord.com/channels/610036506974748700/1354197194579902627",
 	},
 	[15] = {
@@ -160,7 +160,7 @@ t.case_table = {
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "3 Reports - Multiple reports for council ninja loot, abusive rules and a tendency to do rules he has not mentioned.",
+		description = "3 Reports - Multiple reports for shady rules with raid loot and ninja. Abusive rules and a tendency to invent new rules on the spot.",
 		url = "https://discord.com/channels/610036506974748700/1354197194579902627",
 	},
 	[16] = {
@@ -170,7 +170,7 @@ t.case_table = {
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "3 Reports - Multiple reports for council ninja loot, abusive rules and a tendency to do rules he has not mentioned.",
+		description = "3 Reports - Multiple reports for shady rules with raid loot and ninja. Abusive rules and a tendency to invent new rules on the spot.",
 		url = "https://discord.com/channels/610036506974748700/1354197194579902627",
 	},
 	[17] = {
@@ -180,7 +180,7 @@ t.case_table = {
 		faction = "Horde",
 		level = 3,
 		category = "raid",
-		description = "3 Reports - Multiple reports for council ninja loot, abusive rules and a tendency to do rules he has not mentioned.",
+		description = "3 Reports - Multiple reports for shady rules with raid loot and ninja. Abusive rules and a tendency to invent new rules on the spot.",
 		url = "https://discord.com/channels/610036506974748700/1354197194579902627",
 	},
 	[18] = {
